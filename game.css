@@ -589,5 +589,5 @@ hr {
 .game-start-btn.primary { background:#fff; color:#111522; }
 .game-start-btn:hover { transform:translateY(-1px); }
 .game-ad-970 { width:100%; display:flex; justify-content:center; overflow:hidden; margin:18px auto; min-height:90px; }
-#agario-cafe_970x250 { width:min(970px,100%); min-height:90px; display:flex; justify-content:center; align-items:center; overflow:hidden; }
+#fine-arts-lol_970x250 { width:min(970px,100%); min-height:90px; display:flex; justify-content:center; align-items:center; overflow:hidden; }
 @media (max-width: 700px) { .game-start-gate{padding:14px}.game-start-card{padding:24px 16px}.game-start-actions{flex-direction:column}.game-start-btn{width:100%}.game-ad-970{margin:12px auto;min-height:50px} }
