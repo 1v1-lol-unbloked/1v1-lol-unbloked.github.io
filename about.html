@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-EZM74395F2"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-EZM74395F2");
+    </script>
+<meta charset="utf-8"/>
+<meta content="width=device-width" name="viewport"/>
+<title class="cloak">About 1v1 LOL Unblocked</title>
+<link class="favicon" href="/media/drive.ico" rel="icon" type="image/x-icon"/>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<link href="games.css" rel="stylesheet"/>
+<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3519027922537529"></script>
+<meta content="Learn about 1v1 LOL Unblocked, an independent browser-game directory with hundreds of unblocked-style games and simple mobile-friendly access." name="description"/><link href="https://1v1-lol-unbloked.github.io/about.html" rel="canonical"/><meta content="About 1v1 LOL Unblocked" property="og:title"/><meta content="Learn about 1v1 LOL Unblocked, an independent browser-game directory with hundreds of unblocked-style games and simple mobile-friendly access." property="og:description"/><meta content="https://1v1-lol-unbloked.github.io/about.html" property="og:url"/><meta content="website" property="og:type"/></head>
+<body>
+<nav class="nav" id="nav">
+<div class="overflowm shoot" id="overflowm">
+<img alt="Menu" class="shoot" src="media/bars-solid.svg"/>
+</div>
+<a class="logo2" href="/" style="background-color: transparent">
+<img alt="1v1-lol-unbloked.github.io Logo" src="/media/logom.png"/>
+</a>
+<a class="nav-link" href="new.html">New</a>
+<a class="nav-link" href="trending.html">Trending</a>
+<a class="nav-link" href="recent.html">Recent</a>
+<a class="nav-link" href="/settings.html">Settings</a>
+<div class="right">
+</div>
+</nav>
+<div class="macsidebar" id="sidebar">
+<a href="/"><img alt="" src="/logom.png"/></a>
+<a href="/macideas/"><img alt="" src="/MacIdeas logom.png"/></a>
+<a href="/maclearn/"><img alt="" src="/MacLearn logom.png"/></a>
+<a href="/mactime/"><img alt="" src="/MacTime logom.png"/></a>
+<a href="/"><img alt="" src="/1v1-lol-unbloked.github.io logom.png"/></a>
+<a href="/macblog/"><img alt="" src="/MacBlog logom.png"/></a>
+</div>
+<div class="wrap" style="padding-bottom: 40px">
+<style>
+        #feedback {
+          color: white;
+          text-decoration: none;
+          position: absolute;
+          margin: none;
+          top: 4px;
+          right: 0px;
+          margin-inline: 10px;
+        }
+      </style>
+<header class="homeheader">
+<div class="title" name="Privacy Policy"><h1>Privacy Policy</h1></div>
+<div class="sub" style="
+            width: 65%;
+            margin-inline: 17.5%;
+            text-align: left;
+            line-height: 30px;
+          "><h1>About 1v1 LOL Unblocked</h1><p>1v1 LOL Unblocked is an independent browser-game directory focused on simple access to a large collection of online games. The site includes action, puzzle, driving, sports, casual, and strategy titles, with dedicated game pages that provide controls and gameplay information.</p><h2>Our Goal</h2><p>Our goal is to keep navigation fast and clear on desktops, Chromebooks, tablets, and phones. We organize games so visitors can search by name, browse categories, and open individual pages without unnecessary setup.</p><h2>Independent Website</h2><p>1v1 LOL Unblocked is not affiliated with Schoology, PowerSchool, game publishers, schools, or educational institutions. Trademarks and game names belong to their respective owners.</p></div>
+</header>
+<div class="ad-container">
+</div>
+</div>
+<footer class="footer">
+      © 2026 <a href="/">1v1-lol-unbloked.github.io</a>
+      All rights reserved<br/>
+      Have fun playing these unblocked fun games!🎮🎮🎮<br style="margin-bottom: 10px"/>
+</footer>
+<script src="app.js"></script>
+<script>
+      let newArray = [];
+      let everythingArray = [];
+      let data;
+      fetch("games.json")
+        .then((response) => response.json())
+        .then((dataa) => {
+          data = dataa.games;
+          for (var i = 0; i < data.length; i++) {
+            newArray.push(data[i]);
+          }
+          everythingArray = newArray;
+          const games = document.querySelectorAll(".game");
+          games.forEach((gamee) => {
+            everythingArray.forEach((game) => {
+              if (gamee.id.slice(4) == game.id) {
+                gamee.style.backgroundImage = `linear-gradient(
+        rgba(40, 40, 40, 0.2),
+        rgba(20, 20, 20, 0.9)
+      ),
+      url("${game.link + game.thumb}")`;
+              }
+            });
+            gamee.removeAttribute("href");
+            gamee.addEventListener("click", () => {
+              const params = new URLSearchParams({
+                target: gamee.id.slice(4),
+              });
+              window.location.href = `${newArray.find(g=>g.id===parseInt(gamee.id.slice(4)))?.slug || gamee.id.slice(4)}.html`;
+            });
+          });
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    </script>
+</body>
+</html>
