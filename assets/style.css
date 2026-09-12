@@ -251,3 +251,103 @@ footer .footer-seo-copy{
   .game-seo-content{padding:20px;margin-top:28px}
   .game-seo-content h2{font-size:21px}
 }
+
+
+/* v38: SEO article lives inside Overview; metadata is a horizontal row underneath */
+.details-grid{
+  grid-template-columns:minmax(0,1fr) !important;
+  gap:14px !important;
+}
+
+.details-grid > article:first-child{
+  width:100% !important;
+  max-width:none !important;
+}
+
+.overview-seo-article{
+  max-width:none !important;
+  margin:22px 0 0 !important;
+  padding:22px 0 0 !important;
+  border:0 !important;
+  border-top:1px solid var(--line) !important;
+  border-radius:0 !important;
+  background:transparent !important;
+}
+
+.overview-seo-article h2{
+  font-size:22px !important;
+  margin:24px 0 8px !important;
+}
+
+.overview-seo-article h2:first-child{
+  margin-top:0 !important;
+}
+
+.overview-seo-article p{
+  color:#b8c2d2 !important;
+  line-height:1.75 !important;
+  margin:0 !important;
+}
+
+.game-meta-row{
+  display:grid !important;
+  grid-template-columns:repeat(4,minmax(0,1fr)) !important;
+  gap:10px !important;
+  width:100% !important;
+  padding:12px !important;
+  margin:0 !important;
+  border:1px solid var(--line) !important;
+  border-radius:16px !important;
+  background:#0e1523 !important;
+}
+
+.game-meta-row > div{
+  min-width:0 !important;
+  padding:10px 12px !important;
+  border:0 !important;
+  border-right:1px solid var(--line) !important;
+}
+
+.game-meta-row > div:last-child{
+  border-right:0 !important;
+}
+
+.game-meta-row span,
+.game-meta-row strong{
+  display:block !important;
+}
+
+.game-meta-row span{
+  margin-bottom:4px !important;
+  font-size:10px !important;
+  text-transform:uppercase !important;
+  letter-spacing:.08em !important;
+  color:#7f8ba0 !important;
+}
+
+.game-meta-row strong{
+  font-size:13px !important;
+  line-height:1.35 !important;
+  color:#f1f5fb !important;
+  overflow-wrap:anywhere !important;
+}
+
+#controlsCard{
+  width:100% !important;
+}
+
+@media(max-width:720px){
+  .game-meta-row{
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+  }
+  .game-meta-row > div{
+    border-right:0 !important;
+  }
+  .overview-seo-article{
+    margin-top:18px !important;
+    padding-top:18px !important;
+  }
+  .overview-seo-article h2{
+    font-size:19px !important;
+  }
+}

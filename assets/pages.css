@@ -90,3 +90,88 @@
 .play-link{font-weight:850;color:var(--lime)}
 .premium-faq details{border-top:1px solid var(--line);padding:17px 0}.premium-faq summary{cursor:pointer;font-weight:800}
 @media(max-width:720px){.top-game-entry{grid-template-columns:42px 90px 1fr;gap:10px;padding:12px}.top-cover img{width:90px;height:90px}.top-copy h2{font-size:17px}.top-copy p{font-size:13px}.top-rank{font-size:19px}.editorial-intro,.editorial-feature,.premium-faq{padding:20px}}
+
+
+/* v39 CATEGORY/LISTING 970x250 AD — true viewport centered, never scaled */
+.page-hero .category-ad-fixed,
+.category-ad-fixed{
+  position:relative !important;
+  left:50% !important;
+  transform:translateX(-50%) !important;
+  box-sizing:border-box !important;
+
+  width:100vw !important;
+  max-width:none !important;
+  min-width:100vw !important;
+  height:250px !important;
+  min-height:250px !important;
+
+  margin:14px 0 16px !important;
+  padding:0 !important;
+
+  display:flex !important;
+  justify-content:center !important;
+  align-items:center !important;
+
+  text-align:center !important;
+  overflow:visible !important;
+}
+
+.page-hero .category-ad-fixed > #fine-arts-lol_970x250,
+.category-ad-fixed > #fine-arts-lol_970x250{
+  box-sizing:border-box !important;
+  display:block !important;
+  flex:0 0 970px !important;
+
+  width:970px !important;
+  min-width:970px !important;
+  max-width:970px !important;
+
+  height:250px !important;
+  min-height:250px !important;
+  max-height:250px !important;
+
+  margin:0 auto !important;
+  padding:0 !important;
+  text-align:center !important;
+  overflow:hidden !important;
+}
+
+.page-hero .category-ad-fixed > #fine-arts-lol_970x250 iframe,
+.category-ad-fixed > #fine-arts-lol_970x250 iframe{
+  display:block !important;
+  box-sizing:border-box !important;
+
+  width:970px !important;
+  min-width:970px !important;
+  max-width:970px !important;
+
+  height:250px !important;
+  min-height:250px !important;
+  max-height:250px !important;
+
+  margin:0 !important;
+  padding:0 !important;
+  border:0 !important;
+}
+
+/* 970px'den dar ekranda reklam küçülmez; yatay kaydırma alanı oluşur. */
+@media(max-width:969px){
+  .page-hero .category-ad-fixed,
+  .category-ad-fixed{
+    left:50% !important;
+    transform:translateX(-50%) !important;
+    width:100vw !important;
+    min-width:100vw !important;
+    justify-content:flex-start !important;
+    overflow-x:auto !important;
+    overflow-y:hidden !important;
+    -webkit-overflow-scrolling:touch;
+  }
+
+  .page-hero .category-ad-fixed > #fine-arts-lol_970x250,
+  .category-ad-fixed > #fine-arts-lol_970x250{
+    margin-left:max(0px, calc((100vw - 970px)/2)) !important;
+    margin-right:0 !important;
+  }
+}

@@ -111,3 +111,15 @@
   .related{padding-top:12px!important}
   .toolbar-actions button{min-height:40px}
 }
+
+
+/* v39 final category ad network override */
+.category-ad-fixed #fine-arts-lol_970x250,
+.category-ad-fixed #fine-arts-lol_970x250 iframe{
+  width:970px !important;
+  min-width:970px !important;
+  max-width:970px !important;
+  height:250px !important;
+  min-height:250px !important;
+  max-height:250px !important;
+}
