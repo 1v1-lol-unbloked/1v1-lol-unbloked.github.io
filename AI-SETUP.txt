@@ -1,0 +1,29 @@
+REAL OPENAI AI GAME FINDER SETUP
+================================
+
+The website already works without an API: it falls back to the local smart matcher.
+To enable real OpenAI recommendations, deploy ONE secure backend below and set its URL in assets/ai-config.js.
+
+OPTION A - YOUR PHP/CYBERPANEL SERVER
+1. Upload backend/php/game-ai.php to an HTTPS domain/subdomain you control.
+2. Configure OPENAI_API_KEY as a server environment variable. Do NOT paste the key into JavaScript or GitHub.
+3. Open assets/ai-config.js and set:
+   window.AI_GAME_FINDER_ENDPOINT = "https://YOUR-DOMAIN.com/game-ai.php";
+4. Upload the website to GitHub Pages.
+
+OPTION B - CLOUDFLARE WORKER
+1. Deploy backend/cloudflare-worker/worker.js.
+2. Add OPENAI_API_KEY as a Worker secret.
+3. Set assets/ai-config.js to your workers.dev URL.
+
+HOW IT WORKS
+- Browser locally preselects the 30 most relevant games from data/games.json.
+- Secure backend sends only those candidates + the user's request to OpenAI.
+- OpenAI returns up to 6 catalog IDs and short recommendation reasons.
+- Frontend rejects any ID not in the real catalog.
+- If the backend/OpenAI fails, the local matcher automatically takes over.
+
+SECURITY
+- Never commit OPENAI_API_KEY to GitHub.
+- Backend CORS currently allows only https://1v1-lol-unbloked.github.io
+- If the GitHub Pages URL changes, update the allowedOrigins/allowed set in the backend file.
