@@ -32,7 +32,7 @@
   pointer-events: none;
 }
 
-.ad-home { margin: 22px auto 28px; }
+.ad-home { margin: 0 auto 28px; }
 
 .start-actions {
   position: absolute;
@@ -48,15 +48,33 @@
 
 .start-actions .play-button { position: static; }
 .start-cover {
-  width: 180px;
-  height: 80px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
-  border-radius: 13px;
+  border-radius: 22px;
   border: 2px solid rgba(255,255,255,.22);
   background: var(--panel);
   box-shadow: 0 18px 45px rgba(0,0,0,.45);
 }
 .ad-player { max-height: min(250px, 31vh); }
+
+.toolbar-actions button {
+  min-height: 42px;
+  padding: 10px 14px;
+  color: #f7f9fc;
+  background: #1a2435;
+  border: 1px solid #3a4962;
+  box-shadow: 0 5px 15px rgba(0,0,0,.2);
+  transition: transform .2s, color .2s, background .2s, border-color .2s;
+}
+.toolbar-actions button:hover {
+  transform: translateY(-1px);
+  background: #243149;
+  border-color: var(--lime);
+}
+.toolbar-actions #favoriteButton { color: #ffe16b; }
+.toolbar-actions #newTabButton { color: var(--cyan); }
+.toolbar-actions #fullscreenButton { color: var(--lime); }
 
 @media (min-width: 721px) and (max-width: 1100px) {
   .start-actions { gap: 12px; padding: 14px; }
