@@ -41,3 +41,34 @@
   .ad-slot-center{margin:9px auto 11px}
   .ad-slot-center .ad-placeholder{min-height:90px}
 }
+
+
+/* v29: force category/listing ad slot perfectly centered */
+.page-hero .ad-slot-center{
+  display:block !important;
+  width:100% !important;
+  text-align:center !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
+.page-hero .ad-slot-center > .ad-placeholder,
+.page-hero #fine-arts-lol_970x250{
+  display:block !important;
+  width:970px !important;
+  max-width:100% !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+  text-align:center !important;
+}
+.page-hero #fine-arts-lol_970x250 > iframe,
+.page-hero #fine-arts-lol_970x250 iframe{
+  display:block !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+  max-width:100% !important;
+}
+@media(max-width:1000px){
+  .page-hero .ad-slot-center{
+    overflow-x:auto;
+  }
+}
