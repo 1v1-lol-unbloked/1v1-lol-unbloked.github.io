@@ -53,3 +53,38 @@
   .hero .search-row { flex-wrap: wrap; }
   .hero .search-row .stats { width: 100%; margin: 10px 0 0; }
 }
+
+/* Compact toolbar layout for search actions and site statistics */
+.hero .search-row .search { max-width: 440px; }
+.hero .search-row .primary { min-width: 166px; }
+.hero .search-row .stats {
+  height: 58px;
+  margin: 0;
+  padding: 0 6px;
+  gap: 0;
+  background: #101624;
+  border: 1px solid var(--line);
+  border-radius: 15px;
+}
+.hero .search-row .stats div {
+  min-width: 102px;
+  height: 34px;
+  padding: 0 14px;
+  align-items: center;
+  justify-content: center;
+  border-left: 1px solid var(--line);
+}
+.hero .search-row .stats div:first-child { border-left: 0; }
+.hero .search-row .stats strong { font-size: 17px; line-height: 1; }
+.hero .search-row .stats span { margin-top: 4px; font-size: 8px; }
+
+@media (max-width: 1100px) {
+  .hero .search-row .stats { margin-top: 10px; }
+}
+
+@media (max-width: 720px) {
+  .hero .search-row .primary { width: 100%; }
+  .hero .search-row .stats { width: 100%; height: 64px; }
+  .hero .search-row .stats div { min-width: 0; flex: 1; padding: 0 8px; border-left: 1px solid var(--line); }
+  .hero .search-row .stats div:first-child { border-left: 0; }
+}
