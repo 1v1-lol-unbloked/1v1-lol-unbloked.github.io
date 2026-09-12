@@ -14,19 +14,21 @@
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/style.css">
   <link rel="stylesheet" href="assets/home.css">
+  <link rel="stylesheet" href="assets/ads.css">
 </head>
 <body>
   <header class="site-header">
     <a class="brand" href="index.html"><img src="assets/logo.svg" alt="1v1 LOL Unblocked"><span>1v1 LOL Unblocked</span></a>
     <nav aria-label="Main navigation">
-      <a href="#games">Games</a><a href="#favorites">Favorites</a><a href="#about">About</a>
+      <a href="index.html#games">Games</a><a href="popular-games.html">Popular</a><a href="new-games.html">New</a><a href="about.html">About</a>
     </nav>
   </header>
 
   <main>
     <section class="hero">
       <div class="eyebrow">450 games • no installs</div>
-      <h1>1v1 LOL<br><span>Unblocked.</span></h1>
+      <h1 class="visually-hidden">1v1 LOL Unblocked Games</h1>
+      <div id="agario-cafe_970x250" class="ad-placeholder ad-home" aria-label="Advertisement"><script>try{aiptag.cmd.display.push(function(){aipDisplayTag.display('agario-cafe_970x250');});}catch(e){}</script></div>
       <p>Play 1v1 LOL Unblocked and discover hundreds of action, puzzle, sports, racing and casual browser games.</p>
       <div class="search-row">
         <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search 450 games…" autocomplete="off"></label>
@@ -37,7 +39,7 @@
 
     <section id="favorites" class="saved-section home-showcase" hidden><div class="section-head"><div><span class="kicker">Your list</span><h2>Favorites</h2></div></div><div id="favoriteGrid" class="game-grid"></div></section>
 
-    <section id="popular" class="saved-section home-showcase"><div class="section-head"><div><span class="kicker">Most played</span><h2>Popular Games</h2></div><a class="section-link" href="#games">View all games ↓</a></div><div id="popularGrid" class="game-grid"></div></section>
+    <section id="popular" class="saved-section home-showcase"><div class="section-head"><div><span class="kicker">Most played</span><h2>Popular Games</h2></div><a class="section-link" href="popular-games.html">View popular games →</a></div><div id="popularGrid" class="game-grid"></div></section>
 
     <section class="catalog" id="games">
       <div class="section-head"><div><span class="kicker">Explore</span><h2>All games</h2></div><span id="resultCount" class="result-count"></span></div>
@@ -53,7 +55,7 @@
     <section id="recent" class="saved-section" hidden><div class="section-head"><div><span class="kicker">Jump back in</span><h2>Recently played</h2></div></div><div id="recentGrid" class="game-grid compact"></div></section>
     <section id="about" class="about"><span class="kicker">About the site</span><h2>1v1 LOL Unblocked and 450 browser games</h2><p>1v1 LOL Unblocked is a lightweight, responsive catalog created for instant browser play. Explore action, adventure, strategy, puzzle, casual, driving and sports games without installing an app. The static HTML structure is optimized for GitHub Pages and works across desktop, tablet and mobile devices.</p></section>
   </main>
-  <footer><a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>1v1 LOL Unblocked</span></a><p>Game availability depends on third-party game hosts.</p><p><a href="LICENSE.txt">Open-source notice</a></p></footer>
+  <footer><a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>1v1 LOL Unblocked</span></a><div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy</a><a href="terms.html">Terms</a><a href="dmca.html">DMCA</a></div><p><a href="LICENSE.txt">Open-source notice</a></p></footer>
   <script src="assets/app.js" defer></script>
 </body>
 </html>
