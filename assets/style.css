@@ -123,3 +123,131 @@ footer .footer-seo-copy{
     margin-right:auto !important;
   }
 }
+
+
+/* v36 compact dedicated-game header */
+.game-main{
+  padding-top:8px !important;
+}
+
+.game-breadcrumb{
+  max-width:1180px !important;
+  margin:10px auto 6px !important;
+  font-size:11px !important;
+  line-height:1.25 !important;
+}
+
+.game-hero{
+  margin-top:0 !important;
+}
+
+.game-heading{
+  display:grid !important;
+  grid-template-columns:96px minmax(0,1fr) !important;
+  gap:14px !important;
+  align-items:center !important;
+  margin:0 0 10px !important;
+  min-height:96px !important;
+}
+
+.game-heading img{
+  width:96px !important;
+  height:96px !important;
+  border-radius:16px !important;
+  object-fit:cover !important;
+}
+
+.game-heading .kicker{
+  font-size:10px !important;
+  letter-spacing:.14em !important;
+  line-height:1.2 !important;
+}
+
+.game-heading h1{
+  font-size:clamp(25px,3.5vw,42px) !important;
+  line-height:1.02 !important;
+  margin:3px 0 5px !important;
+  letter-spacing:-.04em !important;
+}
+
+.game-heading p{
+  max-width:900px !important;
+  margin:0 !important;
+  font-size:14px !important;
+  line-height:1.45 !important;
+  display:-webkit-box !important;
+  -webkit-line-clamp:2 !important;
+  -webkit-box-orient:vertical !important;
+  overflow:hidden !important;
+}
+
+.toolbar-actions{
+  margin:4px 0 9px !important;
+  gap:8px !important;
+}
+
+.toolbar-actions button{
+  min-height:36px !important;
+  padding:8px 12px !important;
+  font-size:12px !important;
+}
+
+.game-page-ad{
+  margin:8px auto 9px !important;
+}
+
+.player-shell{
+  margin-top:8px !important;
+}
+
+@media(max-width:720px){
+  .game-breadcrumb{
+    margin:8px auto 5px !important;
+  }
+
+  .game-heading{
+    grid-template-columns:72px minmax(0,1fr) !important;
+    gap:10px !important;
+    min-height:72px !important;
+    margin-bottom:8px !important;
+  }
+
+  .game-heading img{
+    width:72px !important;
+    height:72px !important;
+    border-radius:13px !important;
+  }
+
+  .game-heading h1{
+    font-size:22px !important;
+    margin:2px 0 3px !important;
+  }
+
+  .game-heading p{
+    font-size:12px !important;
+    line-height:1.35 !important;
+    -webkit-line-clamp:2 !important;
+  }
+
+  .toolbar-actions{
+    margin-bottom:7px !important;
+  }
+}
+
+
+/* v37 article-only SEO block below exact game.html layout */
+.game-seo-content{
+  max-width:900px;
+  margin:42px auto 10px;
+  padding:30px;
+  border:1px solid var(--line);
+  border-radius:20px;
+  background:#0e1523;
+}
+.game-seo-content h2{font-size:25px;margin:28px 0 10px}
+.game-seo-content h2:first-child{margin-top:0}
+.game-seo-content p{color:#b8c2d2;line-height:1.8;margin:0}
+@media(max-width:720px){
+  .game-seo-content{padding:20px;margin-top:28px}
+  .game-seo-content h2{font-size:21px}
+}
