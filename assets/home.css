@@ -152,3 +152,50 @@
 .ai-results .card-text .ai-reason{display:block;margin-top:4px;font-size:9px;line-height:1.35;color:var(--muted);font-weight:500}
 .ai-input-row .primary:disabled{opacity:.65;cursor:wait}
 @media(max-width:720px){.hero{padding-bottom:4px!important}.search-row{margin-bottom:5px!important}.ai-finder{margin-top:4px!important;margin-bottom:3px!important}#popular.home-showcase{padding-top:5px!important;padding-bottom:4px!important}#popular + .catalog{padding-top:5px!important}}
+
+
+/* v26 homepage polish */
+.hero .search-row .search{
+  border-color:rgba(255,255,255,.13);
+  background:#0f1625;
+}
+.hero .search-row .search:focus-within{
+  border-color:rgba(157,255,99,.62);
+  box-shadow:0 0 0 3px rgba(157,255,99,.07);
+}
+.ai-finder{
+  border-color:rgba(255,255,255,.12);
+  box-shadow:0 14px 36px rgba(0,0,0,.12);
+}
+.ai-suggestions button{
+  color:#c0cada;
+  border-color:rgba(255,255,255,.10);
+}
+.ai-suggestions button:hover{
+  color:var(--lime);
+  border-color:rgba(157,255,99,.38);
+  background:rgba(157,255,99,.07);
+}
+
+/* v28 verified centered 970x250 advertising */
+.ad-slot-center{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:12px auto 14px;
+  overflow:hidden;
+}
+.ad-slot-center .ad-placeholder{
+  width:970px;
+  max-width:100%;
+  min-height:250px;
+  margin:0 auto;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+@media(max-width:720px){
+  .ad-slot-center{margin:9px auto 11px}
+  .ad-slot-center .ad-placeholder{min-height:90px}
+}

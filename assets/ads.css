@@ -92,3 +92,22 @@
   .start-cover { width: 120px; height: 54px; border-radius: 10px; }
   .ad-player { min-height: 70px; height: min(250px, 22vw); }
 }
+
+
+/* v26 game-page polish */
+.toolbar-actions button{
+  background:#182236;
+  border-color:rgba(255,255,255,.14);
+  box-shadow:0 5px 16px rgba(0,0,0,.16);
+}
+.toolbar-actions button:hover{
+  background:#202d44;
+  transform:translateY(-1px);
+}
+.related{
+  padding-top:18px!important;
+}
+@media(max-width:720px){
+  .related{padding-top:12px!important}
+  .toolbar-actions button{min-height:40px}
+}

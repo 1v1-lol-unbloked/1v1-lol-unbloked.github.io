@@ -8,3 +8,31 @@
 @media(max-width:720px){.game-main .related{padding-top:18px!important;padding-bottom:40px}.game-main .details-grid + .related{margin-top:-20px}}
 
 .category-ad-wrap{width:100%;display:flex;justify-content:center;align-items:center;margin:18px auto 0;overflow:hidden}.category-ad-wrap .ad-placeholder{width:min(970px,100%);min-height:250px;display:flex;justify-content:center;align-items:center}.footer-seo-copy{max-width:900px;margin:0 auto 18px;text-align:center;opacity:.8;line-height:1.6}@media(max-width:760px){.category-ad-wrap{margin-top:12px}.category-ad-wrap .ad-placeholder{min-height:100px}}
+
+
+/* v26 full-site polish */
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{
+  outline:2px solid var(--lime);
+  outline-offset:2px;
+}
+button,.primary,select{transition:background .2s,border-color .2s,color .2s,transform .2s}
+button:hover{border-color:#52617a}
+.primary:hover{background:#b1ff82;transform:translateY(-1px)}
+.game-card:focus-within .cover-wrap{border-color:rgba(157,255,99,.55)}
+.result-count,.back{color:#aab5c9}
+footer .footer-seo-copy{
+  grid-column:1 / -1;
+  width:100%;
+  max-width:900px;
+  justify-self:center;
+  margin:0 auto 4px;
+  color:#aab5c9;
+  font-size:12px;
+  line-height:1.7;
+  text-align:center;
+}
+@media(max-width:720px){
+  main{padding-left:16px;padding-right:16px}
+  .section-head{gap:14px}
+  .section-head h2{font-size:27px}
+}

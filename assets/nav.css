@@ -80,3 +80,56 @@ footer::after {
   footer > p { grid-column: 1; margin: 0; }
   footer::after { grid-column: 1; width: 100%; }
 }
+
+
+/* v26 visual audit: stronger navigation contrast and clearer interaction states */
+.site-header{
+  background:rgba(8,11,20,.97);
+  border-bottom-color:rgba(157,255,99,.24);
+  box-shadow:0 10px 32px rgba(0,0,0,.30);
+}
+.main-nav{gap:9px}
+.main-nav > a,.nav-dropdown > button{
+  color:#f1f5fb;
+  background:rgba(24,33,51,.88);
+  border-color:rgba(255,255,255,.12);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.025);
+}
+.main-nav > a:hover,.main-nav > a:focus-visible,
+.nav-dropdown > button:hover,.nav-dropdown > button:focus-visible{
+  color:var(--lime);
+  background:rgba(157,255,99,.11);
+  border-color:rgba(157,255,99,.42);
+  outline:none;
+}
+.site-header nav .active{
+  color:#071007!important;
+  background:var(--lime)!important;
+  border-color:var(--lime)!important;
+}
+.dropdown-menu{
+  background:#0d1422;
+  border-color:rgba(255,255,255,.13);
+}
+.dropdown-menu a{color:#d7dfed;font-weight:700}
+.dropdown-menu a:hover,.dropdown-menu a:focus-visible{
+  color:var(--lime);
+  background:rgba(157,255,99,.09);
+  outline:none;
+}
+@media(max-width:720px){
+  .site-header{padding-left:16px;padding-right:16px}
+  .site-header .main-nav{
+    gap:7px;
+    overflow-x:auto;
+    padding-bottom:2px;
+    scrollbar-width:none;
+    flex-wrap:nowrap;
+  }
+  .site-header .main-nav::-webkit-scrollbar{display:none}
+  .main-nav>a,.nav-dropdown>button{
+    flex:0 0 auto;
+    font-size:11px;
+    padding:9px 11px;
+  }
+}

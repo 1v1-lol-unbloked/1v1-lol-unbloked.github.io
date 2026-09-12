@@ -1,3 +1,43 @@
 .site-header nav .active{color:var(--lime)}.page-hero{padding:95px 0 55px;max-width:850px}.page-hero h1{font-size:clamp(52px,8vw,96px);line-height:.95;letter-spacing:-.06em;margin:15px 0 25px}.page-hero p{max-width:700px;color:var(--muted);line-height:1.8}.page-hero .search{display:flex;max-width:650px;margin-top:30px}.listing-section{padding:35px 0 90px}.listing-section .section-head h2{margin:0}.content-page{max-width:900px;padding-top:80px;padding-bottom:100px}.content-page h1{font-size:clamp(45px,7vw,76px);letter-spacing:-.055em;margin:14px 0 28px}.content-page h2{font-size:26px;margin:40px 0 14px}.content-page p,.content-page li{color:var(--muted);line-height:1.85}.content-page a{color:var(--lime)}.policy-date{color:var(--muted);font-size:12px;margin-bottom:35px}.footer-links{display:flex;flex-wrap:wrap;gap:18px}.contact-box{padding:28px;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);margin-top:30px}@media(max-width:720px){.page-hero{padding-top:65px}.content-page{padding-top:55px}footer .footer-links{gap:12px}}
 
 .category-ad-wrap{width:100%;display:flex;justify-content:center;align-items:center;margin:18px auto 0;overflow:hidden}.category-ad-wrap .ad-placeholder{width:min(970px,100%);min-height:250px;display:flex;justify-content:center;align-items:center}.footer-seo-copy{max-width:900px;margin:0 auto 18px;text-align:center;opacity:.8;line-height:1.6}@media(max-width:760px){.category-ad-wrap{margin-top:12px}.category-ad-wrap .ad-placeholder{min-height:100px}}
+
+
+/* v26 category/listing polish */
+.page-hero .search{
+  background:#0f1625;
+  border-color:rgba(255,255,255,.13);
+}
+.page-hero .search:focus-within{
+  border-color:rgba(157,255,99,.62);
+  box-shadow:0 0 0 3px rgba(157,255,99,.07);
+}
+.category-ad-wrap{margin-top:14px}
+.listing-section{padding-top:28px}
+@media(max-width:720px){
+  .page-hero{padding-bottom:38px}
+  .listing-section{padding-top:22px}
+}
+
+/* v28 verified centered 970x250 advertising */
+.ad-slot-center{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:12px auto 14px;
+  overflow:hidden;
+}
+.ad-slot-center .ad-placeholder{
+  width:970px;
+  max-width:100%;
+  min-height:250px;
+  margin:0 auto;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+@media(max-width:720px){
+  .ad-slot-center{margin:9px auto 11px}
+  .ad-slot-center .ad-placeholder{min-height:90px}
+}
