@@ -41,6 +41,17 @@
   color: var(--lime);
 }
 
+.catalog-intro {
+  margin: 25px 0 0;
+  padding: 22px 26px;
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.7;
+  background: linear-gradient(110deg, rgba(157,255,99,.08), rgba(72,214,255,.05));
+  border-left: 3px solid var(--lime);
+  border-radius: 0 14px 14px 0;
+}
+
 .hero-ad-row {
   display: grid;
   grid-template-columns: minmax(600px, 970px) minmax(350px, 1fr);
