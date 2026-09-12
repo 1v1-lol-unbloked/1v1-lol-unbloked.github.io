@@ -1,0 +1,21 @@
+.home-showcase {
+  padding: 38px 0;
+}
+
+.home-showcase + .home-showcase {
+  padding-top: 18px;
+}
+
+.section-link {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.section-link:hover {
+  color: var(--lime);
+}
+
+@media (max-width: 720px) {
+  .home-showcase { padding: 28px 0; }
+}

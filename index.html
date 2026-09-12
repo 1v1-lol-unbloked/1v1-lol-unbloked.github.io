@@ -13,6 +13,7 @@
   <meta name="theme-color" content="#080b14">
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/home.css">
 </head>
 <body>
   <header class="site-header">
@@ -34,6 +35,10 @@
       <div class="stats"><div><strong id="totalCount">450</strong><span>Games</span></div><div><strong>4</strong><span>Categories</span></div><div><strong>∞</strong><span>Good times</span></div></div>
     </section>
 
+    <section id="favorites" class="saved-section home-showcase" hidden><div class="section-head"><div><span class="kicker">Your list</span><h2>Favorites</h2></div></div><div id="favoriteGrid" class="game-grid"></div></section>
+
+    <section id="popular" class="saved-section home-showcase"><div class="section-head"><div><span class="kicker">Most played</span><h2>Popular Games</h2></div><a class="section-link" href="#games">View all games ↓</a></div><div id="popularGrid" class="game-grid"></div></section>
+
     <section class="catalog" id="games">
       <div class="section-head"><div><span class="kicker">Explore</span><h2>All games</h2></div><span id="resultCount" class="result-count"></span></div>
       <div class="controls">
@@ -45,7 +50,6 @@
       <button id="loadMore" class="load-more">Load more games</button>
     </section>
 
-    <section id="favorites" class="saved-section" hidden><div class="section-head"><div><span class="kicker">Your list</span><h2>Favorites</h2></div></div><div id="favoriteGrid" class="game-grid"></div></section>
     <section id="recent" class="saved-section" hidden><div class="section-head"><div><span class="kicker">Jump back in</span><h2>Recently played</h2></div></div><div id="recentGrid" class="game-grid compact"></div></section>
     <section id="about" class="about"><span class="kicker">About the site</span><h2>1v1 LOL Unblocked and 450 browser games</h2><p>1v1 LOL Unblocked is a lightweight, responsive catalog created for instant browser play. Explore action, adventure, strategy, puzzle, casual, driving and sports games without installing an app. The static HTML structure is optimized for GitHub Pages and works across desktop, tablet and mobile devices.</p></section>
   </main>
