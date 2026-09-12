@@ -31,6 +31,28 @@
         <button id="random" class="primary">Surprise me</button>
         <div class="stats"><div><strong id="totalCount">450</strong><span>Games</span></div><div><strong>4</strong><span>Categories</span></div><div><strong>∞</strong><span>Good times</span></div></div>
       </div>
+
+      <section class="ai-finder" aria-labelledby="aiFinderTitle">
+        <div class="ai-finder-copy">
+          <span class="kicker">AI Game Finder</span>
+          <h2 id="aiFinderTitle">Tell us what you want to play</h2>
+          <p>Try “a fast 2 player game”, “games like Slope”, “football unblocked”, or “easy racing game”.</p>
+        </div>
+        <div class="ai-finder-form">
+          <div class="ai-input-row">
+            <input id="aiPrompt" type="text" placeholder="What kind of game do you want?" autocomplete="off" aria-label="Describe the game you want">
+            <button id="aiFind" class="primary" type="button">Find games ✨</button>
+          </div>
+          <div class="ai-suggestions" aria-label="AI search examples">
+            <button type="button" data-ai-example="fast multiplayer shooting game">Multiplayer shooter</button>
+            <button type="button" data-ai-example="games like Slope">Like Slope</button>
+            <button type="button" data-ai-example="2 player sports game">2 player sports</button>
+            <button type="button" data-ai-example="easy racing game">Easy racing</button>
+          </div>
+          <div id="aiStatus" class="ai-status" aria-live="polite"></div>
+          <div id="aiResults" class="game-grid ai-results" hidden></div>
+        </div>
+      </section>
     </section>
 
     <section id="popular" class="saved-section home-showcase"><div class="section-head"><div><h2>Popular Games</h2></div><a class="section-link" href="popular-games.html">View popular games →</a></div><div id="popularGrid" class="game-grid"></div></section>
@@ -51,6 +73,6 @@
     <section id="about" class="about"><span class="kicker">About the site</span><h2>1v1 LOL Unblocked and 450 browser games</h2><p>1v1 LOL Unblocked is a lightweight, responsive catalog created for instant browser play. Explore action, adventure, strategy, puzzle, casual, driving and sports games without installing an app. The static HTML structure is optimized for GitHub Pages and works across desktop, tablet and mobile devices.</p></section>
   </main>
   <footer><a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>1v1 LOL Unblocked</span></a><div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy</a><a href="terms.html">Terms</a><a href="dmca.html">DMCA</a></div><p><a href="LICENSE.txt">Open-source notice</a></p></footer>
-  <script src="assets/app.js" defer></script>
+  <script src="assets/app.js" defer></script><script src="assets/ai-config.js" defer></script><script src="assets/ai-finder.js" defer></script>
 </body>
 </html>
