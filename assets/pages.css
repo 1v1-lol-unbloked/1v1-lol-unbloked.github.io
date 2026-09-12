@@ -72,3 +72,21 @@
     overflow-x:auto;
   }
 }
+
+/* v34 premium Top Unblocked editorial hub */
+.top-unblocked-page{max-width:1180px;margin:0 auto;padding:34px 20px 70px}
+.top-editorial-hero{text-align:center;max-width:900px;margin:24px auto 22px}
+.top-editorial-hero h1{font-size:clamp(42px,7vw,78px);letter-spacing:-.055em;margin:8px 0 14px}
+.top-editorial-hero .lead{font-size:17px;line-height:1.8;color:#b7c2d4}
+.editorial-intro,.editorial-feature,.premium-faq{max-width:900px;margin:34px auto;padding:30px;border:1px solid var(--line);border-radius:22px;background:#0d1421}
+.editorial-intro h2,.editorial-feature h2,.premium-faq h2{font-size:27px;margin:0 0 12px}
+.editorial-feature h2:not(:first-child){margin-top:28px}
+.editorial-intro p,.editorial-feature p,.premium-faq p{color:#b8c3d3;line-height:1.85}
+.top-game-list{display:grid;gap:14px;max-width:1000px;margin:28px auto}
+.top-game-entry{display:grid;grid-template-columns:64px 150px 1fr;gap:20px;align-items:center;padding:18px;border:1px solid var(--line);border-radius:20px;background:#0e1624}
+.top-rank{font-size:27px;font-weight:900;color:var(--lime);text-align:center}
+.top-cover img{width:150px;height:112px;object-fit:cover;border-radius:14px;display:block}
+.top-copy h2{margin:0 0 8px;font-size:23px}.top-copy h2 a{color:#f4f7fb}.top-copy p{margin:0 0 10px;color:#aeb9ca;line-height:1.65}
+.play-link{font-weight:850;color:var(--lime)}
+.premium-faq details{border-top:1px solid var(--line);padding:17px 0}.premium-faq summary{cursor:pointer;font-weight:800}
+@media(max-width:720px){.top-game-entry{grid-template-columns:42px 90px 1fr;gap:10px;padding:12px}.top-cover img{width:90px;height:90px}.top-copy h2{font-size:17px}.top-copy p{font-size:13px}.top-rank{font-size:19px}.editorial-intro,.editorial-feature,.premium-faq{padding:20px}}
