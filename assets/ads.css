@@ -32,7 +32,7 @@
   pointer-events: none;
 }
 
-.ad-home { margin: 22px 0 28px; }
+.ad-home { margin: 22px auto 28px; }
 
 .start-actions {
   position: absolute;
