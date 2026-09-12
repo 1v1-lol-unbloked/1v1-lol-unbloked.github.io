@@ -33,7 +33,7 @@
   }
 
   function card(g, reason=''){
-    return `<article class="game-card"><a href="game.html?id=${encodeURIComponent(g.id)}"><div class="cover-wrap"><img class="cover" src="${esc(g.link+g.thumb)}" alt="${esc(g.name)}" loading="lazy" onerror="this.src='assets/logo.svg'"></div><div class="card-text"><strong>${esc(g.name)}</strong>${reason?`<span class="ai-reason">${esc(reason)}</span>`:`<span>${esc(g.genre||g.category||'Game')}</span>`}</div></a></article>`;
+    return `<article class="game-card"><a href="games/${encodeURIComponent(g.slug)}.html"><div class="cover-wrap"><img class="cover" src="${esc(g.link+g.thumb)}" alt="${esc(g.name)}" loading="lazy" onerror="this.src='assets/logo.svg'"></div><div class="card-text"><strong>${esc(g.name)}</strong>${reason?`<span class="ai-reason">${esc(reason)}</span>`:`<span>${esc(g.genre||g.category||'Game')}</span>`}</div></a></article>`;
   }
 
   function localCandidates(raw, limit=30){

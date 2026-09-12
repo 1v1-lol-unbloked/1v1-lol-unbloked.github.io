@@ -36,3 +36,90 @@ footer .footer-seo-copy{
   .section-head{gap:14px}
   .section-head h2{font-size:27px}
 }
+
+/* v30 dedicated static game pages */
+.game-breadcrumb{max-width:1180px;margin:18px auto 10px;color:#98a5ba;font-size:12px}
+.game-breadcrumb a{color:#cbd5e5}.game-breadcrumb a:hover{color:var(--lime)}
+.game-heading{display:flex;align-items:center;gap:22px;margin:0 0 18px}
+.game-heading img{width:200px;height:200px;object-fit:cover;border-radius:22px;border:1px solid var(--line);background:#101624}
+.game-heading h1{font-size:clamp(30px,5vw,52px);margin:6px 0 8px;letter-spacing:-.045em}
+.game-heading p{max-width:760px;color:#aeb9ca;line-height:1.7}
+.game-seo-content{max-width:900px;margin:42px auto 18px;padding:30px;border:1px solid var(--line);border-radius:20px;background:#0e1523}
+.game-seo-content h2{font-size:25px;margin:28px 0 10px}.game-seo-content h2:first-child{margin-top:0}
+.game-seo-content h3{font-size:18px;margin:22px 0 9px}
+.game-seo-content p,.game-seo-content li{color:#b8c2d2;line-height:1.8}
+.game-seo-content ul{padding-left:20px}
+@media(max-width:720px){.game-heading{align-items:flex-start;gap:14px}.game-heading img{width:120px;height:120px;border-radius:16px}.game-seo-content{padding:20px}.game-breadcrumb{margin-top:12px}}
+
+.game-page-ad{width:100%;display:flex;justify-content:center;align-items:center;margin:12px auto 14px;overflow:hidden;text-align:center}
+.game-page-ad #fine-arts-lol_970x250{width:970px;max-width:100%;min-height:250px;margin:0 auto;text-align:center}
+.game-page-ad iframe{display:block;margin-left:auto!important;margin-right:auto!important;max-width:100%!important}
+@media(max-width:720px){.game-page-ad{margin:9px auto 11px}.game-page-ad #fine-arts-lol_970x250{min-height:90px}}
+
+
+/* v32 GLOBAL AD STANDARD
+   Every 970x250 Fine Arts ad is always centered and never rendered smaller than 970x250. */
+#fine-arts-lol_970x250,
+.ad-slot-center #fine-arts-lol_970x250,
+.category-ad-wrap #fine-arts-lol_970x250,
+.ad-home#fine-arts-lol_970x250,
+.game-page-ad #fine-arts-lol_970x250{
+  display:block !important;
+  width:970px !important;
+  min-width:970px !important;
+  max-width:970px !important;
+  height:250px !important;
+  min-height:250px !important;
+  max-height:250px !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+  text-align:center !important;
+  overflow:visible !important;
+  flex:0 0 970px !important;
+}
+
+.ad-slot-center,
+.category-ad-wrap,
+.hero .ad-home,
+.game-page-ad{
+  width:100% !important;
+  min-width:0 !important;
+  display:flex !important;
+  justify-content:center !important;
+  align-items:center !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+  text-align:center !important;
+  overflow-x:auto !important;
+  overflow-y:hidden !important;
+}
+
+#fine-arts-lol_970x250 iframe,
+.ad-slot-center iframe,
+.category-ad-wrap iframe,
+.game-page-ad iframe{
+  display:block !important;
+  width:970px !important;
+  min-width:970px !important;
+  max-width:970px !important;
+  height:250px !important;
+  min-height:250px !important;
+  max-height:250px !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
+
+@media(max-width:970px){
+  .ad-slot-center,
+  .category-ad-wrap,
+  .hero .ad-home,
+  .game-page-ad{
+    justify-content:flex-start !important;
+    overflow-x:auto !important;
+    -webkit-overflow-scrolling:touch;
+  }
+  #fine-arts-lol_970x250{
+    margin-left:auto !important;
+    margin-right:auto !important;
+  }
+}
