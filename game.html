@@ -7,13 +7,69 @@
   <link id="canonical" rel="canonical" href="https://1v1-lol-unbloked.github.io/game.html">
   <meta name="theme-color" content="#080b14"><link rel="icon" href="assets/logo.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/style.css"><link rel="stylesheet" href="assets/nav.css"><link rel="stylesheet" href="assets/ads.css">
 </head>
-<body class="game-body">
+<body class="game-body"><div id="preroll"></div>
+<script>
+	function getScript(src) {
+    var headElm = document.head || document.getElementsByTagName('head')[0];
+    var script = document.createElement("script");
+    var once = true;
+    script.async = "async";
+    script.type = "text/javascript";
+    script.charset = "UTF-8";
+    script.src = src;
+    script.onload = script.onreadystatechange = function() {
+        if (once && (!script.readyState || /loaded|complete/.test(script.readyState))) {
+            once = false;         
+            script.onload = script.onreadystatechange = null;
+			console.log("okeey");
+        }
+    };
+	  headElm.appendChild(script);
+}
+
+ 
+	getScript("https://api.adinplay.com/libs/aiptag/pub/HFZ/fine-arts.lol/tag.min.js");
+ 
+	window.aiptag = window.aiptag || {cmd: []};
+	aiptag.cmd.display = aiptag.cmd.display || [];
+	aiptag.cmd.player = aiptag.cmd.player || [];
+
+	//CMP tool settings
+	aiptag.cmp = {
+		show: true,
+		position: "centered",
+		button: true,
+		buttonText: "Privacy settings",
+		buttonPosition: "bottom-left"
+	}
+
+	aiptag.cmd.player.push(function() {
+		aiptag.adplayer = new aipPlayer({
+			AD_WIDTH: 960,
+			AD_HEIGHT: 540,
+			AD_DISPLAY: 'center',
+			LOADING_TEXT: 'loading advertisement',
+			PREROLL_ELEM: function(){return document.getElementById('preroll')},
+			AIP_COMPLETE: function (evt){ try{ if(window.__pr_cb){ window.__pr_cb(); } }catch(e){} finally{ window.__pr_cb=null; } },
+			AIP_REMOVE: function ()  {}
+		});
+	});
+
+	function show_preroll(callback) {
+		window.__pr_cb = (typeof callback === 'function') ? callback : null;
+		if (typeof aiptag.adplayer !== 'undefined') {
+			aiptag.cmd.player.push(function() { aiptag.adplayer.startPreRoll(); });
+		} else {
+			if (window.__pr_cb) { var cb = window.__pr_cb; window.__pr_cb = null; cb(); }
+		}
+	}
+</script>
   <header class="site-header"><a class="brand" href="index.html"><img src="assets/logo.svg" alt="1v1 LOL Unblocked"><span>1v1 LOL Unblocked</span></a><nav class="main-nav" aria-label="Main navigation"><a href="index.html">Games</a><a href="popular-games.html">Popular</a><a href="new-games.html">New</a><a href="favorite-games.html">Favorites</a><div class="nav-dropdown"><button type="button">Categories ▾</button><div class="dropdown-menu"><a href="action-games.html">Action &amp; Adventure</a><a href="strategy-games.html">Strategy &amp; Puzzle</a><a href="casual-games.html">Casual &amp; Idle</a><a href="driving-games.html">Driving &amp; Sports</a></div></div><div class="nav-dropdown"><button type="button">Information ▾</button><div class="dropdown-menu"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a><a href="dmca.html">DMCA</a></div></div></nav></header>
   <main class="game-main">
     <a class="back" href="index.html">← Back to games</a>
     <section id="gameShell" class="player-card">
       <div id="player" class="player">
-        <div id="startScreen" class="start-screen"><img id="cover" alt=""><div class="shade"></div><div class="start-actions"><img id="startCover" class="start-cover" alt=""><button id="playButton" class="play-button"><span>▶</span> Play now</button><div id="agario-cafe_970x250" class="ad-placeholder ad-player" aria-label="Advertisement"><script>try{aiptag.cmd.display.push(function(){aipDisplayTag.display('agario-cafe_970x250');});}catch(e){}</script></div></div></div>
+        <div id="startScreen" class="start-screen"><img id="cover" alt=""><div class="shade"></div><div class="start-actions"><img id="startCover" class="start-cover" alt=""><button id="playButton" class="play-button"><span>▶</span> Play now</button><div id="fine-arts-lol_970x250" class="ad-placeholder ad-player" aria-label="Advertisement"><script>try{aiptag.cmd.display.push(function(){aipDisplayTag.display('fine-arts-lol_970x250');});}catch(e){}</script></div></div></div>
         <iframe id="gameFrame" title="Game" allow="autoplay; fullscreen; gamepad; clipboard-read; clipboard-write" allowfullscreen></iframe>
       </div>
       <div class="player-toolbar"><div class="game-title"><img id="miniCover" alt=""><div><h1 id="gameName">Loading…</h1><span id="gameGenre"></span></div></div><div class="toolbar-actions"><button id="favoriteButton" title="Add to favorites">☆ <span>Favorite</span></button><button id="newTabButton">↗ <span>Open in new tab</span></button><button id="fullscreenButton">⛶ <span>Fullscreen</span></button></div></div>
