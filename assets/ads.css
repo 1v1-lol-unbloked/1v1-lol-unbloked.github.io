@@ -47,12 +47,28 @@
 }
 
 .start-actions .play-button { position: static; }
+.start-cover {
+  width: clamp(120px, 12vw, 170px);
+  height: clamp(120px, 12vw, 170px);
+  object-fit: cover;
+  border-radius: 22px;
+  border: 2px solid rgba(255,255,255,.22);
+  background: var(--panel);
+  box-shadow: 0 18px 45px rgba(0,0,0,.45);
+}
 .ad-player { max-height: min(250px, 31vh); }
+
+@media (min-width: 721px) and (max-width: 1100px) {
+  .start-actions { gap: 12px; padding: 14px; }
+  .start-cover { width: 110px; height: 110px; border-radius: 17px; }
+  .ad-player { height: 190px; }
+}
 
 @media (max-width: 720px) {
   .ad-placeholder { height: min(250px, 26vw); min-height: 90px; border-radius: 10px; }
   .ad-home { margin: 18px 0 24px; }
   .start-actions { gap: 10px; padding: 12px; }
   .start-actions .play-button { padding: 12px 18px; font-size: 14px; }
+  .start-cover { width: 86px; height: 86px; border-radius: 15px; }
   .ad-player { min-height: 70px; height: min(250px, 22vw); }
 }

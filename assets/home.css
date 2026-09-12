@@ -41,8 +41,31 @@
   color: var(--lime);
 }
 
+.hero-ad-row {
+  display: grid;
+  grid-template-columns: minmax(600px, 970px) minmax(350px, 1fr);
+  gap: 24px;
+  width: 100%;
+  margin: 22px 0 28px;
+  align-items: stretch;
+}
+
+.hero-ad-row .ad-home { margin: 0; width: 100%; }
+.hero-popular { height: 250px; padding: 15px; overflow: hidden; background: #101624; border: 1px solid var(--line); border-radius: 16px; }
+.hero-popular-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 11px; }
+.hero-popular-head h2 { margin: 3px 0 0; font-size: 18px; letter-spacing: -.03em; }
+.hero-popular-head a { display: grid; place-items: center; width: 30px; height: 30px; background: var(--panel2); border-radius: 9px; color: var(--lime); }
+.hero-popular .game-grid { grid-template-columns: repeat(3, minmax(0,1fr)); gap: 9px; }
+.hero-popular .cover-wrap { aspect-ratio: 16 / 9; border-radius: 9px; }
+.hero-popular .cover-wrap::after,.hero-popular .fav-dot { display: none; }
+.hero-popular .card-text { padding: 5px 1px 0; }
+.hero-popular .card-text strong { font-size: 9px; }
+.hero-popular .card-text span { display: none; }
+
 @media (max-width: 720px) {
   .home-showcase { padding: 28px 0; }
+  .hero-ad-row { grid-template-columns: 1fr; }
+  .hero-popular { height: auto; }
   .hero .search-row { align-items: stretch; }
   .hero .search-row .search { max-width: none; }
   .hero .search-row .stats { margin: 8px 0 0; justify-content: space-between; }
@@ -50,6 +73,9 @@
 }
 
 @media (min-width: 721px) and (max-width: 1100px) {
+  .hero-ad-row { grid-template-columns: 1fr; }
+  .hero-popular { height: auto; }
+  .hero-popular .game-grid { grid-template-columns: repeat(6,minmax(0,1fr)); }
   .hero .search-row { flex-wrap: wrap; }
   .hero .search-row .stats { width: 100%; margin: 10px 0 0; }
 }
