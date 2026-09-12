@@ -351,3 +351,11 @@ footer .footer-seo-copy{
     font-size:19px !important;
   }
 }
+\n\n/* v43 image/performance tuning */
+.cover-wrap{aspect-ratio:1/1;overflow:hidden}
+.game-card .cover{width:100%;height:100%;aspect-ratio:1/1;object-fit:cover}
+.game-card{content-visibility:auto;contain-intrinsic-size:0 390px}
+@media (min-width:900px){
+  #gameGrid .game-card:nth-child(n+25),
+  #listingGrid .game-card:nth-child(n+25){content-visibility:auto;contain-intrinsic-size:0 390px}
+}

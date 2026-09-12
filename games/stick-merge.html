@@ -19,7 +19,7 @@
 <link href="../assets/nav.css" rel="stylesheet"/>
 <link href="../assets/ads.css" rel="stylesheet"/>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoGame", "name": "Stick Merge", "url": "https://1v1-lol-unbloked.github.io/games/stick-merge.html", "description": "Play Stick Merge Unblocked online for free in your browser. View game details, controls, useful tips and popular related unblocked games.", "genre": "Shooting Games", "gamePlatform": "Web browser", "applicationCategory": "Game", "author": {"@type": "Organization", "name": "TinyDobbins"}}</script>
-</head>
+<link crossorigin="" href="https://macvg-games.github.io" rel="preconnect"/><link href="//macvg-games.github.io" rel="dns-prefetch"/></head>
 <body class="game-body">
 <div id="preroll"></div>
 <script>
@@ -62,10 +62,10 @@ function show_preroll(callback) {
 <a class="back" href="../">← Back to games</a>
 <section class="player-card" id="gameShell">
 <div class="player" id="player">
-<div class="start-screen" id="startScreen"><img alt="Stick Merge" id="cover" src="https://macvg-games.github.io/action-games/stick-merge/splash.png"/><div class="shade"></div><div class="start-actions"><img alt="Stick Merge" class="start-cover" id="startCover" src="https://macvg-games.github.io/action-games/stick-merge/splash.png"/><button class="play-button" id="playButton"><span>▶</span> Play now</button><div class="ad-slot-center"><div aria-label="Advertisement" class="ad-placeholder ad-player" id="fine-arts-lol_970x250"><script>try{aiptag.cmd.display.push(function(){aipDisplayTag.display('fine-arts-lol_970x250');});}catch(e){}</script></div></div></div></div>
+<div class="start-screen" id="startScreen"><img alt="Stick Merge" decoding="async" height="320" id="cover" src="https://macvg-games.github.io/action-games/stick-merge/splash.png" width="320"/><div class="shade"></div><div class="start-actions"><img alt="Stick Merge" class="start-cover" decoding="async" height="320" id="startCover" src="https://macvg-games.github.io/action-games/stick-merge/splash.png" width="320"/><button class="play-button" id="playButton"><span>▶</span> Play now</button><div class="ad-slot-center"><div aria-label="Advertisement" class="ad-placeholder ad-player" id="fine-arts-lol_970x250"><script>try{aiptag.cmd.display.push(function(){aipDisplayTag.display('fine-arts-lol_970x250');});}catch(e){}</script></div></div></div></div>
 <iframe allow="autoplay; fullscreen; gamepad; clipboard-read; clipboard-write" allowfullscreen="" data-src="https://macvg-games.github.io/action-games/stick-merge/" id="gameFrame" title="Stick Merge"></iframe>
 </div>
-<div class="player-toolbar"><div class="game-title"><img alt="Stick Merge" id="miniCover" src="https://macvg-games.github.io/action-games/stick-merge/splash.png"/><div><h1 id="gameName">Stick Merge</h1><span id="gameGenre">Shooting Games</span></div></div><div class="toolbar-actions"><button id="favoriteButton" title="Add to favorites">☆ <span>Favorite</span></button><button id="newTabButton">↗ <span>Open in new tab</span></button><button id="fullscreenButton">⛶ <span>Fullscreen</span></button></div></div>
+<div class="player-toolbar"><div class="game-title"><img alt="Stick Merge" decoding="async" height="56" id="miniCover" src="https://macvg-games.github.io/action-games/stick-merge/splash.png" width="56"/><div><h1 id="gameName">Stick Merge</h1><span id="gameGenre">Shooting Games</span></div></div><div class="toolbar-actions"><button id="favoriteButton" title="Add to favorites">☆ <span>Favorite</span></button><button id="newTabButton">↗ <span>Open in new tab</span></button><button id="fullscreenButton">⛶ <span>Fullscreen</span></button></div></div>
 </section>
 <section class="details-grid" id="details">
 <article><span class="kicker">Overview</span><h2 id="aboutTitle">About Stick Merge</h2><p id="aboutText">Play Stick Merge in your browser from its dedicated unblocked game page.</p><section aria-labelledby="seo-title" class="overview-seo-article">
@@ -79,7 +79,7 @@ function show_preroll(callback) {
 <h2>Find More Games Like Stick Merge</h2>
 <p>If you are looking for more games after Stick Merge, use the Popular Games section directly above this article or open the main Games catalog. You can also browse the Action &amp; Adventure collection for titles with a similar broad style.</p>
 </section></article><aside class="game-meta-row"><div><span>Category</span><strong id="category">Action &amp; Adventure</strong></div><div><span>Developer</span><strong id="developer">TinyDobbins</strong></div><div><span>Released</span><strong id="release">Unknown</strong></div><div><span>Technology</span><strong id="build">HTML5, JavaScript</strong></div></aside>
-<article hidden="" id="controlsCard"><span class="kicker">How to play</span><h2>Controls</h2><ul id="controlsList"></ul></article>
+
 </section>
 <section class="related"><div class="section-head"><div><h2>Popular Games</h2></div><a class="section-link" href="../popular-games.html">View all popular games →</a></div><div class="game-grid compact" id="relatedGrid"></div></section>
 </main>
@@ -99,7 +99,7 @@ const startGame=()=>{if(!frame.src)frame.src=frame.dataset.src;frame.style.displ
 document.getElementById('playButton').onclick=()=>show_preroll(startGame);
 document.getElementById('newTabButton').onclick=()=>show_preroll(()=>openBlankGame(GAME.link,GAME.name));
 document.getElementById('fullscreenButton').onclick=()=>document.fullscreenElement?document.exitFullscreen():document.getElementById('player').requestFullscreen();
-function card(x){return `<article class="game-card"><a href="${encodeURIComponent(x.slug)}.html"><div class="cover-wrap"><img class="cover" src="${esc(x.link+x.thumb)}" alt="${esc(x.name)}" loading="lazy" onerror="this.src='../assets/logo.svg'"></div><div class="card-text"><strong>${esc(x.name)}</strong><span>${esc(x.genre||x.category)}</span></div></a></article>`}
+function card(x){return `<article class="game-card"><a href="${encodeURIComponent(x.slug)}.html"><div class="cover-wrap"><img class="cover" src="${esc(x.localThumb?'../'+x.localThumb:x.link+x.thumb)}" alt="${esc(x.name)}" width="320" height="320" loading="lazy" decoding="async" fetchpriority="low" onerror="this.src='../assets/logo.svg'"></div><div class="card-text"><strong>${esc(x.name)}</strong><span>${esc(x.genre||x.category)}</span></div></a></article>`}
 fetch(ALL_GAMES_URL).then(r=>r.json()).then(d=>{document.getElementById('relatedGrid').innerHTML=d.games.filter(x=>x.id!==GAME.id).sort((a,b)=>popularity(b.popularity)-popularity(a.popularity)).slice(0,24).map(card).join('')}).catch(()=>{});
 </script>
 </body>
