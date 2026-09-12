@@ -24,7 +24,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "1v1-lol"
+      "slug": "1v1-lol",
+      "localThumb": "assets/game-covers/1v1-lol.webp"
     },
     {
       "id": 4,
@@ -45,7 +46,8 @@
         "Esc: Pause"
       ],
       "thumb": "splash.png",
-      "slug": "10-minutes-till-dawn"
+      "slug": "10-minutes-till-dawn",
+      "localThumb": "assets/game-covers/10-minutes-till-dawn.webp"
     },
     {
       "id": 332,
@@ -63,7 +65,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "adam-and-eve-5-part-1"
+      "slug": "adam-and-eve-5-part-1",
+      "localThumb": "assets/game-covers/adam-and-eve-5-part-1.webp"
     },
     {
       "id": 333,
@@ -81,7 +84,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "adam-and-eve-5-part-2"
+      "slug": "adam-and-eve-5-part-2",
+      "localThumb": "assets/game-covers/adam-and-eve-5-part-2.webp"
     },
     {
       "id": 10,
@@ -100,7 +104,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "a-dark-room"
+      "slug": "a-dark-room",
+      "localThumb": "assets/game-covers/a-dark-room.webp"
     },
     {
       "id": 14,
@@ -118,7 +123,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "alienhominid.jpg",
-      "slug": "alien-hominid"
+      "slug": "alien-hominid",
+      "localThumb": "assets/game-covers/alien-hominid.webp"
     },
     {
       "id": 15,
@@ -136,7 +142,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "amidst-the-clouds"
+      "slug": "amidst-the-clouds",
+      "localThumb": "assets/game-covers/amidst-the-clouds.webp"
     },
     {
       "id": 17,
@@ -154,7 +161,8 @@
         "Mouse: Swim"
       ],
       "thumb": "assets/favicon/icon-512x512.png",
-      "slug": "angry-sharks"
+      "slug": "angry-sharks",
+      "localThumb": "assets/game-covers/angry-sharks.webp"
     },
     {
       "id": 334,
@@ -173,7 +181,8 @@
         "Release: shoot"
       ],
       "thumb": "Untitled.jpg",
-      "slug": "apple-shooter"
+      "slug": "apple-shooter",
+      "localThumb": "assets/game-covers/apple-shooter.webp"
     },
     {
       "id": 338,
@@ -192,7 +201,8 @@
         "Drag: Move"
       ],
       "thumb": "logo.avif",
-      "slug": "arcane-archer"
+      "slug": "arcane-archer",
+      "localThumb": "assets/game-covers/arcane-archer.webp"
     },
     {
       "id": 19,
@@ -210,7 +220,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "avalanche.png",
-      "slug": "avalanche"
+      "slug": "avalanche",
+      "localThumb": "assets/game-covers/avalanche.webp"
     },
     {
       "id": 337,
@@ -231,7 +242,8 @@
         "Number Keys: Switch Weapons"
       ],
       "thumb": "logo.jpg",
-      "slug": "awesome-tanks-2"
+      "slug": "awesome-tanks-2",
+      "localThumb": "assets/game-covers/awesome-tanks-2.webp"
     },
     {
       "id": 20,
@@ -250,7 +262,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/splash.jpg",
-      "slug": "backrooms"
+      "slug": "backrooms",
+      "localThumb": "assets/game-covers/backrooms.webp"
     },
     {
       "id": 292,
@@ -268,7 +281,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Backrooms2D.png",
-      "slug": "backrooms-2d"
+      "slug": "backrooms-2d",
+      "localThumb": "assets/game-covers/backrooms-2d.webp"
     },
     {
       "id": 293,
@@ -286,7 +300,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "BaconMayDie.png",
-      "slug": "bacon-may-die"
+      "slug": "bacon-may-die",
+      "localThumb": "assets/game-covers/bacon-may-die.webp"
     },
     {
       "id": 32,
@@ -304,7 +319,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "blackknight.png",
-      "slug": "black-knight"
+      "slug": "black-knight",
+      "localThumb": "assets/game-covers/black-knight.webp"
     },
     {
       "id": 348,
@@ -325,7 +341,8 @@
         "R: Restart"
       ],
       "thumb": "logo.jpg",
-      "slug": "blumgi-slime"
+      "slug": "blumgi-slime",
+      "localThumb": "assets/game-covers/blumgi-slime.webp"
     },
     {
       "id": 36,
@@ -343,7 +360,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpeg",
-      "slug": "bob-the-robber-2"
+      "slug": "bob-the-robber-2",
+      "localThumb": "assets/game-covers/bob-the-robber-2.webp"
     },
     {
       "id": 367,
@@ -364,7 +382,8 @@
         "Enter: Drop Bomb (Player 2)"
       ],
       "thumb": "logo.jpg",
-      "slug": "bomb-it-7"
+      "slug": "bomb-it-7",
+      "localThumb": "assets/game-covers/bomb-it-7.webp"
     },
     {
       "id": 37,
@@ -382,7 +401,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "boxhead2play.jpg",
-      "slug": "box-head"
+      "slug": "box-head",
+      "localThumb": "assets/game-covers/box-head.webp"
     },
     {
       "id": 347,
@@ -400,7 +420,8 @@
         "Space Bar / Up Arrow / Click: Jump"
       ],
       "thumb": "logo.jpg",
-      "slug": "boxel-rebound"
+      "slug": "boxel-rebound",
+      "localThumb": "assets/game-covers/boxel-rebound.webp"
     },
     {
       "id": 46,
@@ -419,7 +440,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "champion-island"
+      "slug": "champion-island",
+      "localThumb": "assets/game-covers/champion-island.webp"
     },
     {
       "id": 47,
@@ -437,7 +459,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "championarcher.png",
-      "slug": "champion-archer"
+      "slug": "champion-archer",
+      "localThumb": "assets/game-covers/champion-archer.webp"
     },
     {
       "id": 55,
@@ -455,7 +478,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/craftmine.png",
-      "slug": "craftmine"
+      "slug": "craftmine",
+      "localThumb": "assets/game-covers/craftmine.webp"
     },
     {
       "id": 56,
@@ -474,7 +498,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "creativekillchamber.jpg",
-      "slug": "creative-kill-chamber"
+      "slug": "creative-kill-chamber",
+      "localThumb": "assets/game-covers/creative-kill-chamber.webp"
     },
     {
       "id": 62,
@@ -493,7 +518,8 @@
       ],
       "thumb": "assets/unnamed.png",
       "download": true,
-      "slug": "cubefield"
+      "slug": "cubefield",
+      "localThumb": "assets/game-covers/cubefield.webp"
     },
     {
       "id": 64,
@@ -513,7 +539,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "dante"
+      "slug": "dante",
+      "localThumb": "assets/game-covers/dante.webp"
     },
     {
       "id": 355,
@@ -533,7 +560,8 @@
         "Click: Shoot"
       ],
       "thumb": "thumb.png",
-      "slug": "dead-again"
+      "slug": "dead-again",
+      "localThumb": "assets/game-covers/dead-again.webp"
     },
     {
       "id": 66,
@@ -551,7 +579,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/death.png",
-      "slug": "death-run-3d"
+      "slug": "death-run-3d",
+      "localThumb": "assets/game-covers/death-run-3d.webp"
     },
     {
       "id": 67,
@@ -569,7 +598,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/splash.jpg",
-      "slug": "defend-the-tank"
+      "slug": "defend-the-tank",
+      "localThumb": "assets/game-covers/defend-the-tank.webp"
     },
     {
       "id": 296,
@@ -588,7 +618,8 @@
       ],
       "thumb": "Dodge.png",
       "download": true,
-      "slug": "dodge"
+      "slug": "dodge",
+      "localThumb": "assets/game-covers/dodge.webp"
     },
     {
       "id": 368,
@@ -607,7 +638,8 @@
         "Right Arrow / Click Right: Go Right"
       ],
       "thumb": "logo.jpg",
-      "slug": "down-the-hill"
+      "slug": "down-the-hill",
+      "localThumb": "assets/game-covers/down-the-hill.webp"
     },
     {
       "id": 73,
@@ -625,7 +657,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon.jpg",
-      "slug": "dragon-vs-bricks"
+      "slug": "dragon-vs-bricks",
+      "localThumb": "assets/game-covers/dragon-vs-bricks.webp"
     },
     {
       "id": 84,
@@ -643,7 +676,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "endlesswar3.png",
-      "slug": "endless-war-3"
+      "slug": "endless-war-3",
+      "localThumb": "assets/game-covers/endless-war-3.webp"
     },
     {
       "id": 86,
@@ -662,7 +696,8 @@
       ],
       "thumb": "evil.png",
       "download": true,
-      "slug": "evil-glitch"
+      "slug": "evil-glitch",
+      "localThumb": "assets/game-covers/evil-glitch.webp"
     },
     {
       "id": 90,
@@ -680,7 +715,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "fancypantsadventure.png",
-      "slug": "fancy-pants-adventures"
+      "slug": "fancy-pants-adventures",
+      "localThumb": "assets/game-covers/fancy-pants-adventures.webp"
     },
     {
       "id": 92,
@@ -699,7 +735,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpeg",
-      "slug": "fireboy-and-watergirl"
+      "slug": "fireboy-and-watergirl",
+      "localThumb": "assets/game-covers/fireboy-and-watergirl.webp"
     },
     {
       "id": 373,
@@ -717,7 +754,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "five-nights-at-freddy-s"
+      "slug": "five-nights-at-freddy-s",
+      "localThumb": "assets/game-covers/five-nights-at-freddy-s.webp"
     },
     {
       "id": 97,
@@ -735,7 +773,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "five-nights-at-winston-s"
+      "slug": "five-nights-at-winston-s",
+      "localThumb": "assets/game-covers/five-nights-at-winston-s.webp"
     },
     {
       "id": 99,
@@ -753,7 +792,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "froggy-s-battle"
+      "slug": "froggy-s-battle",
+      "localThumb": "assets/game-covers/froggy-s-battle.webp"
     },
     {
       "id": 101,
@@ -771,7 +811,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "frying-nemo"
+      "slug": "frying-nemo",
+      "localThumb": "assets/game-covers/frying-nemo.webp"
     },
     {
       "id": 290,
@@ -790,7 +831,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "slug": "funny-shooter-2"
+      "slug": "funny-shooter-2",
+      "localThumb": "assets/game-covers/funny-shooter-2.webp"
     },
     {
       "id": 103,
@@ -808,7 +850,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "generic-fishing-game"
+      "slug": "generic-fishing-game",
+      "localThumb": "assets/game-covers/generic-fishing-game.webp"
     },
     {
       "id": 377,
@@ -826,7 +869,8 @@
         "Click: Jump"
       ],
       "thumb": "logo.jpg",
-      "slug": "geometry-dash-classic"
+      "slug": "geometry-dash-classic",
+      "localThumb": "assets/game-covers/geometry-dash-classic.webp"
     },
     {
       "id": 104,
@@ -846,7 +890,8 @@
       "thumb": "geoscratchicon.png",
       "download": true,
       "trending": 55399,
-      "slug": "geometry-dash-scratch"
+      "slug": "geometry-dash-scratch",
+      "localThumb": "assets/game-covers/geometry-dash-scratch.webp"
     },
     {
       "id": 106,
@@ -865,7 +910,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/images.jpg",
-      "slug": "getaway-shootout"
+      "slug": "getaway-shootout",
+      "localThumb": "assets/game-covers/getaway-shootout.webp"
     },
     {
       "id": 107,
@@ -883,7 +929,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/logo.png",
-      "slug": "gimme-the-airpod"
+      "slug": "gimme-the-airpod",
+      "localThumb": "assets/game-covers/gimme-the-airpod.webp"
     },
     {
       "id": 379,
@@ -905,7 +952,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "logo.jpg",
-      "slug": "gobdun"
+      "slug": "gobdun",
+      "localThumb": "assets/game-covers/gobdun.webp"
     },
     {
       "id": 110,
@@ -923,7 +971,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "goodnight.jpg",
-      "slug": "goodnight"
+      "slug": "goodnight",
+      "localThumb": "assets/game-covers/goodnight.webp"
     },
     {
       "id": 381,
@@ -941,7 +990,8 @@
         "Click: Change Direction"
       ],
       "thumb": "logo.jpg",
-      "slug": "groovy-ski"
+      "slug": "groovy-ski",
+      "localThumb": "assets/game-covers/groovy-ski.webp"
     },
     {
       "id": 382,
@@ -960,7 +1010,8 @@
         "Esc: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "g-switch"
+      "slug": "g-switch",
+      "localThumb": "assets/game-covers/g-switch.webp"
     },
     {
       "id": 383,
@@ -979,7 +1030,8 @@
         "Esc: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "g-switch-2"
+      "slug": "g-switch-2",
+      "localThumb": "assets/game-covers/g-switch-2.webp"
     },
     {
       "id": 384,
@@ -998,7 +1050,8 @@
         "Esc: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "g-switch-3"
+      "slug": "g-switch-3",
+      "localThumb": "assets/game-covers/g-switch-3.webp"
     },
     {
       "id": 120,
@@ -1016,7 +1069,8 @@
         "Click: Fly Up"
       ],
       "thumb": "helicopter.png",
-      "slug": "helicopter"
+      "slug": "helicopter",
+      "localThumb": "assets/game-covers/helicopter.webp"
     },
     {
       "id": 390,
@@ -1035,7 +1089,8 @@
         "Drop: Hide"
       ],
       "thumb": "logo.jpg",
-      "slug": "hide-and-smash"
+      "slug": "hide-and-smash",
+      "localThumb": "assets/game-covers/hide-and-smash.webp"
     },
     {
       "id": 124,
@@ -1053,7 +1108,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "hungry-lamu"
+      "slug": "hungry-lamu",
+      "localThumb": "assets/game-covers/hungry-lamu.webp"
     },
     {
       "id": 336,
@@ -1075,7 +1131,8 @@
         "Note: WASD keys and dragging also work"
       ],
       "thumb": "logo.avif",
-      "slug": "inifnite-soccer"
+      "slug": "inifnite-soccer",
+      "localThumb": "assets/game-covers/inifnite-soccer.webp"
     },
     {
       "id": 304,
@@ -1093,7 +1150,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "IronSnout.png",
-      "slug": "iron-snout"
+      "slug": "iron-snout",
+      "localThumb": "assets/game-covers/iron-snout.webp"
     },
     {
       "id": 129,
@@ -1111,7 +1169,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "jetpack-joyride"
+      "slug": "jetpack-joyride",
+      "localThumb": "assets/game-covers/jetpack-joyride.webp"
     },
     {
       "id": 130,
@@ -1129,7 +1188,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "unnamed.png",
-      "slug": "justfall-lol"
+      "slug": "justfall-lol",
+      "localThumb": "assets/game-covers/justfall-lol.webp"
     },
     {
       "id": 132,
@@ -1147,7 +1207,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "kitchen-gun-game"
+      "slug": "kitchen-gun-game",
+      "localThumb": "assets/game-covers/kitchen-gun-game.webp"
     },
     {
       "id": 134,
@@ -1165,7 +1226,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "512x512.jpg",
-      "slug": "knife-master"
+      "slug": "knife-master",
+      "localThumb": "assets/game-covers/knife-master.webp"
     },
     {
       "id": 140,
@@ -1184,7 +1246,8 @@
       ],
       "thumb": "Theme/Mario.gif",
       "download": true,
-      "slug": "mario"
+      "slug": "mario",
+      "localThumb": "assets/game-covers/mario.webp"
     },
     {
       "id": 305,
@@ -1202,7 +1265,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "NewSuperMarioBros.png",
-      "slug": "mario-bros"
+      "slug": "mario-bros",
+      "localThumb": "assets/game-covers/mario-bros.webp"
     },
     {
       "id": 142,
@@ -1220,7 +1284,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "matrixrampage.jpg",
-      "slug": "matrix-rampage"
+      "slug": "matrix-rampage",
+      "localThumb": "assets/game-covers/matrix-rampage.webp"
     },
     {
       "id": 145,
@@ -1238,7 +1303,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "mine-blocks"
+      "slug": "mine-blocks",
+      "localThumb": "assets/game-covers/mine-blocks.webp"
     },
     {
       "id": 146,
@@ -1257,7 +1323,8 @@
       ],
       "thumb": "splash.jpeg",
       "trending": 49660,
-      "slug": "minecraft-1-5"
+      "slug": "minecraft-1-5",
+      "localThumb": "assets/game-covers/minecraft-1-5.webp"
     },
     {
       "id": 147,
@@ -1276,7 +1343,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "minecraft-1-8"
+      "slug": "minecraft-1-8",
+      "localThumb": "assets/game-covers/minecraft-1-8.webp"
     },
     {
       "id": 148,
@@ -1294,7 +1362,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "pack.png",
-      "slug": "minecraft-classic"
+      "slug": "minecraft-classic",
+      "localThumb": "assets/game-covers/minecraft-classic.webp"
     },
     {
       "id": 149,
@@ -1312,7 +1381,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bg_main.png",
-      "slug": "minecraft-classic-hacks"
+      "slug": "minecraft-classic-hacks",
+      "localThumb": "assets/game-covers/minecraft-classic-hacks.webp"
     },
     {
       "id": 152,
@@ -1331,7 +1401,8 @@
       ],
       "thumb": "miss.png",
       "download": true,
-      "slug": "missiles"
+      "slug": "missiles",
+      "localThumb": "assets/game-covers/missiles.webp"
     },
     {
       "id": 153,
@@ -1350,7 +1421,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "moto-x3m"
+      "slug": "moto-x3m",
+      "localThumb": "assets/game-covers/moto-x3m.webp"
     },
     {
       "id": 154,
@@ -1368,7 +1440,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "moto-x3m-2"
+      "slug": "moto-x3m-2",
+      "localThumb": "assets/game-covers/moto-x3m-2.webp"
     },
     {
       "id": 155,
@@ -1386,7 +1459,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "moto-x3m-pool"
+      "slug": "moto-x3m-pool",
+      "localThumb": "assets/game-covers/moto-x3m-pool.webp"
     },
     {
       "id": 156,
@@ -1404,7 +1478,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpeg",
-      "slug": "moto-x3m-spooky"
+      "slug": "moto-x3m-spooky",
+      "localThumb": "assets/game-covers/moto-x3m-spooky.webp"
     },
     {
       "id": 157,
@@ -1422,7 +1497,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "download.jpeg",
-      "slug": "moto-x3m-winter"
+      "slug": "moto-x3m-winter",
+      "localThumb": "assets/game-covers/moto-x3m-winter.webp"
     },
     {
       "id": 159,
@@ -1441,7 +1517,8 @@
       ],
       "thumb": "bot.png",
       "download": true,
-      "slug": "n-gon"
+      "slug": "n-gon",
+      "localThumb": "assets/game-covers/n-gon.webp"
     },
     {
       "id": 161,
@@ -1460,7 +1537,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "ninja-vs-evil-corp"
+      "slug": "ninja-vs-evil-corp",
+      "localThumb": "assets/game-covers/ninja-vs-evil-corp.webp"
     },
     {
       "id": 163,
@@ -1479,7 +1557,8 @@
       ],
       "thumb": "favicon.png",
       "download": true,
-      "slug": "ns-shaft"
+      "slug": "ns-shaft",
+      "localThumb": "assets/game-covers/ns-shaft.webp"
     },
     {
       "id": 164,
@@ -1497,7 +1576,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "assets/icon.jpeg",
-      "slug": "offline-paradise"
+      "slug": "offline-paradise",
+      "localThumb": "assets/game-covers/offline-paradise.webp"
     },
     {
       "id": 165,
@@ -1515,7 +1595,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "assets/icon.jpeg",
-      "slug": "om-nom-bounce"
+      "slug": "om-nom-bounce",
+      "localThumb": "assets/game-covers/om-nom-bounce.webp"
     },
     {
       "id": 308,
@@ -1533,7 +1614,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "PaperMinecraft.png",
-      "slug": "paper-minecraft"
+      "slug": "paper-minecraft",
+      "localThumb": "assets/game-covers/paper-minecraft.webp"
     },
     {
       "id": 309,
@@ -1552,7 +1634,8 @@
       ],
       "thumb": "PCraft.png",
       "download": true,
-      "slug": "p-craft"
+      "slug": "p-craft",
+      "localThumb": "assets/game-covers/p-craft.webp"
     },
     {
       "id": 171,
@@ -1570,7 +1653,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "papery-planes"
+      "slug": "papery-planes",
+      "localThumb": "assets/game-covers/papery-planes.webp"
     },
     {
       "id": 173,
@@ -1588,7 +1672,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "512x512.png",
-      "slug": "pixel-gun-survival"
+      "slug": "pixel-gun-survival",
+      "localThumb": "assets/game-covers/pixel-gun-survival.webp"
     },
     {
       "id": 174,
@@ -1606,7 +1691,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/pic1.png",
-      "slug": "polybranch"
+      "slug": "polybranch",
+      "localThumb": "assets/game-covers/polybranch.webp"
     },
     {
       "id": 178,
@@ -1624,7 +1710,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "protektor"
+      "slug": "protektor",
+      "localThumb": "assets/game-covers/protektor.webp"
     },
     {
       "id": 192,
@@ -1643,7 +1730,8 @@
       ],
       "thumb": "icon.png",
       "download": true,
-      "slug": "rolling-forests"
+      "slug": "rolling-forests",
+      "localThumb": "assets/game-covers/rolling-forests.webp"
     },
     {
       "id": 193,
@@ -1661,7 +1749,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon-256.png",
-      "slug": "rolly-vortex"
+      "slug": "rolly-vortex",
+      "localThumb": "assets/game-covers/rolly-vortex.webp"
     },
     {
       "id": 194,
@@ -1679,7 +1768,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/thumb.png",
-      "slug": "rooftop-snipers"
+      "slug": "rooftop-snipers",
+      "localThumb": "assets/game-covers/rooftop-snipers.webp"
     },
     {
       "id": 201,
@@ -1698,7 +1788,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "shuttledeck"
+      "slug": "shuttledeck",
+      "localThumb": "assets/game-covers/shuttledeck.webp"
     },
     {
       "id": 370,
@@ -1726,7 +1817,8 @@
         "Tab: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "skibidi-strike"
+      "slug": "skibidi-strike",
+      "localThumb": "assets/game-covers/skibidi-strike.webp"
     },
     {
       "id": 205,
@@ -1748,7 +1840,8 @@
       ],
       "thumb": "slope4.jpeg",
       "trending": 58804,
-      "slug": "slope"
+      "slug": "slope",
+      "localThumb": "assets/game-covers/slope.webp"
     },
     {
       "id": 206,
@@ -1766,7 +1859,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "slope-2-logo.png",
-      "slug": "slope-2"
+      "slug": "slope-2",
+      "localThumb": "assets/game-covers/slope-2.webp"
     },
     {
       "id": 207,
@@ -1784,7 +1878,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "slope-ball"
+      "slug": "slope-ball",
+      "localThumb": "assets/game-covers/slope-ball.webp"
     },
     {
       "id": 208,
@@ -1802,7 +1897,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "super-mario-64"
+      "slug": "super-mario-64",
+      "localThumb": "assets/game-covers/super-mario-64.webp"
     },
     {
       "id": 210,
@@ -1820,7 +1916,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "smokingbarrels.jpg",
-      "slug": "smoking-barrels"
+      "slug": "smoking-barrels",
+      "localThumb": "assets/game-covers/smoking-barrels.webp"
     },
     {
       "id": 322,
@@ -1838,7 +1935,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "snow-rider-3d"
+      "slug": "snow-rider-3d",
+      "localThumb": "assets/game-covers/snow-rider-3d.webp"
     },
     {
       "id": 214,
@@ -1856,7 +1954,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/splash.jpeg",
-      "slug": "soldier-legend"
+      "slug": "soldier-legend",
+      "localThumb": "assets/game-covers/soldier-legend.webp"
     },
     {
       "id": 219,
@@ -1875,7 +1974,8 @@
       ],
       "thumb": "spl.png",
       "download": true,
-      "slug": "space-garden"
+      "slug": "space-garden",
+      "localThumb": "assets/game-covers/space-garden.webp"
     },
     {
       "id": 220,
@@ -1894,7 +1994,8 @@
       ],
       "thumb": "stack.png",
       "download": true,
-      "slug": "stack"
+      "slug": "stack",
+      "localThumb": "assets/game-covers/stack.webp"
     },
     {
       "id": 221,
@@ -1912,7 +2013,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumbnail.jpg",
-      "slug": "stack-bump-3d"
+      "slug": "stack-bump-3d",
+      "localThumb": "assets/game-covers/stack-bump-3d.webp"
     },
     {
       "id": 223,
@@ -1930,7 +2032,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "75wxYs.png",
-      "slug": "station-141"
+      "slug": "station-141",
+      "localThumb": "assets/game-covers/station-141.webp"
     },
     {
       "id": 225,
@@ -1948,7 +2051,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "stick-archers"
+      "slug": "stick-archers",
+      "localThumb": "assets/game-covers/stick-archers.webp"
     },
     {
       "id": 226,
@@ -1966,7 +2070,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "512x512.jpg",
-      "slug": "stick-duel-battle"
+      "slug": "stick-duel-battle",
+      "localThumb": "assets/game-covers/stick-duel-battle.webp"
     },
     {
       "id": 227,
@@ -1984,7 +2089,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "stick-merge"
+      "slug": "stick-merge",
+      "localThumb": "assets/game-covers/stick-merge.webp"
     },
     {
       "id": 228,
@@ -2002,7 +2108,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "base/img1.jpg",
-      "slug": "stickman-boost"
+      "slug": "stickman-boost",
+      "localThumb": "assets/game-covers/stickman-boost.webp"
     },
     {
       "id": 234,
@@ -2025,7 +2132,8 @@
         "Esc: Pause"
       ],
       "thumb": "img/splash.jpg",
-      "slug": "subway-surfers"
+      "slug": "subway-surfers",
+      "localThumb": "assets/game-covers/subway-surfers.webp"
     },
     {
       "id": 235,
@@ -2048,7 +2156,8 @@
         "Esc: Pause"
       ],
       "thumb": "NewYorkIcon.png",
-      "slug": "subway-surfers-new-york"
+      "slug": "subway-surfers-new-york",
+      "localThumb": "assets/game-covers/subway-surfers-new-york.webp"
     },
     {
       "id": 236,
@@ -2067,7 +2176,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "hot.jpg",
-      "slug": "superhot"
+      "slug": "superhot",
+      "localThumb": "assets/game-covers/superhot.webp"
     },
     {
       "id": 237,
@@ -2085,7 +2195,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "media/icons/icon-128.png",
-      "slug": "super-mario-construct"
+      "slug": "super-mario-construct",
+      "localThumb": "assets/game-covers/super-mario-construct.webp"
     },
     {
       "id": 241,
@@ -2103,7 +2214,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "index.splash.png",
-      "slug": "synesthesia"
+      "slug": "synesthesia",
+      "localThumb": "assets/game-covers/synesthesia.webp"
     },
     {
       "id": 242,
@@ -2121,7 +2233,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "tactical-weapon-pack-2"
+      "slug": "tactical-weapon-pack-2",
+      "localThumb": "assets/game-covers/tactical-weapon-pack-2.webp"
     },
     {
       "id": 243,
@@ -2139,7 +2252,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "tacticalassassin2.png",
-      "slug": "tactical-assassin-2"
+      "slug": "tactical-assassin-2",
+      "localThumb": "assets/game-covers/tactical-assassin-2.webp"
     },
     {
       "id": 316,
@@ -2158,7 +2272,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "tag"
+      "slug": "tag",
+      "localThumb": "assets/game-covers/tag.webp"
     },
     {
       "id": 244,
@@ -2176,7 +2291,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "tank.jpeg",
-      "slug": "tank-trouble-2"
+      "slug": "tank-trouble-2",
+      "localThumb": "assets/game-covers/tank-trouble-2.webp"
     },
     {
       "id": 245,
@@ -2194,7 +2310,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/cover.png",
-      "slug": "tanuki-sunset"
+      "slug": "tanuki-sunset",
+      "localThumb": "assets/game-covers/tanuki-sunset.webp"
     },
     {
       "id": 246,
@@ -2212,7 +2329,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/og-icon.png",
-      "slug": "temple-run-2"
+      "slug": "temple-run-2",
+      "localThumb": "assets/game-covers/temple-run-2.webp"
     },
     {
       "id": 312,
@@ -2230,7 +2348,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Terraira.png",
-      "slug": "terraira"
+      "slug": "terraira",
+      "localThumb": "assets/game-covers/terraira.webp"
     },
     {
       "id": 252,
@@ -2248,7 +2367,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thisistheonlylevel.png",
-      "slug": "this-is-the-only-level"
+      "slug": "this-is-the-only-level",
+      "localThumb": "assets/game-covers/this-is-the-only-level.webp"
     },
     {
       "id": 253,
@@ -2266,7 +2386,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "slug": "tiny-fishing"
+      "slug": "tiny-fishing",
+      "localThumb": "assets/game-covers/tiny-fishing.webp"
     },
     {
       "id": 314,
@@ -2285,7 +2406,8 @@
       ],
       "thumb": "Trimps.png",
       "download": true,
-      "slug": "trimps"
+      "slug": "trimps",
+      "localThumb": "assets/game-covers/trimps.webp"
     },
     {
       "id": 257,
@@ -2303,7 +2425,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/shark.jpg",
-      "slug": "tube-jumpers"
+      "slug": "tube-jumpers",
+      "localThumb": "assets/game-covers/tube-jumpers.webp"
     },
     {
       "id": 258,
@@ -2321,7 +2444,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/tunnel.jpg",
-      "slug": "tunnel-rush"
+      "slug": "tunnel-rush",
+      "localThumb": "assets/game-covers/tunnel-rush.webp"
     },
     {
       "id": 262,
@@ -2342,7 +2466,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "vex3.png",
-      "slug": "vex-3"
+      "slug": "vex-3",
+      "localThumb": "assets/game-covers/vex-3.webp"
     },
     {
       "id": 263,
@@ -2363,7 +2488,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "vex4.png",
-      "slug": "vex-4"
+      "slug": "vex-4",
+      "localThumb": "assets/game-covers/vex-4.webp"
     },
     {
       "id": 264,
@@ -2384,7 +2510,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "vex.jpeg",
-      "slug": "vex-5"
+      "slug": "vex-5",
+      "localThumb": "assets/game-covers/vex-5.webp"
     },
     {
       "id": 265,
@@ -2405,7 +2532,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "assets/icon.jpeg",
-      "slug": "vex-6"
+      "slug": "vex-6",
+      "localThumb": "assets/game-covers/vex-6.webp"
     },
     {
       "id": 266,
@@ -2427,7 +2555,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "assets/icon.jpeg",
-      "slug": "vex-7"
+      "slug": "vex-7",
+      "localThumb": "assets/game-covers/vex-7.webp"
     },
     {
       "id": 326,
@@ -2448,7 +2577,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "assets/icon.png",
-      "slug": "vex-8"
+      "slug": "vex-8",
+      "localThumb": "assets/game-covers/vex-8.webp"
     },
     {
       "id": 273,
@@ -2467,7 +2597,8 @@
       ],
       "thumb": "art/wolf3d.png",
       "download": true,
-      "slug": "wolfenstein-3d"
+      "slug": "wolfenstein-3d",
+      "localThumb": "assets/game-covers/wolfenstein-3d.webp"
     },
     {
       "id": 275,
@@ -2487,7 +2618,8 @@
       ],
       "thumb": "images/splash.jpg",
       "download": true,
-      "slug": "world-s-hardest-game"
+      "slug": "world-s-hardest-game",
+      "localThumb": "assets/game-covers/world-s-hardest-game.webp"
     },
     {
       "id": 276,
@@ -2506,7 +2638,8 @@
       ],
       "thumb": "the-worlds-hardest-game-2.jpg",
       "download": true,
-      "slug": "world-s-hardest-game-2"
+      "slug": "world-s-hardest-game-2",
+      "localThumb": "assets/game-covers/world-s-hardest-game-2.webp"
     },
     {
       "id": 13,
@@ -2524,7 +2657,8 @@
         "Click: Spawn Nations"
       ],
       "thumb": "splash.jpg",
-      "slug": "ages-of-conflict"
+      "slug": "ages-of-conflict",
+      "localThumb": "assets/game-covers/ages-of-conflict.webp"
     },
     {
       "id": 24,
@@ -2542,7 +2676,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "baldi-s-basics"
+      "slug": "baldi-s-basics",
+      "localThumb": "assets/game-covers/baldi-s-basics.webp"
     },
     {
       "id": 29,
@@ -2560,7 +2695,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bigredbutton.png",
-      "slug": "big-red-button"
+      "slug": "big-red-button",
+      "localThumb": "assets/game-covers/big-red-button.webp"
     },
     {
       "id": 295,
@@ -2579,7 +2715,8 @@
       ],
       "thumb": "BitcoinClicker.png",
       "download": true,
-      "slug": "bitcoin-clicker"
+      "slug": "bitcoin-clicker",
+      "localThumb": "assets/game-covers/bitcoin-clicker.webp"
     },
     {
       "id": 351,
@@ -2597,7 +2734,8 @@
         "Click: Flip Bottle"
       ],
       "thumb": "icons/icon-256.png",
-      "slug": "bottle-flip"
+      "slug": "bottle-flip",
+      "localThumb": "assets/game-covers/bottle-flip.webp"
     },
     {
       "id": 358,
@@ -2615,7 +2753,8 @@
         "Click: Attack"
       ],
       "thumb": "thumb.jpg",
-      "slug": "clicker-heroes"
+      "slug": "clicker-heroes",
+      "localThumb": "assets/game-covers/clicker-heroes.webp"
     },
     {
       "id": 53,
@@ -2636,7 +2775,8 @@
       "thumb": "cookie1.jpeg",
       "download": true,
       "trending": 103745,
-      "slug": "cookie-clicker"
+      "slug": "cookie-clicker",
+      "localThumb": "assets/game-covers/cookie-clicker.webp"
     },
     {
       "id": 54,
@@ -2655,7 +2795,8 @@
       ],
       "thumb": "pr_source.png",
       "download": true,
-      "slug": "core-ball"
+      "slug": "core-ball",
+      "localThumb": "assets/game-covers/core-ball.webp"
     },
     {
       "id": 58,
@@ -2674,7 +2815,8 @@
       ],
       "thumb": "images/case1.png",
       "download": true,
-      "slug": "cs-go-clicker"
+      "slug": "cs-go-clicker",
+      "localThumb": "assets/game-covers/cs-go-clicker.webp"
     },
     {
       "id": 360,
@@ -2692,7 +2834,8 @@
         "Click: Action"
       ],
       "thumb": "thumb.jpg",
-      "slug": "dinosaurs-merge-master"
+      "slug": "dinosaurs-merge-master",
+      "localThumb": "assets/game-covers/dinosaurs-merge-master.webp"
     },
     {
       "id": 70,
@@ -2712,7 +2855,8 @@
       ],
       "thumb": "img/dogeminer_300x300.png",
       "download": true,
-      "slug": "doge-miner"
+      "slug": "doge-miner",
+      "localThumb": "assets/game-covers/doge-miner.webp"
     },
     {
       "id": 71,
@@ -2731,7 +2875,8 @@
       ],
       "thumb": "doodle.png",
       "download": true,
-      "slug": "doodle-jump"
+      "slug": "doodle-jump",
+      "localThumb": "assets/game-covers/doodle-jump.webp"
     },
     {
       "id": 76,
@@ -2749,7 +2894,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "DuckLife.png",
-      "slug": "duck-life"
+      "slug": "duck-life",
+      "localThumb": "assets/game-covers/duck-life.webp"
     },
     {
       "id": 77,
@@ -2767,7 +2913,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "DuckLife2.png",
-      "slug": "duck-life-2"
+      "slug": "duck-life-2",
+      "localThumb": "assets/game-covers/duck-life-2.webp"
     },
     {
       "id": 78,
@@ -2785,7 +2932,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "DuckLife3.png",
-      "slug": "duck-life-3"
+      "slug": "duck-life-3",
+      "localThumb": "assets/game-covers/duck-life-3.webp"
     },
     {
       "id": 79,
@@ -2803,7 +2951,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "duck-life-4"
+      "slug": "duck-life-4",
+      "localThumb": "assets/game-covers/duck-life-4.webp"
     },
     {
       "id": 82,
@@ -2822,7 +2971,8 @@
       ],
       "thumb": "eel-slap.png",
       "download": true,
-      "slug": "eel-slap"
+      "slug": "eel-slap",
+      "localThumb": "assets/game-covers/eel-slap.webp"
     },
     {
       "id": 300,
@@ -2840,7 +2990,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "ElasticFace.png",
-      "slug": "elastic-face"
+      "slug": "elastic-face",
+      "localThumb": "assets/game-covers/elastic-face.webp"
     },
     {
       "id": 91,
@@ -2859,7 +3010,8 @@
       ],
       "thumb": "icon.png",
       "download": true,
-      "slug": "fake-virus"
+      "slug": "fake-virus",
+      "localThumb": "assets/game-covers/fake-virus.webp"
     },
     {
       "id": 94,
@@ -2878,7 +3030,8 @@
       ],
       "thumb": "assets/thumb.png",
       "download": true,
-      "slug": "flappy-bird"
+      "slug": "flappy-bird",
+      "localThumb": "assets/game-covers/flappy-bird.webp"
     },
     {
       "id": 380,
@@ -2897,7 +3050,8 @@
         "Drag: Slice"
       ],
       "thumb": "logo.jpg",
-      "slug": "fruit-ninja"
+      "slug": "fruit-ninja",
+      "localThumb": "assets/game-covers/fruit-ninja.webp"
     },
     {
       "id": 386,
@@ -2915,7 +3069,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "guess-the-kitty"
+      "slug": "guess-the-kitty",
+      "localThumb": "assets/game-covers/guess-the-kitty.webp"
     },
     {
       "id": 302,
@@ -2933,7 +3088,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "GuraTamberine.png",
-      "slug": "gura-temberine"
+      "slug": "gura-temberine",
+      "localThumb": "assets/game-covers/gura-temberine.webp"
     },
     {
       "id": 116,
@@ -2951,7 +3107,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo192.png",
-      "slug": "hacker-typer"
+      "slug": "hacker-typer",
+      "localThumb": "assets/game-covers/hacker-typer.webp"
     },
     {
       "id": 391,
@@ -2969,7 +3126,8 @@
         "Click: Pop"
       ],
       "thumb": "logo.jpg",
-      "slug": "hop-pop-it"
+      "slug": "hop-pop-it",
+      "localThumb": "assets/game-covers/hop-pop-it.webp"
     },
     {
       "id": 125,
@@ -2987,7 +3145,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/thumbnail.png",
-      "slug": "idle-breakout"
+      "slug": "idle-breakout",
+      "localThumb": "assets/game-covers/idle-breakout.webp"
     },
     {
       "id": 335,
@@ -3006,7 +3165,8 @@
       ],
       "thumb": "logo.jpg",
       "download": true,
-      "slug": "idle-mining-empire"
+      "slug": "idle-mining-empire",
+      "localThumb": "assets/game-covers/idle-mining-empire.webp"
     },
     {
       "id": 394,
@@ -3024,7 +3184,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "idle-restaurants"
+      "slug": "idle-restaurants",
+      "localThumb": "assets/game-covers/idle-restaurants.webp"
     },
     {
       "id": 133,
@@ -3042,7 +3203,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "kittencannon.png",
-      "slug": "kitten-cannon"
+      "slug": "kitten-cannon",
+      "localThumb": "assets/game-covers/kitten-cannon.webp"
     },
     {
       "id": 136,
@@ -3060,7 +3222,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "learntofly.png",
-      "slug": "learn-to-fly"
+      "slug": "learn-to-fly",
+      "localThumb": "assets/game-covers/learn-to-fly.webp"
     },
     {
       "id": 396,
@@ -3079,7 +3242,8 @@
         "Drop: Merge Elements"
       ],
       "thumb": "logo.png",
-      "slug": "little-alchemy-2"
+      "slug": "little-alchemy-2",
+      "localThumb": "assets/game-covers/little-alchemy-2.webp"
     },
     {
       "id": 144,
@@ -3097,7 +3261,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "merge-round-racers"
+      "slug": "merge-round-racers",
+      "localThumb": "assets/game-covers/merge-round-racers.webp"
     },
     {
       "id": 398,
@@ -3115,7 +3280,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "minecraft-case-simulator"
+      "slug": "minecraft-case-simulator",
+      "localThumb": "assets/game-covers/minecraft-case-simulator.webp"
     },
     {
       "id": 306,
@@ -3134,7 +3300,8 @@
       ],
       "thumb": "NutSimulator.png",
       "download": true,
-      "slug": "nut-simulator"
+      "slug": "nut-simulator",
+      "localThumb": "assets/game-covers/nut-simulator.webp"
     },
     {
       "id": 172,
@@ -3152,7 +3319,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "assets/mobile/original.png",
-      "slug": "particle-clicker"
+      "slug": "particle-clicker",
+      "localThumb": "assets/game-covers/particle-clicker.webp"
     },
     {
       "id": 179,
@@ -3170,7 +3338,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/splash.png",
-      "slug": "push-the-square"
+      "slug": "push-the-square",
+      "localThumb": "assets/game-covers/push-the-square.webp"
     },
     {
       "id": 311,
@@ -3189,7 +3358,8 @@
       ],
       "thumb": "RiseHigher.png",
       "download": true,
-      "slug": "rise-higher"
+      "slug": "rise-higher",
+      "localThumb": "assets/game-covers/rise-higher.webp"
     },
     {
       "id": 216,
@@ -3208,7 +3378,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/splash.png",
-      "slug": "sort-the-court"
+      "slug": "sort-the-court",
+      "localThumb": "assets/game-covers/sort-the-court.webp"
     },
     {
       "id": 218,
@@ -3227,7 +3398,8 @@
       ],
       "thumb": "Icons/SpaceCompanyFavicon.png",
       "download": true,
-      "slug": "space-company"
+      "slug": "space-company",
+      "localThumb": "assets/game-covers/space-company.webp"
     },
     {
       "id": 256,
@@ -3246,7 +3418,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/cover.jpg",
-      "slug": "townscaper"
+      "slug": "townscaper",
+      "localThumb": "assets/game-covers/townscaper.webp"
     },
     {
       "id": 261,
@@ -3264,7 +3437,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "qN6zkD.png",
-      "slug": "veloce"
+      "slug": "veloce",
+      "localThumb": "assets/game-covers/veloce.webp"
     },
     {
       "id": 269,
@@ -3283,7 +3457,8 @@
       ],
       "thumb": "thumb.png",
       "download": true,
-      "slug": "weave-silk"
+      "slug": "weave-silk",
+      "localThumb": "assets/game-covers/weave-silk.webp"
     },
     {
       "id": 315,
@@ -3301,7 +3476,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "WeBecomeWhatWeBehold.png",
-      "slug": "we-become-what-we-behold"
+      "slug": "we-become-what-we-behold",
+      "localThumb": "assets/game-covers/we-become-what-we-behold.webp"
     },
     {
       "id": 270,
@@ -3320,7 +3496,8 @@
       ],
       "thumb": "logo.png",
       "download": true,
-      "slug": "webgl-fluid-sim"
+      "slug": "webgl-fluid-sim",
+      "localThumb": "assets/game-covers/webgl-fluid-sim.webp"
     },
     {
       "id": 339,
@@ -3338,7 +3515,8 @@
         "Arrow / WASD Keys: Move"
       ],
       "thumb": "logo.jpg",
-      "slug": "1-on-1-soccer"
+      "slug": "1-on-1-soccer",
+      "localThumb": "assets/game-covers/1-on-1-soccer.webp"
     },
     {
       "id": 328,
@@ -3356,7 +3534,8 @@
         "Mouse: Aiming / Throwing"
       ],
       "thumb": "logo.jpg",
-      "slug": "3d-bowling"
+      "slug": "3d-bowling",
+      "localThumb": "assets/game-covers/3d-bowling.webp"
     },
     {
       "id": 331,
@@ -3375,7 +3554,8 @@
         "Release: Shoot"
       ],
       "thumb": "tmp/8BallBilliardsClassicTeaser.jpg",
-      "slug": "8-ball-pool"
+      "slug": "8-ball-pool",
+      "localThumb": "assets/game-covers/8-ball-pool.webp"
     },
     {
       "id": 11,
@@ -3393,7 +3573,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "adrenalinechallenge.jpg",
-      "slug": "adrenaline-challenge"
+      "slug": "adrenaline-challenge",
+      "localThumb": "assets/game-covers/adrenaline-challenge.webp"
     },
     {
       "id": 12,
@@ -3416,7 +3597,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "splash.png",
-      "slug": "adventure-drivers"
+      "slug": "adventure-drivers",
+      "localThumb": "assets/game-covers/adventure-drivers.webp"
     },
     {
       "id": 18,
@@ -3434,7 +3616,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "aquapark-slides"
+      "slug": "aquapark-slides",
+      "localThumb": "assets/game-covers/aquapark-slides.webp"
     },
     {
       "id": 345,
@@ -3457,7 +3640,8 @@
         "Note: Only drag and shoot when at Shootout Challenges"
       ],
       "thumb": "logo.avif",
-      "slug": "basket-and-ball"
+      "slug": "basket-and-ball",
+      "localThumb": "assets/game-covers/basket-and-ball.webp"
     },
     {
       "id": 365,
@@ -3476,7 +3660,8 @@
         "Click: Shoot"
       ],
       "thumb": "logo.jpg",
-      "slug": "basket-champs"
+      "slug": "basket-champs",
+      "localThumb": "assets/game-covers/basket-champs.webp"
     },
     {
       "id": 26,
@@ -3514,7 +3699,8 @@
       ],
       "thumb": "assets/images/basketball-stars.png",
       "trending": 83564,
-      "slug": "basketball-stars"
+      "slug": "basketball-stars",
+      "localThumb": "assets/game-covers/basketball-stars.webp"
     },
     {
       "id": 294,
@@ -3533,7 +3719,8 @@
       ],
       "thumb": "BasketRandom.png",
       "trending": 65150,
-      "slug": "basket-random"
+      "slug": "basket-random",
+      "localThumb": "assets/game-covers/basket-random.webp"
     },
     {
       "id": 412,
@@ -3551,7 +3738,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "favicon.png",
-      "slug": "big-shot-boxing"
+      "slug": "big-shot-boxing",
+      "localThumb": "assets/game-covers/big-shot-boxing.webp"
     },
     {
       "id": 366,
@@ -3571,7 +3759,8 @@
         "Left / Right Arrow: Tilt"
       ],
       "thumb": "logo.jpg",
-      "slug": "biker-street"
+      "slug": "biker-street",
+      "localThumb": "assets/game-covers/biker-street.webp"
     },
     {
       "id": 38,
@@ -3589,7 +3778,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "512x512.jpg",
-      "slug": "boxing-random"
+      "slug": "boxing-random",
+      "localThumb": "assets/game-covers/boxing-random.webp"
     },
     {
       "id": 354,
@@ -3607,7 +3797,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "slug": "car-rush"
+      "slug": "car-rush",
+      "localThumb": "assets/game-covers/car-rush.webp"
     },
     {
       "id": 44,
@@ -3625,7 +3816,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "cars-simulator"
+      "slug": "cars-simulator",
+      "localThumb": "assets/game-covers/cars-simulator.webp"
     },
     {
       "id": 51,
@@ -3643,7 +3835,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "cluster-rush"
+      "slug": "cluster-rush",
+      "localThumb": "assets/game-covers/cluster-rush.webp"
     },
     {
       "id": 320,
@@ -3661,7 +3854,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "crazy-cars"
+      "slug": "crazy-cars",
+      "localThumb": "assets/game-covers/crazy-cars.webp"
     },
     {
       "id": 74,
@@ -3679,7 +3873,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icons/icon-512.png",
-      "slug": "draw-the-hill"
+      "slug": "draw-the-hill",
+      "localThumb": "assets/game-covers/draw-the-hill.webp"
     },
     {
       "id": 327,
@@ -3697,7 +3892,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "drift-boss.png",
-      "slug": "drift-boss"
+      "slug": "drift-boss",
+      "localThumb": "assets/game-covers/drift-boss.webp"
     },
     {
       "id": 75,
@@ -3721,7 +3917,8 @@
       ],
       "thumb": "logo.jpg",
       "trending": 95699,
-      "slug": "drive-mad"
+      "slug": "drive-mad",
+      "localThumb": "assets/game-covers/drive-mad.webp"
     },
     {
       "id": 80,
@@ -3739,7 +3936,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "edge-let-s-surf"
+      "slug": "edge-let-s-surf",
+      "localThumb": "assets/game-covers/edge-let-s-surf.webp"
     },
     {
       "id": 369,
@@ -3758,7 +3956,8 @@
         "Right Arrow / D / Right Pedal: Forward"
       ],
       "thumb": "logo.jpg",
-      "slug": "eggy-car"
+      "slug": "eggy-car",
+      "localThumb": "assets/game-covers/eggy-car.webp"
     },
     {
       "id": 371,
@@ -3778,7 +3977,8 @@
         "Space: Jump"
       ],
       "thumb": "logo.jpg",
-      "slug": "endless-truck"
+      "slug": "endless-truck",
+      "localThumb": "assets/game-covers/endless-truck.webp"
     },
     {
       "id": 374,
@@ -3796,7 +3996,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "football-brawl"
+      "slug": "football-brawl",
+      "localThumb": "assets/game-covers/football-brawl.webp"
     },
     {
       "id": 375,
@@ -3814,7 +4015,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "football-legends"
+      "slug": "football-legends",
+      "localThumb": "assets/game-covers/football-legends.webp"
     },
     {
       "id": 376,
@@ -3832,7 +4034,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "football-strike"
+      "slug": "football-strike",
+      "localThumb": "assets/game-covers/football-strike.webp"
     },
     {
       "id": 378,
@@ -3851,7 +4054,8 @@
         "Arrow Keys: Move (Player 2)"
       ],
       "thumb": "logo.jpg",
-      "slug": "get-on-top"
+      "slug": "get-on-top",
+      "localThumb": "assets/game-covers/get-on-top.webp"
     },
     {
       "id": 389,
@@ -3872,7 +4076,8 @@
         "Q: Shoot (Player 2)"
       ],
       "thumb": "logo.jpg",
-      "slug": "heads-arena"
+      "slug": "heads-arena",
+      "localThumb": "assets/game-covers/heads-arena.webp"
     },
     {
       "id": 388,
@@ -3890,7 +4095,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "head-soccer-2023"
+      "slug": "head-soccer-2023",
+      "localThumb": "assets/game-covers/head-soccer-2023.webp"
     },
     {
       "id": 138,
@@ -3908,7 +4114,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/logo.jpg",
-      "slug": "madalin-stunt-cars-2"
+      "slug": "madalin-stunt-cars-2",
+      "localThumb": "assets/game-covers/madalin-stunt-cars-2.webp"
     },
     {
       "id": 402,
@@ -3932,7 +4139,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "logo.jpg",
-      "slug": "moving-truck"
+      "slug": "moving-truck",
+      "localThumb": "assets/game-covers/moving-truck.webp"
     },
     {
       "id": 361,
@@ -3951,7 +4159,8 @@
         "Release: Shoot"
       ],
       "thumb": "icon-256.png",
-      "slug": "penalty-shooters-2"
+      "slug": "penalty-shooters-2",
+      "localThumb": "assets/game-covers/penalty-shooters-2.webp"
     },
     {
       "id": 184,
@@ -3970,7 +4179,8 @@
       ],
       "thumb": "img/icon.jpg",
       "trending": 356628,
-      "slug": "retro-bowl"
+      "slug": "retro-bowl",
+      "localThumb": "assets/game-covers/retro-bowl.webp"
     },
     {
       "id": 199,
@@ -3988,7 +4198,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/splash.png",
-      "slug": "scrap-metal-3"
+      "slug": "scrap-metal-3",
+      "localThumb": "assets/game-covers/scrap-metal-3.webp"
     },
     {
       "id": 212,
@@ -4007,7 +4218,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "unnamed.png",
-      "slug": "soccer-random"
+      "slug": "soccer-random",
+      "localThumb": "assets/game-covers/soccer-random.webp"
     },
     {
       "id": 213,
@@ -4026,7 +4238,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "soccer-skills-euro-cup"
+      "slug": "soccer-skills-euro-cup",
+      "localThumb": "assets/game-covers/soccer-skills-euro-cup.webp"
     },
     {
       "id": 250,
@@ -4044,7 +4257,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "theheist.jpg",
-      "slug": "the-heist"
+      "slug": "the-heist",
+      "localThumb": "assets/game-covers/the-heist.webp"
     },
     {
       "id": 325,
@@ -4062,7 +4276,8 @@
         "Up Arrow / W Key: Jump"
       ],
       "thumb": "splash.png",
-      "slug": "volley-random"
+      "slug": "volley-random",
+      "localThumb": "assets/game-covers/volley-random.webp"
     },
     {
       "id": 277,
@@ -4080,7 +4295,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "x-trial-racing"
+      "slug": "x-trial-racing",
+      "localThumb": "assets/game-covers/x-trial-racing.webp"
     },
     {
       "id": 1,
@@ -4100,7 +4316,8 @@
       "thumb": "meta/apple-touch-icon.png",
       "download": true,
       "trending": 43721,
-      "slug": "1"
+      "slug": "1",
+      "localThumb": "assets/game-covers/1.webp"
     },
     {
       "id": 329,
@@ -4118,7 +4335,8 @@
         "Mouse: Drag / Drop"
       ],
       "thumb": "splash.png",
-      "slug": "1010-color-match"
+      "slug": "1010-color-match",
+      "localThumb": "assets/game-covers/1010-color-match.webp"
     },
     {
       "id": 340,
@@ -4137,7 +4355,8 @@
         "Drop: Drop Pieces"
       ],
       "thumb": "logo.jpg",
-      "slug": "1010-deluxe"
+      "slug": "1010-deluxe",
+      "localThumb": "assets/game-covers/1010-deluxe.webp"
     },
     {
       "id": 6,
@@ -4157,7 +4376,8 @@
       ],
       "thumb": "thumb.png",
       "download": true,
-      "slug": "2048"
+      "slug": "2048",
+      "localThumb": "assets/game-covers/2048.webp"
     },
     {
       "id": 7,
@@ -4176,7 +4396,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "2048-multitask"
+      "slug": "2048-multitask",
+      "localThumb": "assets/game-covers/2048-multitask.webp"
     },
     {
       "id": 330,
@@ -4197,7 +4418,8 @@
         "Note: Clicking has other functionalities depending on where you click."
       ],
       "thumb": "logo.jpg",
-      "slug": "3-pandas-in-japan"
+      "slug": "3-pandas-in-japan",
+      "localThumb": "assets/game-covers/3-pandas-in-japan.webp"
     },
     {
       "id": 8,
@@ -4216,7 +4438,8 @@
       ],
       "thumb": "logo-4.png",
       "download": true,
-      "slug": "900719925474"
+      "slug": "900719925474",
+      "localThumb": "assets/game-covers/900719925474.webp"
     },
     {
       "id": 9,
@@ -4235,7 +4458,8 @@
         "Arrow Keys: Move"
       ],
       "thumb": "achievementunlocked.png",
-      "slug": "achievement-unlocked"
+      "slug": "achievement-unlocked",
+      "localThumb": "assets/game-covers/achievement-unlocked.webp"
     },
     {
       "id": 291,
@@ -4253,7 +4477,8 @@
         "Click: Choose"
       ],
       "thumb": "splash.png",
-      "slug": "adventure-with-anxiety"
+      "slug": "adventure-with-anxiety",
+      "localThumb": "assets/game-covers/adventure-with-anxiety.webp"
     },
     {
       "id": 16,
@@ -4272,7 +4497,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "red.png",
-      "slug": "among-us"
+      "slug": "among-us",
+      "localThumb": "assets/game-covers/among-us.webp"
     },
     {
       "id": 21,
@@ -4291,7 +4517,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bad-ice-cream.png",
-      "slug": "bad-ice-cream"
+      "slug": "bad-ice-cream",
+      "localThumb": "assets/game-covers/bad-ice-cream.webp"
     },
     {
       "id": 22,
@@ -4309,7 +4536,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bad-ice-cream-2.png",
-      "slug": "bad-ice-cream-2"
+      "slug": "bad-ice-cream-2",
+      "localThumb": "assets/game-covers/bad-ice-cream-2.webp"
     },
     {
       "id": 23,
@@ -4327,7 +4555,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bad-ice-cream-3.png",
-      "slug": "bad-ice-cream-3"
+      "slug": "bad-ice-cream-3",
+      "localThumb": "assets/game-covers/bad-ice-cream-3.webp"
     },
     {
       "id": 341,
@@ -4346,7 +4575,8 @@
       ],
       "thumb": "logo.jpg",
       "download": true,
-      "slug": "ball-sort-halloween"
+      "slug": "ball-sort-halloween",
+      "localThumb": "assets/game-covers/ball-sort-halloween.webp"
     },
     {
       "id": 342,
@@ -4365,7 +4595,8 @@
       ],
       "thumb": "logo.png",
       "download": true,
-      "slug": "ball-sort-puzzle"
+      "slug": "ball-sort-puzzle",
+      "localThumb": "assets/game-covers/ball-sort-puzzle.webp"
     },
     {
       "id": 343,
@@ -4384,7 +4615,8 @@
       ],
       "thumb": "logo.png",
       "download": true,
-      "slug": "ball-sort-soccer"
+      "slug": "ball-sort-soccer",
+      "localThumb": "assets/game-covers/ball-sort-soccer.webp"
     },
     {
       "id": 344,
@@ -4403,7 +4635,8 @@
         "Release: Shoot"
       ],
       "thumb": "logo.jpg",
-      "slug": "ballistic"
+      "slug": "ballistic",
+      "localThumb": "assets/game-covers/ballistic.webp"
     },
     {
       "id": 28,
@@ -4421,7 +4654,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "battleforgondor.JPG",
-      "slug": "battle-for-gondor"
+      "slug": "battle-for-gondor",
+      "localThumb": "assets/game-covers/battle-for-gondor.webp"
     },
     {
       "id": 31,
@@ -4441,7 +4675,8 @@
       ],
       "thumb": "icon.png",
       "download": true,
-      "slug": "black-hole-square"
+      "slug": "black-hole-square",
+      "localThumb": "assets/game-covers/black-hole-square.webp"
     },
     {
       "id": 346,
@@ -4459,7 +4694,8 @@
         "Click: Place Block"
       ],
       "thumb": "logo.avif",
-      "slug": "block-the-pig"
+      "slug": "block-the-pig",
+      "localThumb": "assets/game-covers/block-the-pig.webp"
     },
     {
       "id": 33,
@@ -4477,7 +4713,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bloonstd.jpg",
-      "slug": "bloons-td"
+      "slug": "bloons-td",
+      "localThumb": "assets/game-covers/bloons-td.webp"
     },
     {
       "id": 34,
@@ -4495,7 +4732,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "bloonstd2.png",
-      "slug": "bloons-td-2"
+      "slug": "bloons-td-2",
+      "localThumb": "assets/game-covers/bloons-td-2.webp"
     },
     {
       "id": 321,
@@ -4513,7 +4751,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "bloons-td-4"
+      "slug": "bloons-td-4",
+      "localThumb": "assets/game-covers/bloons-td-4.webp"
     },
     {
       "id": 35,
@@ -4532,7 +4771,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "block.png",
-      "slug": "bloxors"
+      "slug": "bloxors",
+      "localThumb": "assets/game-covers/bloxors.webp"
     },
     {
       "id": 350,
@@ -4552,7 +4792,8 @@
         "R: Restart"
       ],
       "thumb": "thumb.png",
-      "slug": "blumgi-rocket"
+      "slug": "blumgi-rocket",
+      "localThumb": "assets/game-covers/blumgi-rocket.webp"
     },
     {
       "id": 39,
@@ -4570,7 +4811,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "breakingthebank.png",
-      "slug": "breaking-the-bank"
+      "slug": "breaking-the-bank",
+      "localThumb": "assets/game-covers/breaking-the-bank.webp"
     },
     {
       "id": 40,
@@ -4589,7 +4831,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images.png",
-      "slug": "big-tower-tiny-square"
+      "slug": "big-tower-tiny-square",
+      "localThumb": "assets/game-covers/big-tower-tiny-square.webp"
     },
     {
       "id": 352,
@@ -4608,7 +4851,8 @@
         "Release: Shoot"
       ],
       "thumb": "thumb.png",
-      "slug": "bouncy-woods"
+      "slug": "bouncy-woods",
+      "localThumb": "assets/game-covers/bouncy-woods.webp"
     },
     {
       "id": 353,
@@ -4629,7 +4873,8 @@
       ],
       "thumb": "thumb.jpg",
       "download": true,
-      "slug": "bubble-pop-adventures"
+      "slug": "bubble-pop-adventures",
+      "localThumb": "assets/game-covers/bubble-pop-adventures.webp"
     },
     {
       "id": 318,
@@ -4647,7 +4892,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "Build/logo.png",
-      "slug": "burrito-bison"
+      "slug": "burrito-bison",
+      "localThumb": "assets/game-covers/burrito-bison.webp"
     },
     {
       "id": 42,
@@ -4665,7 +4911,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/splash.png",
-      "slug": "cannon-basketball-4"
+      "slug": "cannon-basketball-4",
+      "localThumb": "assets/game-covers/cannon-basketball-4.webp"
     },
     {
       "id": 43,
@@ -4683,7 +4930,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "canyondefense.png",
-      "slug": "canyon-defense"
+      "slug": "canyon-defense",
+      "localThumb": "assets/game-covers/canyon-defense.webp"
     },
     {
       "id": 45,
@@ -4702,7 +4950,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/te9nDu.png",
-      "slug": "cell-machine"
+      "slug": "cell-machine",
+      "localThumb": "assets/game-covers/cell-machine.webp"
     },
     {
       "id": 357,
@@ -4720,7 +4969,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.jpg",
-      "slug": "checkers-legend"
+      "slug": "checkers-legend",
+      "localThumb": "assets/game-covers/checkers-legend.webp"
     },
     {
       "id": 50,
@@ -4740,7 +4990,8 @@
       ],
       "thumb": "img/download.png",
       "download": true,
-      "slug": "circlo"
+      "slug": "circlo",
+      "localThumb": "assets/game-covers/circlo.webp"
     },
     {
       "id": 356,
@@ -4760,7 +5011,8 @@
       ],
       "thumb": "thumv.png",
       "download": true,
-      "slug": "circloo-2"
+      "slug": "circloo-2",
+      "localThumb": "assets/game-covers/circloo-2.webp"
     },
     {
       "id": 359,
@@ -4778,7 +5030,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.jpg",
-      "slug": "climb-over-it"
+      "slug": "climb-over-it",
+      "localThumb": "assets/game-covers/climb-over-it.webp"
     },
     {
       "id": 52,
@@ -4797,7 +5050,8 @@
       ],
       "thumb": "connect3.png",
       "download": true,
-      "slug": "connect-3"
+      "slug": "connect-3",
+      "localThumb": "assets/game-covers/connect-3.webp"
     },
     {
       "id": 57,
@@ -4815,7 +5069,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "crossyroad.png",
-      "slug": "crossy-road"
+      "slug": "crossy-road",
+      "localThumb": "assets/game-covers/crossy-road.webp"
     },
     {
       "id": 59,
@@ -4835,7 +5090,8 @@
         "Click: Action"
       ],
       "thumb": "logo.png",
-      "slug": "cut-the-rope"
+      "slug": "cut-the-rope",
+      "localThumb": "assets/game-covers/cut-the-rope.webp"
     },
     {
       "id": 60,
@@ -4854,7 +5110,8 @@
         "Click: Action"
       ],
       "thumb": "Holiday_Gift.webp",
-      "slug": "cut-the-rope-holiday"
+      "slug": "cut-the-rope-holiday",
+      "localThumb": "assets/game-covers/cut-the-rope-holiday.webp"
     },
     {
       "id": 61,
@@ -4873,7 +5130,8 @@
         "click: Action"
       ],
       "thumb": "logo.png",
-      "slug": "cut-the-rope-time-travel"
+      "slug": "cut-the-rope-time-travel",
+      "localThumb": "assets/game-covers/cut-the-rope-time-travel.webp"
     },
     {
       "id": 65,
@@ -4891,7 +5149,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "index.jpg",
-      "slug": "deal-or-no-deal"
+      "slug": "deal-or-no-deal",
+      "localThumb": "assets/game-covers/deal-or-no-deal.webp"
     },
     {
       "id": 317,
@@ -4910,7 +5169,8 @@
       ],
       "thumb": "logo.jpg",
       "download": true,
-      "slug": "deepest-sword"
+      "slug": "deepest-sword",
+      "localThumb": "assets/game-covers/deepest-sword.webp"
     },
     {
       "id": 349,
@@ -4928,7 +5188,8 @@
         "Arrow / WASD Keys: Move"
       ],
       "thumb": "logo.jpg",
-      "slug": "dino-bros"
+      "slug": "dino-bros",
+      "localThumb": "assets/game-covers/dino-bros.webp"
     },
     {
       "id": 68,
@@ -4946,7 +5207,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "doctor-acorn-2"
+      "slug": "doctor-acorn-2",
+      "localThumb": "assets/game-covers/doctor-acorn-2.webp"
     },
     {
       "id": 69,
@@ -4965,7 +5227,8 @@
       ],
       "thumb": "doge1.jpeg",
       "download": true,
-      "slug": "doge-2048"
+      "slug": "doge-2048",
+      "localThumb": "assets/game-covers/doge-2048.webp"
     },
     {
       "id": 81,
@@ -4984,7 +5247,8 @@
       ],
       "thumb": "edge.png",
       "download": true,
-      "slug": "edge-not-found"
+      "slug": "edge-not-found",
+      "localThumb": "assets/game-covers/edge-not-found.webp"
     },
     {
       "id": 362,
@@ -5002,7 +5266,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "escaping-the-prison"
+      "slug": "escaping-the-prison",
+      "localThumb": "assets/game-covers/escaping-the-prison.webp"
     },
     {
       "id": 87,
@@ -5020,7 +5285,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "evolution"
+      "slug": "evolution",
+      "localThumb": "assets/game-covers/evolution.webp"
     },
     {
       "id": 88,
@@ -5039,7 +5305,8 @@
       ],
       "thumb": "img/small.jpg",
       "download": true,
-      "slug": "exo"
+      "slug": "exo",
+      "localThumb": "assets/game-covers/exo.webp"
     },
     {
       "id": 89,
@@ -5057,7 +5324,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images/splash.png",
-      "slug": "factory-balls-forever"
+      "slug": "factory-balls-forever",
+      "localThumb": "assets/game-covers/factory-balls-forever.webp"
     },
     {
       "id": 372,
@@ -5076,7 +5344,8 @@
         "Drag: Switch"
       ],
       "thumb": "Icon_512x512.png",
-      "slug": "farm-match-seasons"
+      "slug": "farm-match-seasons",
+      "localThumb": "assets/game-covers/farm-match-seasons.webp"
     },
     {
       "id": 95,
@@ -5094,7 +5363,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "flashtetris.png",
-      "slug": "flash-tetris"
+      "slug": "flash-tetris",
+      "localThumb": "assets/game-covers/flash-tetris.webp"
     },
     {
       "id": 363,
@@ -5112,7 +5382,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "fleeing-the-complex"
+      "slug": "fleeing-the-complex",
+      "localThumb": "assets/game-covers/fleeing-the-complex.webp"
     },
     {
       "id": 102,
@@ -5130,7 +5401,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/display.png",
-      "slug": "game-inside-a-game-inside-a-game"
+      "slug": "game-inside-a-game-inside-a-game",
+      "localThumb": "assets/game-covers/game-inside-a-game-inside-a-game.webp"
     },
     {
       "id": 105,
@@ -5149,7 +5421,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/SnDTEn.png",
-      "slug": "george-and-the-printer"
+      "slug": "george-and-the-printer",
+      "localThumb": "assets/game-covers/george-and-the-printer.webp"
     },
     {
       "id": 301,
@@ -5167,7 +5440,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "GettingOverIt.png",
-      "slug": "getting-over-it"
+      "slug": "getting-over-it",
+      "localThumb": "assets/game-covers/getting-over-it.webp"
     },
     {
       "id": 109,
@@ -5185,7 +5459,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "game.jpg",
-      "slug": "go-ball"
+      "slug": "go-ball",
+      "localThumb": "assets/game-covers/go-ball.webp"
     },
     {
       "id": 111,
@@ -5204,7 +5479,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "google-feud"
+      "slug": "google-feud",
+      "localThumb": "assets/game-covers/google-feud.webp"
     },
     {
       "id": 113,
@@ -5222,7 +5498,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "gravity-soccer"
+      "slug": "gravity-soccer",
+      "localThumb": "assets/game-covers/gravity-soccer.webp"
     },
     {
       "id": 114,
@@ -5241,7 +5518,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "ico.png",
-      "slug": "grey-box-testing"
+      "slug": "grey-box-testing",
+      "localThumb": "assets/game-covers/grey-box-testing.webp"
     },
     {
       "id": 117,
@@ -5260,7 +5538,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splaher.png",
-      "slug": "handshakes"
+      "slug": "handshakes",
+      "localThumb": "assets/game-covers/handshakes.webp"
     },
     {
       "id": 387,
@@ -5279,7 +5558,8 @@
         "Release: Detach"
       ],
       "thumb": "logo.jpg",
-      "slug": "hanger"
+      "slug": "hanger",
+      "localThumb": "assets/game-covers/hanger.webp"
     },
     {
       "id": 121,
@@ -5297,7 +5577,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "hexempire.jpg",
-      "slug": "hex-empire"
+      "slug": "hex-empire",
+      "localThumb": "assets/game-covers/hex-empire.webp"
     },
     {
       "id": 123,
@@ -5316,7 +5597,8 @@
       ],
       "thumb": "images/hextris-logo.png",
       "download": true,
-      "slug": "hextris"
+      "slug": "hextris",
+      "localThumb": "assets/game-covers/hextris.webp"
     },
     {
       "id": 392,
@@ -5335,7 +5617,8 @@
         "Release: Turns Normal"
       ],
       "thumb": "logo.jpg",
-      "slug": "icy-purple-head-2"
+      "slug": "icy-purple-head-2",
+      "localThumb": "assets/game-covers/icy-purple-head-2.webp"
     },
     {
       "id": 393,
@@ -5354,7 +5637,8 @@
         "Release: Turns Normal"
       ],
       "thumb": "logo.jpg",
-      "slug": "icy-purple-head-3"
+      "slug": "icy-purple-head-3",
+      "localThumb": "assets/game-covers/icy-purple-head-3.webp"
     },
     {
       "id": 127,
@@ -5372,7 +5656,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "impossiblequiz.png",
-      "slug": "impossible-quiz"
+      "slug": "impossible-quiz",
+      "localThumb": "assets/game-covers/impossible-quiz.webp"
     },
     {
       "id": 364,
@@ -5390,7 +5675,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "infiltrating-the-airship"
+      "slug": "infiltrating-the-airship",
+      "localThumb": "assets/game-covers/infiltrating-the-airship.webp"
     },
     {
       "id": 395,
@@ -5409,7 +5695,8 @@
         "Drop: Switch Tiles"
       ],
       "thumb": "Icon_512x512.png",
-      "slug": "jewels-blitz-5"
+      "slug": "jewels-blitz-5",
+      "localThumb": "assets/game-covers/jewels-blitz-5.webp"
     },
     {
       "id": 397,
@@ -5427,7 +5714,8 @@
         "Click: Action"
       ],
       "thumb": "logo.jpg",
-      "slug": "marbles-sorting"
+      "slug": "marbles-sorting",
+      "localThumb": "assets/game-covers/marbles-sorting.webp"
     },
     {
       "id": 143,
@@ -5446,7 +5734,8 @@
       ],
       "thumb": "img/rickroll.gif",
       "download": true,
-      "slug": "meme-2048"
+      "slug": "meme-2048",
+      "localThumb": "assets/game-covers/meme-2048.webp"
     },
     {
       "id": 150,
@@ -5465,7 +5754,8 @@
       ],
       "thumb": "img/minesweeper.png",
       "download": true,
-      "slug": "minesweeper"
+      "slug": "minesweeper",
+      "localThumb": "assets/game-covers/minesweeper.webp"
     },
     {
       "id": 151,
@@ -5483,7 +5773,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "miniputt.png",
-      "slug": "mini-putt"
+      "slug": "mini-putt",
+      "localThumb": "assets/game-covers/mini-putt.webp"
     },
     {
       "id": 399,
@@ -5502,7 +5793,8 @@
         "WASD Keys: Move (Player 2)"
       ],
       "thumb": "logo.jpg",
-      "slug": "money-movers"
+      "slug": "money-movers",
+      "localThumb": "assets/game-covers/money-movers.webp"
     },
     {
       "id": 400,
@@ -5521,7 +5813,8 @@
         "WASD Keys: Move (Player 2)"
       ],
       "thumb": "logo.jpg",
-      "slug": "money-movers-2"
+      "slug": "money-movers-2",
+      "localThumb": "assets/game-covers/money-movers-2.webp"
     },
     {
       "id": 401,
@@ -5540,7 +5833,8 @@
         "WASD Keys: Move (Player 2)"
       ],
       "thumb": "logo.jpg",
-      "slug": "money-movers-3"
+      "slug": "money-movers-3",
+      "localThumb": "assets/game-covers/money-movers-3.webp"
     },
     {
       "id": 413,
@@ -5558,7 +5852,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "park-out"
+      "slug": "park-out",
+      "localThumb": "assets/game-covers/park-out.webp"
     },
     {
       "id": 310,
@@ -5576,7 +5871,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "PlantsVsZombies.png",
-      "slug": "plants-vs-zombies"
+      "slug": "plants-vs-zombies",
+      "localThumb": "assets/game-covers/plants-vs-zombies.webp"
     },
     {
       "id": 176,
@@ -5595,7 +5891,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "portaltheflashversion.jpg",
-      "slug": "portal-flash"
+      "slug": "portal-flash",
+      "localThumb": "assets/game-covers/portal-flash.webp"
     },
     {
       "id": 180,
@@ -5613,7 +5910,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "assets/img/push.png",
-      "slug": "push-your-luck"
+      "slug": "push-your-luck",
+      "localThumb": "assets/game-covers/push-your-luck.webp"
     },
     {
       "id": 181,
@@ -5632,7 +5930,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "rabbit-samurai"
+      "slug": "rabbit-samurai",
+      "localThumb": "assets/game-covers/rabbit-samurai.webp"
     },
     {
       "id": 182,
@@ -5650,7 +5949,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "rabbit-samurai-2"
+      "slug": "rabbit-samurai-2",
+      "localThumb": "assets/game-covers/rabbit-samurai-2.webp"
     },
     {
       "id": 185,
@@ -5668,7 +5968,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddleschool.png",
-      "slug": "riddle-school-1"
+      "slug": "riddle-school-1",
+      "localThumb": "assets/game-covers/riddle-school-1.webp"
     },
     {
       "id": 186,
@@ -5686,7 +5987,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddleschool2.png",
-      "slug": "riddle-school-2"
+      "slug": "riddle-school-2",
+      "localThumb": "assets/game-covers/riddle-school-2.webp"
     },
     {
       "id": 187,
@@ -5704,7 +6006,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddleschool3.png",
-      "slug": "riddle-school-3"
+      "slug": "riddle-school-3",
+      "localThumb": "assets/game-covers/riddle-school-3.webp"
     },
     {
       "id": 188,
@@ -5722,7 +6025,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddleschool4.png",
-      "slug": "riddle-school-4"
+      "slug": "riddle-school-4",
+      "localThumb": "assets/game-covers/riddle-school-4.webp"
     },
     {
       "id": 189,
@@ -5740,7 +6044,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddleschool5.png",
-      "slug": "riddle-school-5"
+      "slug": "riddle-school-5",
+      "localThumb": "assets/game-covers/riddle-school-5.webp"
     },
     {
       "id": 190,
@@ -5758,7 +6063,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddletransfer.png",
-      "slug": "riddle-school-transfer-1"
+      "slug": "riddle-school-transfer-1",
+      "localThumb": "assets/game-covers/riddle-school-transfer-1.webp"
     },
     {
       "id": 191,
@@ -5777,7 +6083,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "riddletransfer2.png",
-      "slug": "riddle-school-transfer-2"
+      "slug": "riddle-school-transfer-2",
+      "localThumb": "assets/game-covers/riddle-school-transfer-2.webp"
     },
     {
       "id": 319,
@@ -5795,7 +6102,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "webapp/cover.jpg",
-      "slug": "roper"
+      "slug": "roper",
+      "localThumb": "assets/game-covers/roper.webp"
     },
     {
       "id": 204,
@@ -5813,7 +6121,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "slime-rush-td"
+      "slug": "slime-rush-td",
+      "localThumb": "assets/game-covers/slime-rush-td.webp"
     },
     {
       "id": 224,
@@ -5831,7 +6140,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "stealingthediamond.jpg",
-      "slug": "stealing-the-diamond"
+      "slug": "stealing-the-diamond",
+      "localThumb": "assets/game-covers/stealing-the-diamond.webp"
     },
     {
       "id": 229,
@@ -5850,7 +6160,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "stickman-golf"
+      "slug": "stickman-golf",
+      "localThumb": "assets/game-covers/stickman-golf.webp"
     },
     {
       "id": 230,
@@ -5869,7 +6180,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "unnamed.jpg",
-      "slug": "stickman-hook"
+      "slug": "stickman-hook",
+      "localThumb": "assets/game-covers/stickman-hook.webp"
     },
     {
       "id": 233,
@@ -5887,7 +6199,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "stormthehouse2.jpg",
-      "slug": "storm-the-house-2"
+      "slug": "storm-the-house-2",
+      "localThumb": "assets/game-covers/storm-the-house-2.webp"
     },
     {
       "id": 313,
@@ -5906,7 +6219,8 @@
       ],
       "thumb": "Territorial.png",
       "download": true,
-      "slug": "territorial"
+      "slug": "territorial",
+      "localThumb": "assets/game-covers/territorial.webp"
     },
     {
       "id": 247,
@@ -5924,7 +6238,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thebattle.png",
-      "slug": "the-battle"
+      "slug": "the-battle",
+      "localThumb": "assets/game-covers/the-battle.webp"
     },
     {
       "id": 248,
@@ -5943,7 +6258,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "images.png",
-      "slug": "the-final-earth"
+      "slug": "the-final-earth",
+      "localThumb": "assets/game-covers/the-final-earth.webp"
     },
     {
       "id": 251,
@@ -5962,7 +6278,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "there-is-no-game"
+      "slug": "there-is-no-game",
+      "localThumb": "assets/game-covers/there-is-no-game.webp"
     },
     {
       "id": 254,
@@ -5980,7 +6297,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "tiny-islands"
+      "slug": "tiny-islands",
+      "localThumb": "assets/game-covers/tiny-islands.webp"
     },
     {
       "id": 260,
@@ -5999,7 +6317,8 @@
       ],
       "thumb": "logo.png",
       "download": true,
-      "slug": "twitch-tetris"
+      "slug": "twitch-tetris",
+      "localThumb": "assets/game-covers/twitch-tetris.webp"
     },
     {
       "id": 267,
@@ -6017,7 +6336,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "square.png",
-      "slug": "waterworks"
+      "slug": "waterworks",
+      "localThumb": "assets/game-covers/waterworks.webp"
     },
     {
       "id": 268,
@@ -6036,7 +6356,8 @@
       ],
       "thumb": "thumb.png",
       "download": true,
-      "slug": "wall-smash"
+      "slug": "wall-smash",
+      "localThumb": "assets/game-covers/wall-smash.webp"
     },
     {
       "id": 274,
@@ -6055,7 +6376,8 @@
       ],
       "thumb": "img/logo_192x192.png",
       "download": true,
-      "slug": "wordle"
+      "slug": "wordle",
+      "localThumb": "assets/game-covers/wordle.webp"
     },
     {
       "id": 278,
@@ -6075,7 +6397,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "xx142-b2exe"
+      "slug": "xx142-b2exe",
+      "localThumb": "assets/game-covers/xx142-b2exe.webp"
     },
     {
       "id": 280,
@@ -6094,7 +6417,8 @@
       ],
       "thumb": "img/banner.png",
       "download": true,
-      "slug": "you-are-jeff-bezos"
+      "slug": "you-are-jeff-bezos",
+      "localThumb": "assets/game-covers/you-are-jeff-bezos.webp"
     },
     {
       "id": 30,
@@ -6114,7 +6438,8 @@
       ],
       "thumb": "splash.png",
       "trending": 107113,
-      "slug": "bitlife"
+      "slug": "bitlife",
+      "localThumb": "assets/game-covers/bitlife.webp"
     },
     {
       "id": 118,
@@ -6132,7 +6457,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "happy-hop"
+      "slug": "happy-hop",
+      "localThumb": "assets/game-covers/happy-hop.webp"
     },
     {
       "id": 119,
@@ -6150,7 +6476,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "hoverbotarena.JPG",
-      "slug": "hover-bot-arena"
+      "slug": "hover-bot-arena",
+      "localThumb": "assets/game-covers/hover-bot-arena.webp"
     },
     {
       "id": 131,
@@ -6169,7 +6496,8 @@
       ],
       "thumb": "pv1Gr5.png",
       "download": true,
-      "slug": "just-one-boss"
+      "slug": "just-one-boss",
+      "localThumb": "assets/game-covers/just-one-boss.webp"
     },
     {
       "id": 158,
@@ -6187,7 +6515,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "my-rusty-submarine"
+      "slug": "my-rusty-submarine",
+      "localThumb": "assets/game-covers/my-rusty-submarine.webp"
     },
     {
       "id": 166,
@@ -6205,7 +6534,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "ovo.png",
-      "slug": "ovo"
+      "slug": "ovo",
+      "localThumb": "assets/game-covers/ovo.webp"
     },
     {
       "id": 167,
@@ -6223,7 +6553,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "pandemic2.png",
-      "slug": "pandemic-2"
+      "slug": "pandemic-2",
+      "localThumb": "assets/game-covers/pandemic-2.webp"
     },
     {
       "id": 168,
@@ -6241,7 +6572,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.jpg",
-      "slug": "papa-s-burgeria"
+      "slug": "papa-s-burgeria",
+      "localThumb": "assets/game-covers/papa-s-burgeria.webp"
     },
     {
       "id": 169,
@@ -6259,7 +6591,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "papaspizzaria.jpg",
-      "slug": "papa-s-pizzaria"
+      "slug": "papa-s-pizzaria",
+      "localThumb": "assets/game-covers/papa-s-pizzaria.webp"
     },
     {
       "id": 170,
@@ -6277,7 +6610,8 @@
         "WASD / Arrow Keys / Mouse: Move"
       ],
       "thumb": "images/icon512.png",
-      "slug": "paper-io-2"
+      "slug": "paper-io-2",
+      "localThumb": "assets/game-covers/paper-io-2.webp"
     },
     {
       "id": 196,
@@ -6296,7 +6630,8 @@
       ],
       "thumb": "sandboxels.jpg",
       "download": true,
-      "slug": "sandboxels"
+      "slug": "sandboxels",
+      "localThumb": "assets/game-covers/sandboxels.webp"
     },
     {
       "id": 197,
@@ -6314,7 +6649,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "splash.png",
-      "slug": "santy-is-home"
+      "slug": "santy-is-home",
+      "localThumb": "assets/game-covers/santy-is-home.webp"
     },
     {
       "id": 202,
@@ -6332,7 +6668,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "512x512.jpg",
-      "slug": "sky-car-stunt"
+      "slug": "sky-car-stunt",
+      "localThumb": "assets/game-covers/sky-car-stunt.webp"
     },
     {
       "id": 211,
@@ -6350,7 +6687,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "img/logo.png",
-      "slug": "snowbattle"
+      "slug": "snowbattle",
+      "localThumb": "assets/game-covers/snowbattle.webp"
     },
     {
       "id": 215,
@@ -6369,7 +6707,8 @@
       ],
       "thumb": "logo.jpg",
       "download": true,
-      "slug": "solitaire"
+      "slug": "solitaire",
+      "localThumb": "assets/game-covers/solitaire.webp"
     },
     {
       "id": 249,
@@ -6388,7 +6727,8 @@
       ],
       "thumb": "splash.png",
       "download": true,
-      "slug": "the-hotel"
+      "slug": "the-hotel",
+      "localThumb": "assets/game-covers/the-hotel.webp"
     },
     {
       "id": 255,
@@ -6407,7 +6747,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "tosstheturtle.png",
-      "slug": "toss-the-turtle"
+      "slug": "toss-the-turtle",
+      "localThumb": "assets/game-covers/toss-the-turtle.webp"
     },
     {
       "id": 279,
@@ -6425,7 +6766,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icons/icon-512.png",
-      "slug": "yoshi-s-fabrication-lab"
+      "slug": "yoshi-s-fabrication-lab",
+      "localThumb": "assets/game-covers/yoshi-s-fabrication-lab.webp"
     },
     {
       "id": 307,
@@ -6444,7 +6786,8 @@
       ],
       "thumb": "PaperIo3.png",
       "download": true,
-      "slug": "paper-io-3"
+      "slug": "paper-io-3",
+      "localThumb": "assets/game-covers/paper-io-3.webp"
     },
     {
       "id": 403,
@@ -6463,7 +6806,8 @@
         "Release: Shoot"
       ],
       "thumb": "logo.jpg",
-      "slug": "mr-bullet"
+      "slug": "mr-bullet",
+      "localThumb": "assets/game-covers/mr-bullet.webp"
     },
     {
       "id": 404,
@@ -6482,7 +6826,8 @@
         "Note: WASD keys and dragging also work"
       ],
       "thumb": "logo.jpg",
-      "slug": "mutazone"
+      "slug": "mutazone",
+      "localThumb": "assets/game-covers/mutazone.webp"
     },
     {
       "id": 405,
@@ -6501,7 +6846,8 @@
         "Release: Jump"
       ],
       "thumb": "logo.jpg",
-      "slug": "ninja-cat"
+      "slug": "ninja-cat",
+      "localThumb": "assets/game-covers/ninja-cat.webp"
     },
     {
       "id": 406,
@@ -6519,7 +6865,8 @@
         "Arrow Keys: Move"
       ],
       "thumb": "logo.jpg",
-      "slug": "ovo-2"
+      "slug": "ovo-2",
+      "localThumb": "assets/game-covers/ovo-2.webp"
     },
     {
       "id": 407,
@@ -6537,7 +6884,8 @@
         "Arrow Keys: Move"
       ],
       "thumb": "logo.jpg",
-      "slug": "ovo-dimensions"
+      "slug": "ovo-dimensions",
+      "localThumb": "assets/game-covers/ovo-dimensions.webp"
     },
     {
       "id": 408,
@@ -6556,7 +6904,8 @@
         "P: Pause"
       ],
       "thumb": "logo.png",
-      "slug": "pacman"
+      "slug": "pacman",
+      "localThumb": "assets/game-covers/pacman.webp"
     },
     {
       "id": 409,
@@ -6575,7 +6924,8 @@
         "Drag: Switch"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-cherry-saga"
+      "slug": "papa-cherry-saga",
+      "localThumb": "assets/game-covers/papa-cherry-saga.webp"
     },
     {
       "id": 410,
@@ -6594,7 +6944,8 @@
         "P: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "parking-fury"
+      "slug": "parking-fury",
+      "localThumb": "assets/game-covers/parking-fury.webp"
     },
     {
       "id": 411,
@@ -6613,7 +6964,8 @@
         "P: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "parking-fury-2"
+      "slug": "parking-fury-2",
+      "localThumb": "assets/game-covers/parking-fury-2.webp"
     },
     {
       "id": 414,
@@ -6632,7 +6984,8 @@
         "P: Pause"
       ],
       "thumb": "67f5943d779b41b2bc6a67ce132b7c68-512x512.jpeg",
-      "slug": "parking-fury-3"
+      "slug": "parking-fury-3",
+      "localThumb": "assets/game-covers/parking-fury-3.webp"
     },
     {
       "id": 415,
@@ -6650,7 +7003,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "penalty-kick-online"
+      "slug": "penalty-kick-online",
+      "localThumb": "assets/game-covers/penalty-kick-online.webp"
     },
     {
       "id": 416,
@@ -6668,7 +7022,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "penalty-shooters-3"
+      "slug": "penalty-shooters-3",
+      "localThumb": "assets/game-covers/penalty-shooters-3.webp"
     },
     {
       "id": 417,
@@ -6686,7 +7041,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "pixel-smash-duel"
+      "slug": "pixel-smash-duel",
+      "localThumb": "assets/game-covers/pixel-smash-duel.webp"
     },
     {
       "id": 418,
@@ -6704,7 +7060,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "pizza-tower"
+      "slug": "pizza-tower",
+      "localThumb": "assets/game-covers/pizza-tower.webp"
     },
     {
       "id": 419,
@@ -6722,7 +7079,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "pou"
+      "slug": "pou",
+      "localThumb": "assets/game-covers/pou.webp"
     },
     {
       "id": 420,
@@ -6740,7 +7098,8 @@
         "Drag: Move"
       ],
       "thumb": "logo.jpg",
-      "slug": "pudding-monsters"
+      "slug": "pudding-monsters",
+      "localThumb": "assets/game-covers/pudding-monsters.webp"
     },
     {
       "id": 421,
@@ -6758,7 +7117,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "racing-monster-trucks"
+      "slug": "racing-monster-trucks",
+      "localThumb": "assets/game-covers/racing-monster-trucks.webp"
     },
     {
       "id": 422,
@@ -6776,7 +7136,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "run-3-space"
+      "slug": "run-3-space",
+      "localThumb": "assets/game-covers/run-3-space.webp"
     },
     {
       "id": 423,
@@ -6794,7 +7155,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "rusher-crusher"
+      "slug": "rusher-crusher",
+      "localThumb": "assets/game-covers/rusher-crusher.webp"
     },
     {
       "id": 424,
@@ -6812,7 +7174,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "save-the-doge"
+      "slug": "save-the-doge",
+      "localThumb": "assets/game-covers/save-the-doge.webp"
     },
     {
       "id": 425,
@@ -6830,7 +7193,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "sling-tomb"
+      "slug": "sling-tomb",
+      "localThumb": "assets/game-covers/sling-tomb.webp"
     },
     {
       "id": 426,
@@ -6848,7 +7212,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "9aefc9ef4a7f4d5d8062cfb563cc658c-512x512.jpeg",
-      "slug": "snail-bob-7"
+      "slug": "snail-bob-7",
+      "localThumb": "assets/game-covers/snail-bob-7.webp"
     },
     {
       "id": 427,
@@ -6866,7 +7231,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "snail-bob-8"
+      "slug": "snail-bob-8",
+      "localThumb": "assets/game-covers/snail-bob-8.webp"
     },
     {
       "id": 428,
@@ -6884,7 +7250,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "soccer-heads"
+      "slug": "soccer-heads",
+      "localThumb": "assets/game-covers/soccer-heads.webp"
     },
     {
       "id": 429,
@@ -6902,7 +7269,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "space-bar-clicker"
+      "slug": "space-bar-clicker",
+      "localThumb": "assets/game-covers/space-bar-clicker.webp"
     },
     {
       "id": 430,
@@ -6920,7 +7288,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "spider-solitaire"
+      "slug": "spider-solitaire",
+      "localThumb": "assets/game-covers/spider-solitaire.webp"
     },
     {
       "id": 431,
@@ -6938,7 +7307,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "super-liquid-soccer"
+      "slug": "super-liquid-soccer",
+      "localThumb": "assets/game-covers/super-liquid-soccer.webp"
     },
     {
       "id": 432,
@@ -6956,7 +7326,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "loading-logo.png",
-      "slug": "super-mario-wonder"
+      "slug": "super-mario-wonder",
+      "localThumb": "assets/game-covers/super-mario-wonder.webp"
     },
     {
       "id": 433,
@@ -6974,7 +7345,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "swingo"
+      "slug": "swingo",
+      "localThumb": "assets/game-covers/swingo.webp"
     },
     {
       "id": 434,
@@ -6992,7 +7364,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "tap-tap-shots"
+      "slug": "tap-tap-shots",
+      "localThumb": "assets/game-covers/tap-tap-shots.webp"
     },
     {
       "id": 435,
@@ -7010,7 +7383,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "tower-crash-3d"
+      "slug": "tower-crash-3d",
+      "localThumb": "assets/game-covers/tower-crash-3d.webp"
     },
     {
       "id": 436,
@@ -7028,7 +7402,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "traffic-control"
+      "slug": "traffic-control",
+      "localThumb": "assets/game-covers/traffic-control.webp"
     },
     {
       "id": 437,
@@ -7046,7 +7421,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "tunnel-rush-2"
+      "slug": "tunnel-rush-2",
+      "localThumb": "assets/game-covers/tunnel-rush-2.webp"
     },
     {
       "id": 438,
@@ -7064,7 +7440,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "turn-turn"
+      "slug": "turn-turn",
+      "localThumb": "assets/game-covers/turn-turn.webp"
     },
     {
       "id": 439,
@@ -7082,7 +7459,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon-256.png",
-      "slug": "wheelie-bike"
+      "slug": "wheelie-bike",
+      "localThumb": "assets/game-covers/wheelie-bike.webp"
     },
     {
       "id": 440,
@@ -7100,7 +7478,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "icon-256.png",
-      "slug": "wheelie-bike-2"
+      "slug": "wheelie-bike-2",
+      "localThumb": "assets/game-covers/wheelie-bike-2.webp"
     },
     {
       "id": 441,
@@ -7118,7 +7497,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-2"
+      "slug": "wheely-2",
+      "localThumb": "assets/game-covers/wheely-2.webp"
     },
     {
       "id": 442,
@@ -7136,7 +7516,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-3"
+      "slug": "wheely-3",
+      "localThumb": "assets/game-covers/wheely-3.webp"
     },
     {
       "id": 443,
@@ -7154,7 +7535,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-4"
+      "slug": "wheely-4",
+      "localThumb": "assets/game-covers/wheely-4.webp"
     },
     {
       "id": 444,
@@ -7172,7 +7554,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-5"
+      "slug": "wheely-5",
+      "localThumb": "assets/game-covers/wheely-5.webp"
     },
     {
       "id": 445,
@@ -7190,7 +7573,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-6"
+      "slug": "wheely-6",
+      "localThumb": "assets/game-covers/wheely-6.webp"
     },
     {
       "id": 446,
@@ -7208,7 +7592,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-7"
+      "slug": "wheely-7",
+      "localThumb": "assets/game-covers/wheely-7.webp"
     },
     {
       "id": 447,
@@ -7226,7 +7611,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wheely-8"
+      "slug": "wheely-8",
+      "localThumb": "assets/game-covers/wheely-8.webp"
     },
     {
       "id": 448,
@@ -7244,7 +7630,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "wood-block-puzzle"
+      "slug": "wood-block-puzzle",
+      "localThumb": "assets/game-covers/wood-block-puzzle.webp"
     },
     {
       "id": 449,
@@ -7262,7 +7649,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "woodventure"
+      "slug": "woodventure",
+      "localThumb": "assets/game-covers/woodventure.webp"
     },
     {
       "id": 450,
@@ -7280,7 +7668,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "wordle-unlimited"
+      "slug": "wordle-unlimited",
+      "localThumb": "assets/game-covers/wordle-unlimited.webp"
     },
     {
       "id": 451,
@@ -7298,7 +7687,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "word-slide"
+      "slug": "word-slide",
+      "localThumb": "assets/game-covers/word-slide.webp"
     },
     {
       "id": 452,
@@ -7317,7 +7707,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "unnamed.png",
-      "slug": "retro-bowl-college"
+      "slug": "retro-bowl-college",
+      "localThumb": "assets/game-covers/retro-bowl-college.webp"
     },
     {
       "id": 453,
@@ -7335,7 +7726,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "axis-football-league"
+      "slug": "axis-football-league",
+      "localThumb": "assets/game-covers/axis-football-league.webp"
     },
     {
       "id": 454,
@@ -7353,7 +7745,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "burrito-bison-revenge"
+      "slug": "burrito-bison-revenge",
+      "localThumb": "assets/game-covers/burrito-bison-revenge.webp"
     },
     {
       "id": 455,
@@ -7371,7 +7764,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.avif",
-      "slug": "fancy-pants-adventures-2"
+      "slug": "fancy-pants-adventures-2",
+      "localThumb": "assets/game-covers/fancy-pants-adventures-2.webp"
     },
     {
       "id": 456,
@@ -7389,7 +7783,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.avif",
-      "slug": "fancy-pants-adventures-3"
+      "slug": "fancy-pants-adventures-3",
+      "localThumb": "assets/game-covers/fancy-pants-adventures-3.webp"
     },
     {
       "id": 457,
@@ -7407,7 +7802,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "galaga"
+      "slug": "galaga",
+      "localThumb": "assets/game-covers/galaga.webp"
     },
     {
       "id": 458,
@@ -7425,7 +7821,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "dummy-never-fails"
+      "slug": "dummy-never-fails",
+      "localThumb": "assets/game-covers/dummy-never-fails.webp"
     },
     {
       "id": 459,
@@ -7443,7 +7840,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "dummy-never-fails-2"
+      "slug": "dummy-never-fails-2",
+      "localThumb": "assets/game-covers/dummy-never-fails-2.webp"
     },
     {
       "id": 460,
@@ -7461,7 +7859,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "gunblood"
+      "slug": "gunblood",
+      "localThumb": "assets/game-covers/gunblood.webp"
     },
     {
       "id": 461,
@@ -7479,7 +7878,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpeg",
-      "slug": "learn-to-fly-2"
+      "slug": "learn-to-fly-2",
+      "localThumb": "assets/game-covers/learn-to-fly-2.webp"
     },
     {
       "id": 462,
@@ -7497,7 +7897,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-bakeria"
+      "slug": "papa-s-bakeria",
+      "localThumb": "assets/game-covers/papa-s-bakeria.webp"
     },
     {
       "id": 463,
@@ -7515,7 +7916,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-cheeseria"
+      "slug": "papa-s-cheeseria",
+      "localThumb": "assets/game-covers/papa-s-cheeseria.webp"
     },
     {
       "id": 464,
@@ -7533,7 +7935,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-cupcakeria"
+      "slug": "papa-s-cupcakeria",
+      "localThumb": "assets/game-covers/papa-s-cupcakeria.webp"
     },
     {
       "id": 465,
@@ -7551,7 +7954,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.png",
-      "slug": "papa-s-donuteria"
+      "slug": "papa-s-donuteria",
+      "localThumb": "assets/game-covers/papa-s-donuteria.webp"
     },
     {
       "id": 466,
@@ -7569,7 +7973,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-freezeria"
+      "slug": "papa-s-freezeria",
+      "localThumb": "assets/game-covers/papa-s-freezeria.webp"
     },
     {
       "id": 467,
@@ -7587,7 +7992,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-hot-doggeria"
+      "slug": "papa-s-hot-doggeria",
+      "localThumb": "assets/game-covers/papa-s-hot-doggeria.webp"
     },
     {
       "id": 468,
@@ -7605,7 +8011,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-pancakeria"
+      "slug": "papa-s-pancakeria",
+      "localThumb": "assets/game-covers/papa-s-pancakeria.webp"
     },
     {
       "id": 469,
@@ -7623,7 +8030,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-pastaria"
+      "slug": "papa-s-pastaria",
+      "localThumb": "assets/game-covers/papa-s-pastaria.webp"
     },
     {
       "id": 470,
@@ -7641,7 +8049,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-scooperia"
+      "slug": "papa-s-scooperia",
+      "localThumb": "assets/game-covers/papa-s-scooperia.webp"
     },
     {
       "id": 471,
@@ -7659,7 +8068,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-sushiria"
+      "slug": "papa-s-sushiria",
+      "localThumb": "assets/game-covers/papa-s-sushiria.webp"
     },
     {
       "id": 472,
@@ -7677,7 +8087,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-taco-mia"
+      "slug": "papa-s-taco-mia",
+      "localThumb": "assets/game-covers/papa-s-taco-mia.webp"
     },
     {
       "id": 473,
@@ -7695,7 +8106,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "papa-s-wingeria"
+      "slug": "papa-s-wingeria",
+      "localThumb": "assets/game-covers/papa-s-wingeria.webp"
     },
     {
       "id": 474,
@@ -7713,7 +8125,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "gun-mayhem"
+      "slug": "gun-mayhem",
+      "localThumb": "assets/game-covers/gun-mayhem.webp"
     },
     {
       "id": 475,
@@ -7731,7 +8144,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.webp",
-      "slug": "gun-mayhem-2"
+      "slug": "gun-mayhem-2",
+      "localThumb": "assets/game-covers/gun-mayhem-2.webp"
     },
     {
       "id": 476,
@@ -7749,7 +8163,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "gun-mayhem-redux"
+      "slug": "gun-mayhem-redux",
+      "localThumb": "assets/game-covers/gun-mayhem-redux.webp"
     },
     {
       "id": 477,
@@ -7767,7 +8182,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.avif",
-      "slug": "icycle"
+      "slug": "icycle",
+      "localThumb": "assets/game-covers/icycle.webp"
     },
     {
       "id": 478,
@@ -7785,7 +8201,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "unnamed.png",
-      "slug": "monster-truck-destroyer"
+      "slug": "monster-truck-destroyer",
+      "localThumb": "assets/game-covers/monster-truck-destroyer.webp"
     },
     {
       "id": 479,
@@ -7803,7 +8220,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "pokemon-emerald"
+      "slug": "pokemon-emerald",
+      "localThumb": "assets/game-covers/pokemon-emerald.webp"
     },
     {
       "id": 480,
@@ -7821,7 +8239,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "pokemon-emerald-2"
+      "slug": "pokemon-emerald-2",
+      "localThumb": "assets/game-covers/pokemon-emerald-2.webp"
     },
     {
       "id": 481,
@@ -7839,7 +8258,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "logo.jpg",
-      "slug": "pokemon-firered"
+      "slug": "pokemon-firered",
+      "localThumb": "assets/game-covers/pokemon-firered.webp"
     },
     {
       "id": 482,
@@ -7857,7 +8277,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "slug": "bally"
+      "slug": "bally",
+      "localThumb": "assets/game-covers/bally.webp"
     },
     {
       "id": 483,
@@ -7875,7 +8296,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumbnail.jpg",
-      "slug": "bicycle-stunt-3d"
+      "slug": "bicycle-stunt-3d",
+      "localThumb": "assets/game-covers/bicycle-stunt-3d.webp"
     },
     {
       "id": 484,
@@ -7893,7 +8315,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "slug": "bob-the-robber-4"
+      "slug": "bob-the-robber-4",
+      "localThumb": "assets/game-covers/bob-the-robber-4.webp"
     },
     {
       "id": 485,
@@ -7911,7 +8334,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.png",
-      "slug": "bottle-flip-3d"
+      "slug": "bottle-flip-3d",
+      "localThumb": "assets/game-covers/bottle-flip-3d.webp"
     },
     {
       "id": 486,
@@ -7929,7 +8353,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.jpg",
-      "slug": "bullet-force"
+      "slug": "bullet-force",
+      "localThumb": "assets/game-covers/bullet-force.webp"
     },
     {
       "id": 487,
@@ -7949,7 +8374,8 @@
         "X: Weapon 2"
       ],
       "thumb": "thumb.jpg",
-      "slug": "burnin-rubber-5-xs"
+      "slug": "burnin-rubber-5-xs",
+      "localThumb": "assets/game-covers/burnin-rubber-5-xs.webp"
     },
     {
       "id": 488,
@@ -7968,7 +8394,8 @@
         "H: Reset Car"
       ],
       "thumb": "thumb.jpg",
-      "slug": "cartoon-mini-racing"
+      "slug": "cartoon-mini-racing",
+      "localThumb": "assets/game-covers/cartoon-mini-racing.webp"
     },
     {
       "id": 489,
@@ -7987,7 +8414,8 @@
         "Left / Right Arrows: Move"
       ],
       "thumb": "thumb.png",
-      "slug": "run-2"
+      "slug": "run-2",
+      "localThumb": "assets/game-covers/run-2.webp"
     },
     {
       "id": 490,
@@ -8005,7 +8433,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.avif",
-      "slug": "skywire"
+      "slug": "skywire",
+      "localThumb": "assets/game-covers/skywire.webp"
     },
     {
       "id": 491,
@@ -8023,7 +8452,8 @@
         "Still working on this one O_O"
       ],
       "thumb": "thumb.jpg",
-      "slug": "whack-your-boss"
+      "slug": "whack-your-boss",
+      "localThumb": "assets/game-covers/whack-your-boss.webp"
     },
     {
       "id": 492,
@@ -8042,7 +8472,8 @@
         "Up Arrow / W Key: Jump"
       ],
       "thumb": "thumb.webp",
-      "slug": "crazy-tunnel-3d"
+      "slug": "crazy-tunnel-3d",
+      "localThumb": "assets/game-covers/crazy-tunnel-3d.webp"
     },
     {
       "id": 493,
@@ -8060,7 +8491,8 @@
         "Arrow / WASD Keys: Dash Left / Right"
       ],
       "thumb": "logo.avif",
-      "slug": "eagle-ride"
+      "slug": "eagle-ride",
+      "localThumb": "assets/game-covers/eagle-ride.webp"
     },
     {
       "id": 494,
@@ -8082,7 +8514,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "logo.png",
-      "slug": "earn-to-die"
+      "slug": "earn-to-die",
+      "localThumb": "assets/game-covers/earn-to-die.webp"
     },
     {
       "id": 495,
@@ -8102,7 +8535,8 @@
         "Note: WASD keys also work"
       ],
       "thumb": "logo.png",
-      "slug": "electron-dash"
+      "slug": "electron-dash",
+      "localThumb": "assets/game-covers/electron-dash.webp"
     },
     {
       "id": 496,
@@ -8120,7 +8554,8 @@
         "Left / Right Arrow Keys: Turn Left / Right"
       ],
       "thumb": "logo.png",
-      "slug": "endless-tunnel"
+      "slug": "endless-tunnel",
+      "localThumb": "assets/game-covers/endless-tunnel.webp"
     },
     {
       "id": 497,
@@ -8138,7 +8573,8 @@
         "Arrow / WASD Keys: Move"
       ],
       "thumb": "logo.webp",
-      "slug": "fisherman-life"
+      "slug": "fisherman-life",
+      "localThumb": "assets/game-covers/fisherman-life.webp"
     },
     {
       "id": 498,
@@ -8157,7 +8593,8 @@
         "Down Arrow: Slide / Smash"
       ],
       "thumb": "logo.jpg",
-      "slug": "football-run"
+      "slug": "football-run",
+      "localThumb": "assets/game-covers/football-run.webp"
     },
     {
       "id": 499,
@@ -8178,7 +8615,8 @@
         "Esc: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "gladihoppers"
+      "slug": "gladihoppers",
+      "localThumb": "assets/game-covers/gladihoppers.webp"
     },
     {
       "id": 500,
@@ -8197,7 +8635,8 @@
         "S: Use Shield"
       ],
       "thumb": "logo.avif",
-      "slug": "glitch-dash"
+      "slug": "glitch-dash",
+      "localThumb": "assets/game-covers/glitch-dash.webp"
     },
     {
       "id": 501,
@@ -8224,7 +8663,8 @@
         "Esc: Pause"
       ],
       "thumb": "logo.jpg",
-      "slug": "ohio-fortnite"
+      "slug": "ohio-fortnite",
+      "localThumb": "assets/game-covers/ohio-fortnite.webp"
     },
     {
       "id": 502,
@@ -8243,7 +8683,8 @@
       ],
       "thumb": "logo.jpg",
       "new": true,
-      "slug": "gunspin"
+      "slug": "gunspin",
+      "localThumb": "assets/game-covers/gunspin.webp"
     },
     {
       "id": 503,
@@ -8262,7 +8703,8 @@
       ],
       "thumb": "logo.jpg",
       "new": true,
-      "slug": "happy-wheels"
+      "slug": "happy-wheels",
+      "localThumb": "assets/game-covers/happy-wheels.webp"
     },
     {
       "id": 504,
@@ -8281,7 +8723,8 @@
       ],
       "thumb": "logo.avif",
       "new": true,
-      "slug": "house-of-hazards"
+      "slug": "house-of-hazards",
+      "localThumb": "assets/game-covers/house-of-hazards.webp"
     },
     {
       "id": 505,
@@ -8300,7 +8743,8 @@
       ],
       "thumb": "logo.jpeg",
       "new": true,
-      "slug": "idle-light-city"
+      "slug": "idle-light-city",
+      "localThumb": "assets/game-covers/idle-light-city.webp"
     },
     {
       "id": 506,
@@ -8319,7 +8763,8 @@
       ],
       "thumb": "logo.jpeg",
       "new": true,
-      "slug": "idle-tree-city"
+      "slug": "idle-tree-city",
+      "localThumb": "assets/game-covers/idle-tree-city.webp"
     },
     {
       "id": 507,
@@ -8338,7 +8783,8 @@
       ],
       "thumb": "logo.png",
       "new": true,
-      "slug": "impossible-monster-truck"
+      "slug": "impossible-monster-truck",
+      "localThumb": "assets/game-covers/impossible-monster-truck.webp"
     },
     {
       "id": 508,
@@ -8357,7 +8803,8 @@
       ],
       "thumb": "logo.jpg",
       "new": true,
-      "slug": "indian-truck-simulator"
+      "slug": "indian-truck-simulator",
+      "localThumb": "assets/game-covers/indian-truck-simulator.webp"
     },
     {
       "id": 509,
@@ -8376,7 +8823,8 @@
       ],
       "thumb": "logo.avif",
       "new": true,
-      "slug": "jungle-td"
+      "slug": "jungle-td",
+      "localThumb": "assets/game-covers/jungle-td.webp"
     },
     {
       "id": 510,
@@ -8395,7 +8843,8 @@
       ],
       "thumb": "logo.png",
       "new": true,
-      "slug": "kingdom-rush"
+      "slug": "kingdom-rush",
+      "localThumb": "assets/game-covers/kingdom-rush.webp"
     },
     {
       "id": 511,
@@ -8414,7 +8863,8 @@
       ],
       "thumb": "logo.png",
       "new": true,
-      "slug": "kingdom-defense-mercenary"
+      "slug": "kingdom-defense-mercenary",
+      "localThumb": "assets/game-covers/kingdom-defense-mercenary.webp"
     }
   ]
 }
