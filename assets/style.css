@@ -359,3 +359,6 @@ footer .footer-seo-copy{
   #gameGrid .game-card:nth-child(n+25),
   #listingGrid .game-card:nth-child(n+25){content-visibility:auto;contain-intrinsic-size:0 390px}
 }
+
+/* Content quality / SEO sections */
+.overview-seo-article{margin-top:26px;padding-top:24px;border-top:1px solid var(--line)}.overview-seo-article h2{margin-top:26px;font-size:23px}.overview-seo-article h3{font-size:16px;margin:18px 0 6px}.game-faq{margin-top:28px;padding:22px;border:1px solid var(--line);border-radius:16px;background:#0c1320}.game-faq p{margin-bottom:14px}.home-seo{margin:20px 0 70px;padding:38px;border:1px solid var(--line);border-radius:24px;background:var(--panel);line-height:1.75}.home-seo h2{font-size:32px;letter-spacing:-.04em}.home-seo h3{margin-top:28px;font-size:20px}.home-seo h4{margin:16px 0 6px;font-size:15px}.home-seo p{color:var(--muted)}.home-seo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.home-seo-grid>div{padding:20px;border:1px solid var(--line);border-radius:16px;background:#0c1320}@media(max-width:720px){.home-seo{padding:24px}.home-seo-grid{grid-template-columns:1fr}}
