@@ -1,65 +1,88 @@
 <!DOCTYPE html>
-
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Driving &amp; Sports Unblocked Games</title><meta content="Play driving, racing and sports unblocked games online. Find cars, basketball, soccer and other free browser games." name="description"/><link href="https://1v1-lol-unbloked.github.io/driving-games.html" rel="canonical"/><link href="assets/style.css" rel="stylesheet"/><link href="assets/nav.css" rel="stylesheet"/><link href="assets/pages.css" rel="stylesheet"/></head><body data-list="driving"><div id="preroll"></div>
-<script>
-	function getScript(src) {
-    var headElm = document.head || document.getElementsByTagName('head')[0];
-    var script = document.createElement("script");
-    var once = true;
-    script.async = "async";
-    script.type = "text/javascript";
-    script.charset = "UTF-8";
-    script.src = src;
-    script.onload = script.onreadystatechange = function() {
-        if (once && (!script.readyState || /loaded|complete/.test(script.readyState))) {
-            once = false;         
-            script.onload = script.onreadystatechange = null;
-			console.log("okeey");
-        }
-    };
-	  headElm.appendChild(script);
-}
-
- 
-	getScript("https://api.adinplay.com/libs/aiptag/pub/HFZ/fine-arts.lol/tag.min.js");
- 
-	window.aiptag = window.aiptag || {cmd: []};
-	aiptag.cmd.display = aiptag.cmd.display || [];
-	aiptag.cmd.player = aiptag.cmd.player || [];
-
-	//CMP tool settings
-	aiptag.cmp = {
-		show: true,
-		position: "centered",
-		button: true,
-		buttonText: "Privacy settings",
-		buttonPosition: "bottom-left"
-	}
-
-	aiptag.cmd.player.push(function() {
-		aiptag.adplayer = new aipPlayer({
-			AD_WIDTH: 960,
-			AD_HEIGHT: 540,
-			AD_DISPLAY: 'center',
-			LOADING_TEXT: 'loading advertisement',
-			PREROLL_ELEM: function(){return document.getElementById('preroll')},
-			AIP_COMPLETE: function (evt){ try{ if(window.__pr_cb){ window.__pr_cb(); } }catch(e){} finally{ window.__pr_cb=null; } },
-			AIP_REMOVE: function ()  {}
-		});
-	});
-
-	function show_preroll(callback) {
-		window.__pr_cb = (typeof callback === 'function') ? callback : null;
-		if (typeof aiptag.adplayer !== 'undefined') {
-			aiptag.cmd.player.push(function() { aiptag.adplayer.startPreRoll(); });
-		} else {
-			if (window.__pr_cb) { var cb = window.__pr_cb; window.__pr_cb = null; cb(); }
-		}
-	}
-</script><header class="site-header"><a class="brand" href="/"><img alt="1v1 LOL Unblocked" src="assets/logo.svg"/><span>1v1 LOL Unblocked</span></a><nav aria-label="Main navigation" class="main-nav"><a href="/">Home</a><a href="/#games">Games</a><a href="popular-games.html">Popular</a><a href="top-unblocked-games.html">Top Unblocked</a><a href="new-games.html">New</a><a href="favorite-games.html">Favorites</a><div class="nav-dropdown"><button type="button">Categories ▾</button><div class="dropdown-menu"><a href="action-games.html">Action &amp; Adventure</a><a href="strategy-games.html">Strategy &amp; Puzzle</a><a href="casual-games.html">Casual &amp; Idle</a><a href="driving-games.html">Driving &amp; Sports</a></div></div><div class="nav-dropdown"><button type="button">Information ▾</button><div class="dropdown-menu"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a><a href="dmca.html">DMCA</a></div></div></nav></header><main><section class="page-hero"><span class="kicker">Game category</span><h1>Driving &amp; Sports</h1><p>Race cars, master tricky tracks and compete in basketball, soccer, football and other browser sports.</p><label class="search"><span>⌕</span><input id="listingSearch" placeholder="Search driving games…" type="search"/></label><div class="ad-slot-center category-ad-fixed">
-<div class="ad-placeholder" id="fine-arts-lol_970x250">
-<script type="text/javascript">
-      aiptag.cmd.display.push(function() { aipDisplayTag.display('fine-arts-lol_970x250'); });
-    </script>
-</div>
-</div></section><section class="listing-section"><div class="section-head"><h2>Driving and sports games</h2><span class="result-count" id="listingCount"></span></div><div class="game-grid" id="listingGrid"></div><div class="empty" hidden="" id="listingEmpty"><strong>Not Found!</strong></div><button class="load-more" id="listingMore">Load more games</button></section></main><footer><a class="brand" href="/"><img alt="" src="assets/logo.svg"/><span>1v1 LOL Unblocked</span></a><div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy</a><a href="terms.html">Terms</a><a href="dmca.html">DMCA</a></div></footer><script defer="" src="assets/listing.js"></script></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Driving &amp; Sports — Free Browser Games | 1v1 LOL Unblocked</title>
+<meta name="description" content="Driving, racing and sports games covering cars, bikes, soccer, basketball and more."/>
+<link rel="canonical" href="/driving-games.html"/>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml"/>
+<link rel="stylesheet" href="assets/style.css"/>
+<link rel="stylesheet" href="assets/nav.css"/>
+<link rel="stylesheet" href="assets/pages.css"/>
+</head>
+<body>
+<header class="site-header">
+<a class="brand" href="./"><img src="assets/logo.svg" alt="1v1 LOL Unblocked"/><span>1v1 LOL Unblocked</span></a>
+</header>
+<main class="content-page">
+<h1>Driving &amp; Sports</h1>
+<p>Driving, racing and sports games covering cars, bikes, soccer, basketball and more.</p>
+<ul class="game-grid">
+<li><a href="games/1-on-1-soccer.html">1 on 1 Soccer</a></li>
+<li><a href="games/3d-bowling.html">3D Bowling</a></li>
+<li><a href="games/8-ball-pool.html">8 Ball Pool</a></li>
+<li><a href="games/adrenaline-challenge.html">Adrenaline Challenge</a></li>
+<li><a href="games/adventure-drivers.html">Adventure Drivers</a></li>
+<li><a href="games/aquapark-slides.html">Aquapark Slides</a></li>
+<li><a href="games/basket-and-ball.html">Basket and Ball</a></li>
+<li><a href="games/basket-champs.html">Basket Champs</a></li>
+<li><a href="games/basketball-stars.html">Basketball Stars</a></li>
+<li><a href="games/basket-random.html">Basket Random</a></li>
+<li><a href="games/big-shot-boxing.html">Big Shot Boxing</a></li>
+<li><a href="games/biker-street.html">Biker Street</a></li>
+<li><a href="games/boxing-random.html">Boxing Random</a></li>
+<li><a href="games/car-rush.html">Car Rush</a></li>
+<li><a href="games/cars-simulator.html">Cars Simulator</a></li>
+<li><a href="games/cluster-rush.html">Cluster Rush</a></li>
+<li><a href="games/crazy-cars.html">Crazy Cars</a></li>
+<li><a href="games/draw-the-hill.html">Draw the Hill</a></li>
+<li><a href="games/drift-boss.html">Drift Boss</a></li>
+<li><a href="games/drive-mad.html">Drive Mad</a></li>
+<li><a href="games/edge-let-s-surf.html">Edge Let&#39;s Surf</a></li>
+<li><a href="games/eggy-car.html">Eggy Car</a></li>
+<li><a href="games/endless-truck.html">Endless Truck</a></li>
+<li><a href="games/football-brawl.html">Football Brawl</a></li>
+<li><a href="games/football-legends.html">Football Legends</a></li>
+<li><a href="games/football-strike.html">Football Strike</a></li>
+<li><a href="games/get-on-top.html">Get On Top</a></li>
+<li><a href="games/heads-arena.html">Heads Arena</a></li>
+<li><a href="games/head-soccer-2023.html">Head Soccer 2023</a></li>
+<li><a href="games/madalin-stunt-cars-2.html">Madalin Stunt Cars 2</a></li>
+<li><a href="games/moving-truck.html">Moving Truck</a></li>
+<li><a href="games/penalty-shooters-2.html">Penalty Shooters 2</a></li>
+<li><a href="games/retro-bowl.html">Retro Bowl</a></li>
+<li><a href="games/scrap-metal-3.html">Scrap Metal 3</a></li>
+<li><a href="games/soccer-random.html">Soccer Random</a></li>
+<li><a href="games/soccer-skills-euro-cup.html">Soccer Skills Euro Cup</a></li>
+<li><a href="games/the-heist.html">The Heist</a></li>
+<li><a href="games/volley-random.html">Volley Random</a></li>
+<li><a href="games/x-trial-racing.html">X Trial Racing</a></li>
+<li><a href="games/sky-car-stunt.html">Sky Car Stunt</a></li>
+<li><a href="games/parking-fury.html">Parking Fury</a></li>
+<li><a href="games/parking-fury-2.html">Parking Fury 2</a></li>
+<li><a href="games/parking-fury-3.html">Parking Fury 3</a></li>
+<li><a href="games/penalty-kick-online.html">Penalty Kick Online</a></li>
+<li><a href="games/penalty-shooters-3.html">Penalty Shooters 3</a></li>
+<li><a href="games/pixel-smash-duel.html">Pixel Smash Duel</a></li>
+<li><a href="games/racing-monster-trucks.html">Racing Monster Trucks</a></li>
+<li><a href="games/soccer-heads.html">Soccer Heads</a></li>
+<li><a href="games/super-liquid-soccer.html">Super Liquid Soccer</a></li>
+<li><a href="games/wheelie-bike.html">Wheelie Bike</a></li>
+<li><a href="games/wheelie-bike-2.html">Wheelie Bike 2</a></li>
+<li><a href="games/retro-bowl-college.html">Retro Bowl College</a></li>
+<li><a href="games/axis-football-league.html">Axis Football League</a></li>
+<li><a href="games/icycle.html">Icycle</a></li>
+<li><a href="games/monster-truck-destroyer.html">Monster Truck Destroyer</a></li>
+<li><a href="games/bicycle-stunt-3d.html">Bicycle Stunt 3D</a></li>
+<li><a href="games/burnin-rubber-5-xs.html">Burnin&#39; Rubber 5 XS</a></li>
+<li><a href="games/cartoon-mini-racing.html">Cartoon Mini Racing</a></li>
+<li><a href="games/earn-to-die.html">Earn to Die</a></li>
+<li><a href="games/happy-wheels.html">Happy Wheels</a></li>
+<li><a href="games/impossible-monster-truck.html">Impossible Monster Truck</a></li>
+<li><a href="games/indian-truck-simulator.html">Indian Truck Simulator</a></li>
+</ul>
+</main>
+<footer><a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="dmca.html">DMCA</a></footer>
+</body>
+</html>

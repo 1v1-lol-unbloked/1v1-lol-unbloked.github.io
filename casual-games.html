@@ -1,65 +1,95 @@
 <!DOCTYPE html>
-
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Casual &amp; Idle Unblocked Games</title><meta content="Relax with casual and idle unblocked games. Play clickers, simple arcade games and easy browser games for free." name="description"/><link href="https://1v1-lol-unbloked.github.io/casual-games.html" rel="canonical"/><link href="assets/style.css" rel="stylesheet"/><link href="assets/nav.css" rel="stylesheet"/><link href="assets/pages.css" rel="stylesheet"/></head><body data-list="casual"><div id="preroll"></div>
-<script>
-	function getScript(src) {
-    var headElm = document.head || document.getElementsByTagName('head')[0];
-    var script = document.createElement("script");
-    var once = true;
-    script.async = "async";
-    script.type = "text/javascript";
-    script.charset = "UTF-8";
-    script.src = src;
-    script.onload = script.onreadystatechange = function() {
-        if (once && (!script.readyState || /loaded|complete/.test(script.readyState))) {
-            once = false;         
-            script.onload = script.onreadystatechange = null;
-			console.log("okeey");
-        }
-    };
-	  headElm.appendChild(script);
-}
-
- 
-	getScript("https://api.adinplay.com/libs/aiptag/pub/HFZ/fine-arts.lol/tag.min.js");
- 
-	window.aiptag = window.aiptag || {cmd: []};
-	aiptag.cmd.display = aiptag.cmd.display || [];
-	aiptag.cmd.player = aiptag.cmd.player || [];
-
-	//CMP tool settings
-	aiptag.cmp = {
-		show: true,
-		position: "centered",
-		button: true,
-		buttonText: "Privacy settings",
-		buttonPosition: "bottom-left"
-	}
-
-	aiptag.cmd.player.push(function() {
-		aiptag.adplayer = new aipPlayer({
-			AD_WIDTH: 960,
-			AD_HEIGHT: 540,
-			AD_DISPLAY: 'center',
-			LOADING_TEXT: 'loading advertisement',
-			PREROLL_ELEM: function(){return document.getElementById('preroll')},
-			AIP_COMPLETE: function (evt){ try{ if(window.__pr_cb){ window.__pr_cb(); } }catch(e){} finally{ window.__pr_cb=null; } },
-			AIP_REMOVE: function ()  {}
-		});
-	});
-
-	function show_preroll(callback) {
-		window.__pr_cb = (typeof callback === 'function') ? callback : null;
-		if (typeof aiptag.adplayer !== 'undefined') {
-			aiptag.cmd.player.push(function() { aiptag.adplayer.startPreRoll(); });
-		} else {
-			if (window.__pr_cb) { var cb = window.__pr_cb; window.__pr_cb = null; cb(); }
-		}
-	}
-</script><header class="site-header"><a class="brand" href="/"><img alt="1v1 LOL Unblocked" src="assets/logo.svg"/><span>1v1 LOL Unblocked</span></a><nav aria-label="Main navigation" class="main-nav"><a href="/">Home</a><a href="/#games">Games</a><a href="popular-games.html">Popular</a><a href="top-unblocked-games.html">Top Unblocked</a><a href="new-games.html">New</a><a href="favorite-games.html">Favorites</a><div class="nav-dropdown"><button type="button">Categories ▾</button><div class="dropdown-menu"><a href="action-games.html">Action &amp; Adventure</a><a href="strategy-games.html">Strategy &amp; Puzzle</a><a href="casual-games.html">Casual &amp; Idle</a><a href="driving-games.html">Driving &amp; Sports</a></div></div><div class="nav-dropdown"><button type="button">Information ▾</button><div class="dropdown-menu"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a><a href="dmca.html">DMCA</a></div></div></nav></header><main><section class="page-hero"><span class="kicker">Game category</span><h1>Casual &amp; Idle</h1><p>Easy-to-learn clickers, idle games and relaxed arcade experiences for quick breaks or longer play sessions.</p><label class="search"><span>⌕</span><input id="listingSearch" placeholder="Search casual games…" type="search"/></label><div class="ad-slot-center category-ad-fixed">
-<div class="ad-placeholder" id="fine-arts-lol_970x250">
-<script type="text/javascript">
-      aiptag.cmd.display.push(function() { aipDisplayTag.display('fine-arts-lol_970x250'); });
-    </script>
-</div>
-</div></section><section class="listing-section"><div class="section-head"><h2>Casual unblocked games</h2><span class="result-count" id="listingCount"></span></div><div class="game-grid" id="listingGrid"></div><div class="empty" hidden="" id="listingEmpty"><strong>Not Found!</strong></div><button class="load-more" id="listingMore">Load more games</button></section></main><footer><a class="brand" href="/"><img alt="" src="assets/logo.svg"/><span>1v1 LOL Unblocked</span></a><div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy-policy.html">Privacy</a><a href="terms.html">Terms</a><a href="dmca.html">DMCA</a></div></footer><script defer="" src="assets/listing.js"></script></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Casual &amp; Idle — Free Browser Games | 1v1 LOL Unblocked</title>
+<meta name="description" content="Casual and idle games built for short sessions — clickers, relaxing titles and easy arcade fun."/>
+<link rel="canonical" href="/casual-games.html"/>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml"/>
+<link rel="stylesheet" href="assets/style.css"/>
+<link rel="stylesheet" href="assets/nav.css"/>
+<link rel="stylesheet" href="assets/pages.css"/>
+</head>
+<body>
+<header class="site-header">
+<a class="brand" href="./"><img src="assets/logo.svg" alt="1v1 LOL Unblocked"/><span>1v1 LOL Unblocked</span></a>
+</header>
+<main class="content-page">
+<h1>Casual &amp; Idle</h1>
+<p>Casual and idle games built for short sessions — clickers, relaxing titles and easy arcade fun.</p>
+<ul class="game-grid">
+<li><a href="games/trimps.html">Trimps</a></li>
+<li><a href="games/ages-of-conflict.html">Ages of Conflict</a></li>
+<li><a href="games/baldi-s-basics.html">Baldi&#39;s Basics</a></li>
+<li><a href="games/big-red-button.html">Big Red Button</a></li>
+<li><a href="games/bitcoin-clicker.html">Bitcoin Clicker</a></li>
+<li><a href="games/bottle-flip.html">Bottle Flip</a></li>
+<li><a href="games/clicker-heroes.html">Clicker Heroes</a></li>
+<li><a href="games/cookie-clicker.html">Cookie Clicker</a></li>
+<li><a href="games/core-ball.html">Core Ball</a></li>
+<li><a href="games/cs-go-clicker.html">CS:GO Clicker</a></li>
+<li><a href="games/dinosaurs-merge-master.html">Dinosaurs Merge Master</a></li>
+<li><a href="games/doge-miner.html">Doge Miner</a></li>
+<li><a href="games/doodle-jump.html">Doodle Jump</a></li>
+<li><a href="games/duck-life.html">Duck Life</a></li>
+<li><a href="games/duck-life-2.html">Duck Life 2</a></li>
+<li><a href="games/duck-life-3.html">Duck Life 3</a></li>
+<li><a href="games/duck-life-4.html">Duck Life 4</a></li>
+<li><a href="games/eel-slap.html">Eel Slap</a></li>
+<li><a href="games/elastic-face.html">Elastic Face</a></li>
+<li><a href="games/fake-virus.html">Fake Virus</a></li>
+<li><a href="games/flappy-bird.html">Flappy Bird</a></li>
+<li><a href="games/fruit-ninja.html">Fruit Ninja</a></li>
+<li><a href="games/guess-the-kitty.html">Guess the Kitty</a></li>
+<li><a href="games/gura-temberine.html">Gura Temberine</a></li>
+<li><a href="games/hacker-typer.html">Hacker Typer</a></li>
+<li><a href="games/hop-pop-it.html">Hop Pop It</a></li>
+<li><a href="games/idle-breakout.html">Idle Breakout</a></li>
+<li><a href="games/idle-mining-empire.html">Idle Mining Empire</a></li>
+<li><a href="games/idle-restaurants.html">Idle Restaurants</a></li>
+<li><a href="games/kitten-cannon.html">Kitten Cannon</a></li>
+<li><a href="games/learn-to-fly.html">Learn To Fly</a></li>
+<li><a href="games/little-alchemy-2.html">Little Alchemy 2</a></li>
+<li><a href="games/merge-round-racers.html">Merge Round Racers</a></li>
+<li><a href="games/minecraft-case-simulator.html">Minecraft Case Simulator</a></li>
+<li><a href="games/nut-simulator.html">Nut Simulator</a></li>
+<li><a href="games/particle-clicker.html">Particle Clicker</a></li>
+<li><a href="games/push-the-square.html">Push The Square</a></li>
+<li><a href="games/rise-higher.html">Rise Higher</a></li>
+<li><a href="games/sort-the-court.html">Sort The Court</a></li>
+<li><a href="games/space-company.html">Space Company</a></li>
+<li><a href="games/townscaper.html">Townscaper</a></li>
+<li><a href="games/veloce.html">VELOCE</a></li>
+<li><a href="games/weave-silk.html">Weave Silk</a></li>
+<li><a href="games/we-become-what-we-behold.html">We Become What We Behold</a></li>
+<li><a href="games/webgl-fluid-sim.html">WebGL Fluid Sim</a></li>
+<li><a href="games/papa-s-burgeria.html">Papa&#39;s Burgeria</a></li>
+<li><a href="games/papa-s-pizzaria.html">Papa&#39;s Pizzaria</a></li>
+<li><a href="games/sandboxels.html">Sandboxels</a></li>
+<li><a href="games/yoshi-s-fabrication-lab.html">Yoshi&#39;s Fabrication Lab</a></li>
+<li><a href="games/pou.html">Pou</a></li>
+<li><a href="games/space-bar-clicker.html">Space Bar Clicker</a></li>
+<li><a href="games/learn-to-fly-2.html">Learn To Fly 2</a></li>
+<li><a href="games/papa-s-bakeria.html">Papa&#39;s Bakeria</a></li>
+<li><a href="games/papa-s-cheeseria.html">Papa&#39;s Cheeseria</a></li>
+<li><a href="games/papa-s-cupcakeria.html">Papa&#39;s Cupcakeria</a></li>
+<li><a href="games/papa-s-donuteria.html">Papa&#39;s Donuteria</a></li>
+<li><a href="games/papa-s-freezeria.html">Papa&#39;s Freezeria</a></li>
+<li><a href="games/papa-s-hot-doggeria.html">Papa&#39;s Hot Doggeria</a></li>
+<li><a href="games/papa-s-pancakeria.html">Papa&#39;s Pancakeria</a></li>
+<li><a href="games/papa-s-pastaria.html">Papa&#39;s Pastaria</a></li>
+<li><a href="games/papa-s-scooperia.html">Papa&#39;s Scooperia</a></li>
+<li><a href="games/papa-s-sushiria.html">Papa&#39;s Sushiria</a></li>
+<li><a href="games/papa-s-taco-mia.html">Papa&#39;s Taco Mia</a></li>
+<li><a href="games/papa-s-wingeria.html">Papa&#39;s Wingeria</a></li>
+<li><a href="games/bottle-flip-3d.html">Bottle Flip 3D</a></li>
+<li><a href="games/whack-your-boss.html">Whack your Boss</a></li>
+<li><a href="games/fisherman-life.html">Fisherman Life</a></li>
+<li><a href="games/idle-light-city.html">Idle Light City</a></li>
+<li><a href="games/idle-tree-city.html">Idle Tree City</a></li>
+</ul>
+</main>
+<footer><a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="dmca.html">DMCA</a></footer>
+</body>
+</html>
