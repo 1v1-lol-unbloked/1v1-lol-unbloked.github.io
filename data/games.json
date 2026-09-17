@@ -53,7 +53,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Functu Games",
-      "about": "⚠️DO NOT click \"Clear Save\" or the game won't work!⚠️ Adam and Eve is back with another sequel: Adam and Eve 5 Part 1! Adam and Eve is a game series so horrible that it's actually fun to waste some time on! Everything on this game is bad, even the name! Because the game is so bad that you actually want to spend time to play it! Click on things to make a path for Adam so he can go find his beloved Eve, enjoy!",
+      "about": "DO NOT click \"Clear Save\" or the game won't work! Adam and Eve is back with another sequel: Adam and Eve 5 Part 1! Adam and Eve is a game series so horrible that it's actually fun to waste some time on! Everything on this game is bad, even the name! Because the game is so bad that you actually want to spend time to play it! Click on things to make a path for Adam so he can go find his beloved Eve, enjoy!",
       "controls": [
         "Click: Action"
       ],
@@ -70,7 +70,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Functu Games",
-      "about": "⚠️DO NOT click \"Clear Save\" or the game won't work!⚠️ Adam and Eve is back with another sequel: Adam and Eve 5 Part 2! Continue the adventure you started in part 1 here! Adam and Eve is a game series so horrible that it's actually fun to waste some time on! Everything on this game is bad, even the name! Because the game is so bad that you actually want to spend time to play it! Click on things to make a path for Adam so he can go find his beloved Eve! Enjoy!",
+      "about": "DO NOT click \"Clear Save\" or the game won't work! Adam and Eve is back with another sequel: Adam and Eve 5 Part 2! Continue the adventure you started in part 1 here! Adam and Eve is a game series so horrible that it's actually fun to waste some time on! Everything on this game is bad, even the name! Because the game is so bad that you actually want to spend time to play it! Click on things to make a path for Adam so he can go find his beloved Eve! Enjoy!",
       "controls": [
         "Click: Action"
       ],
@@ -187,7 +187,7 @@
       "genre": "Reaction Games",
       "build": "Flash",
       "dev": "The Game Homepage",
-      "about": "",
+      "about": "The metadata attached to Avalanche names The Game Homepage, labels the game Reaction, marks the browser build as Flash, and records the release as August 10, 2007.",
       "controls": [],
       "thumb": "avalanche.png",
       "slug": "avalanche"
@@ -222,7 +222,7 @@
       "genre": "Horror Games",
       "build": "Unity WebGL",
       "dev": "Fancy",
-      "about": "",
+      "about": "Backrooms is presented here from the catalog record for Fancy: genre Horror, build technology Unity WebGL, release information January 7, 2022.",
       "controls": [],
       "thumb": "img/splash.jpg",
       "slug": "backrooms"
@@ -237,7 +237,7 @@
       "genre": "Horror Games",
       "build": "Unity WebGL",
       "dev": "JujuProdGames",
-      "about": "",
+      "about": "The listing for Backrooms 2D credits JujuProdGames, classifies it as Horror, and identifies Unity WebGL as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "Backrooms2D.png",
       "slug": "backrooms-2d"
@@ -252,7 +252,7 @@
       "genre": "Run and Gun Games",
       "build": "HTML5, JavaScript",
       "dev": "SnoutUp Games",
-      "about": "",
+      "about": "Bacon May Die has a compact catalog profile: SnoutUp Games is the credited developer, Run and Gun is the listed genre, HTML5, JavaScript is the build type, and April 15, 2021 is the release value.",
       "controls": [],
       "thumb": "BaconMayDie.png",
       "slug": "bacon-may-die"
@@ -267,7 +267,7 @@
       "genre": "Run and Gun Games",
       "build": "Flash",
       "dev": "Brain Jam Studios",
-      "about": "",
+      "about": "Black Knight appears in the catalog as a Run and Gun title from Brain Jam Studios; its current entry is marked Flash and carries a release record of April 2005.",
       "controls": [],
       "thumb": "blackknight.png",
       "slug": "black-knight"
@@ -302,7 +302,7 @@
       "genre": "Escaping Games",
       "build": "HTML5, JavaScript",
       "dev": "Meow Beast",
-      "about": "",
+      "about": "Meow Beast is credited for Bob the Robber 2. The catalog places it under Escaping, records HTML5, JavaScript for this build, and gives April 24, 2012 as its release information.",
       "controls": [],
       "thumb": "splash.jpeg",
       "slug": "bob-the-robber-2"
@@ -317,7 +317,7 @@
       "genre": "Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "Spil Games",
-      "about": "",
+      "about": "This entry identifies Bomb It 7 with developer Spil Games, genre Arcade, technology HTML5, JavaScript, and a catalog release value of March 2018.",
       "controls": [
         "Arrow Keys: Move (Player 1)",
         "Space: Drop Bomb (Player 1)",
@@ -337,7 +337,7 @@
       "genre": "Action Games",
       "build": "Flash",
       "dev": "Sean Cooper",
-      "about": "",
+      "about": "Box Head has a compact catalog profile: Sean Cooper is the credited developer, Action is the listed genre, Flash is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "boxhead2play.jpg",
       "slug": "box-head"
@@ -369,7 +369,7 @@
       "genre": "RPG Games",
       "build": "HTML5, JavaScript",
       "dev": "Google Doodle",
-      "about": "",
+      "about": "Champion Island appears in the catalog as a RPG title from Google Doodle; its current entry is marked HTML5, JavaScript and carries a release record of July 23, 2021.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "champion-island"
@@ -384,7 +384,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "Stick Page",
-      "about": "",
+      "about": "This entry identifies Champion Archer with developer Stick Page, genre Tower Defense, technology Flash, and a catalog release value of April 1, 2012.",
       "controls": [],
       "thumb": "championarcher.png",
       "slug": "champion-archer"
@@ -399,7 +399,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies CraftMine with developer Anonymous, genre Adventure, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "images/craftmine.png",
       "slug": "craftmine"
@@ -414,7 +414,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "Stick Page",
-      "about": "",
+      "about": "The listing for Creative Kill Chamber credits Stick Page, classifies it as Escaping, and identifies Flash as the technology; the release field is august 3, 2010.",
       "controls": [],
       "thumb": "creativekillchamber.jpg",
       "slug": "creative-kill-chamber"
@@ -429,7 +429,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Nils Asejevs",
-      "about": "",
+      "about": "Cubefield appears in the catalog as a Reaction title from Nils Asejevs; its current entry is marked HTML5, JavaScript and carries a release record of January 2006.",
       "controls": [],
       "thumb": "assets/unnamed.png",
       "slug": "cubefield"
@@ -444,7 +444,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Salvatore Previti",
-      "about": "",
+      "about": "The browser record for Dante lists Salvatore Previti as developer and Platformer as genre. Its technology is HTML5, JavaScript, while the stored release information reads September 13, 2022.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "dante"
@@ -459,7 +459,7 @@
       "genre": "RPG Games",
       "build": "HTML5, JavaScript",
       "dev": "Lax Viking Games",
-      "about": "",
+      "about": "Dead Again has a compact catalog profile: Lax Viking Games is the credited developer, RPG is the listed genre, HTML5, JavaScript is the build type, and September 13, 2022 is the release value.",
       "controls": [
         "Arrow / WASD Keys: Move",
         "R / Space: Reload",
@@ -478,7 +478,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Wang Hailong",
-      "about": "",
+      "about": "Death Run 3D appears in the catalog as a Reaction title from Wang Hailong; its current entry is marked HTML5, JavaScript and carries a release record of December 1, 2014.",
       "controls": [],
       "thumb": "img/death.png",
       "slug": "death-run-3d"
@@ -493,7 +493,7 @@
       "genre": "Tower Defense Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Defend the Tank. The catalog places it under Tower Defense, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "images/splash.jpg",
       "slug": "defend-the-tank"
@@ -508,7 +508,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Dodge names Anonymous, labels the game Reaction, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "Dodge.png",
       "slug": "dodge"
@@ -541,7 +541,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Dragon vs Bricks. The catalog places it under Reaction, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "icon.jpg",
       "slug": "dragon-vs-bricks"
@@ -556,7 +556,7 @@
       "genre": "Empire Games",
       "build": "Flash",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Endless War 3 appears in the catalog as a Empire title from Anonymous; its current entry is marked Flash and carries a release record of Unknown.",
       "controls": [],
       "thumb": "endlesswar3.png",
       "slug": "endless-war-3"
@@ -571,7 +571,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "Agar3s",
-      "about": "",
+      "about": "The browser record for Evil Glitch lists Agar3s as developer and Shooting as genre. Its technology is HTML5, JavaScript, while the stored release information reads May 31, 2017.",
       "controls": [],
       "thumb": "evil.png",
       "slug": "evil-glitch"
@@ -586,7 +586,7 @@
       "genre": "Platformer Games",
       "build": "Flash",
       "dev": "Borne Games",
-      "about": "",
+      "about": "Fancy Pants Adventures has a compact catalog profile: Borne Games is the credited developer, Platformer is the listed genre, Flash is the build type, and April 2006 is the release value.",
       "controls": [],
       "thumb": "fancypantsadventure.png",
       "slug": "fancy-pants-adventures"
@@ -601,7 +601,7 @@
       "genre": "Teamwork Games",
       "build": "HTML5, JavaScript",
       "dev": "Oslo Albet",
-      "about": "",
+      "about": "Oslo Albet is credited for Fireboy and Watergirl. The catalog places it under Teamwork, records HTML5, JavaScript for this build, and gives November 19, 2009 as its release information.",
       "controls": [],
       "thumb": "logo.jpeg",
       "slug": "fireboy-and-watergirl"
@@ -616,7 +616,7 @@
       "genre": "Horror Games",
       "build": "HTML5, JavaScript",
       "dev": "Scottgames",
-      "about": "",
+      "about": "The metadata attached to Five Nights at Freddy's names Scottgames, labels the game Horror, marks the browser build as HTML5, JavaScript, and records the release as August 8, 2014.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "five-nights-at-freddy-s"
@@ -631,7 +631,7 @@
       "genre": "Horror Games",
       "build": "HTML5, JavaScript",
       "dev": "Calder Young",
-      "about": "",
+      "about": "The browser record for Five Nights at winston's lists Calder Young as developer and Horror as genre. Its technology is HTML5, JavaScript, while the stored release information reads February 27, 2021.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "five-nights-at-winston-s"
@@ -646,7 +646,7 @@
       "genre": "Timing Games",
       "build": "Unity WebGL",
       "dev": "Doot",
-      "about": "",
+      "about": "The listing for Froggy's Battle credits Doot, classifies it as Timing, and identifies Unity WebGL as the technology; the release field is August 21, 2022.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "froggy-s-battle"
@@ -661,7 +661,7 @@
       "genre": "Timing Games",
       "build": "Unity WebGL",
       "dev": "Traveler Tales",
-      "about": "",
+      "about": "For Frying Nemo, the stored metadata points to Traveler Tales as developer, Timing as genre, Unity WebGL as the browser technology, and May 5, 2003 as the release record.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "frying-nemo"
@@ -676,7 +676,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "GoGoMan",
-      "about": "",
+      "about": "The browser record for Funny Shooter 2 lists GoGoMan as developer and Shooter as genre. Its technology is Unity WebGL, while the stored release information reads August 2022.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "funny-shooter-2"
@@ -691,7 +691,7 @@
       "genre": "Action Games",
       "build": "HTML5, JavaScript",
       "dev": "Casper van Dommelen",
-      "about": "",
+      "about": "Generic Fishing Game appears in the catalog as a Action title from Casper van Dommelen; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "generic-fishing-game"
@@ -706,7 +706,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "RobTop Games",
-      "about": "",
+      "about": "For Geometry Dash Classic, the stored metadata points to RobTop Games as developer, Platformer as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [
         "Click: Jump"
       ],
@@ -723,7 +723,7 @@
       "genre": "Platformer Games",
       "build": "Scratch",
       "dev": "Griffpatch",
-      "about": "",
+      "about": "For Geometry Dash Scratch, the stored metadata points to Griffpatch as developer, Platformer as genre, Scratch as the browser technology, and April 19, 2016 as the release record.",
       "controls": [],
       "thumb": "geoscratchicon.png",
       "trending": 55399,
@@ -739,7 +739,7 @@
       "genre": "Shooting Games",
       "build": "Unity WebGL",
       "dev": "New Eich Games",
-      "about": "",
+      "about": "The metadata attached to Getaway Shootout names New Eich Games, labels the game Shooting, marks the browser build as Unity WebGL, and records the release as Unknown.",
       "controls": [],
       "thumb": "img/images.jpg",
       "slug": "getaway-shootout"
@@ -754,7 +754,7 @@
       "genre": "Dueling Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Gimme the Airpod names Anonymous, labels the game Dueling, marks the browser build as Unity WebGL, and records the release as Unknown.",
       "controls": [],
       "thumb": "img/logo.png",
       "slug": "gimme-the-airpod"
@@ -769,7 +769,7 @@
       "genre": "Action Games",
       "build": "HTML5, JavaScript",
       "dev": "Venturous",
-      "about": "",
+      "about": "For Gobdun, the stored metadata points to Venturous as developer, Action as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [
         "Up Arrow: Move Forward / Attack",
         "Down Arrow: Turn Around / Block",
@@ -790,7 +790,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "deepsleep",
-      "about": "",
+      "about": "GOODNIGHT is presented here from the catalog record for deepsleep: genre Platformer, build technology HTML5, JavaScript, release information 2018.",
       "controls": [],
       "thumb": "goodnight.jpg",
       "slug": "goodnight"
@@ -805,7 +805,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Groovy Ski belongs to the catalog’s Reaction group and is credited to Anonymous; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [
         "Click: Change Direction"
       ],
@@ -822,7 +822,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Serius Games",
-      "about": "",
+      "about": "G-Switch has a compact catalog profile: Serius Games is the credited developer, Reaction is the listed genre, HTML5, JavaScript is the build type, and February 3, 2010 is the release value.",
       "controls": [
         "Any Key: Flip Gravity",
         "Esc: Pause"
@@ -840,7 +840,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Serius Games",
-      "about": "",
+      "about": "G-Switch 2 has a compact catalog profile: Serius Games is the credited developer, Reaction is the listed genre, HTML5, JavaScript is the build type, and August 7, 2015 is the release value.",
       "controls": [
         "Any Key: Flip Gravity",
         "Esc: Pause"
@@ -858,7 +858,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Serius Games",
-      "about": "",
+      "about": "For G-Switch 3, the stored metadata points to Serius Games as developer, Reaction as genre, HTML5, JavaScript as the browser technology, and November 22, 2016 as the release record.",
       "controls": [
         "Any Key: Flip Gravity",
         "Esc: Pause"
@@ -876,7 +876,7 @@
       "genre": "Reaction Games",
       "build": "Flash",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Helicopter belongs to the catalog’s Reaction group and is credited to Anonymous; the indexed build uses Flash and the release field is Unknown.",
       "controls": [
         "Click: Fly Up"
       ],
@@ -893,7 +893,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Madbox",
-      "about": "",
+      "about": "The browser record for Hide and Smash lists Madbox as developer and Reaction as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [
         "Drag: Move",
         "Drop: Hide"
@@ -911,7 +911,7 @@
       "genre": "Horror Games",
       "build": "Unity WebGL",
       "dev": "Kulu",
-      "about": "",
+      "about": "Hungry Lamu is cataloged as Horror by Kulu; this browser entry uses Unity WebGL, with release information recorded as July 16, 2022.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "hungry-lamu"
@@ -947,7 +947,7 @@
       "genre": "Run and Gun Games",
       "build": "HTML5, JavaScript",
       "dev": "SnoutUp Games",
-      "about": "",
+      "about": "Iron Snout has a compact catalog profile: SnoutUp Games is the credited developer, Run and Gun is the listed genre, HTML5, JavaScript is the build type, and October 17, 2014 is the release value.",
       "controls": [],
       "thumb": "IronSnout.png",
       "slug": "iron-snout"
@@ -962,7 +962,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Halfbrick Studios",
-      "about": "",
+      "about": "According to the stored game record, Jetpack Joyride is a Endless Runner title by Halfbrick Studios, delivered through HTML5, JavaScript, with September 1, 2011 attached as release information.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "jetpack-joyride"
@@ -977,7 +977,7 @@
       "genre": "Survival Games",
       "build": "Unity WebGL",
       "dev": "JustPlay.LOL",
-      "about": "",
+      "about": "According to the stored game record, JustFall.lol is a Survival title by JustPlay.LOL, delivered through Unity WebGL, with April 14, 2021 attached as release information.",
       "controls": [],
       "thumb": "unnamed.png",
       "slug": "justfall-lol"
@@ -992,7 +992,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "Ash K",
-      "about": "",
+      "about": "This entry identifies Kitchen Gun Game with developer Ash K, genre Shooting, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "kitchen-gun-game"
@@ -1007,7 +1007,7 @@
       "genre": "Action Games",
       "build": "HTML5, JavaScript",
       "dev": "Cuga",
-      "about": "",
+      "about": "The listing for Knife Master credits Cuga, classifies it as Action, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "512x512.jpg",
       "slug": "knife-master"
@@ -1022,7 +1022,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Nintendo",
-      "about": "",
+      "about": "Mario appears in the catalog as a Platformer title from Nintendo; its current entry is marked HTML5, JavaScript and carries a release record of September 13, 1985.",
       "controls": [],
       "thumb": "Theme/Mario.gif",
       "slug": "mario"
@@ -1037,7 +1037,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Nintendo",
-      "about": "",
+      "about": "Mario Bros is cataloged as Platformer by Nintendo; this browser entry uses HTML5, JavaScript, with release information recorded as september 13, 1985.",
       "controls": [],
       "thumb": "NewSuperMarioBros.png",
       "slug": "mario-bros"
@@ -1052,7 +1052,7 @@
       "genre": "Run and Gun Games",
       "build": "Flash",
       "dev": "Suriyathept",
-      "about": "",
+      "about": "The metadata attached to Matrix Rampage names Suriyathept, labels the game Run and Gun, marks the browser build as Flash, and records the release as December 4, 2006.",
       "controls": [],
       "thumb": "matrixrampage.jpg",
       "slug": "matrix-rampage"
@@ -1067,7 +1067,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "Zanzlanz",
-      "about": "",
+      "about": "According to the stored game record, Mine Blocks is a Adventure title by Zanzlanz, delivered through HTML5, JavaScript, with November 13, 2020 attached as release information.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "mine-blocks"
@@ -1082,7 +1082,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "LAX1DUDE",
-      "about": "",
+      "about": "The listing for Minecraft 1.5 credits LAX1DUDE, classifies it as Adventure, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "splash.jpeg",
       "trending": 49660,
@@ -1098,7 +1098,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "LAX1DUDE",
-      "about": "",
+      "about": "Minecraft 1.8 belongs to the catalog’s Adventure group and is credited to LAX1DUDE; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "minecraft-1-8"
@@ -1113,7 +1113,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "Mojang Studios",
-      "about": "",
+      "about": "Minecraft Classic has a compact catalog profile: Mojang Studios is the credited developer, Adventure is the listed genre, HTML5, JavaScript is the build type, and May 17, 2009 is the release value.",
       "controls": [],
       "thumb": "pack.png",
       "slug": "minecraft-classic"
@@ -1128,7 +1128,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "Mojang Studios",
-      "about": "",
+      "about": "Minecraft Classic Hacks is cataloged as Adventure by Mojang Studios; this browser entry uses HTML5, JavaScript, with release information recorded as May 17, 2009.",
       "controls": [],
       "thumb": "bg_main.png",
       "slug": "minecraft-classic-hacks"
@@ -1143,7 +1143,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Missiles names Anonymous, labels the game Reaction, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "miss.png",
       "slug": "missiles"
@@ -1158,7 +1158,7 @@
       "genre": "Motorcycle Games",
       "build": "HTML5, JavaScript",
       "dev": "Madpuffers",
-      "about": "",
+      "about": "The metadata attached to Moto X3M names Madpuffers, labels the game Motorcycle, marks the browser build as HTML5, JavaScript, and records the release as August 18, 2015.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "moto-x3m"
@@ -1173,7 +1173,7 @@
       "genre": "Motorcycle Games",
       "build": "HTML5, JavaScript",
       "dev": "Madpuffers",
-      "about": "",
+      "about": "The browser record for Moto X3M 2 lists Madpuffers as developer and Motorcycle as genre. Its technology is HTML5, JavaScript, while the stored release information reads February 11, 2016.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "moto-x3m-2"
@@ -1188,7 +1188,7 @@
       "genre": "Motorcycle Games",
       "build": "HTML5, JavaScript",
       "dev": "Madpuffers",
-      "about": "",
+      "about": "Moto X3M Pool appears in the catalog as a Motorcycle title from Madpuffers; its current entry is marked HTML5, JavaScript and carries a release record of March 2019.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "moto-x3m-pool"
@@ -1203,7 +1203,7 @@
       "genre": "Motorcycle Games",
       "build": "HTML5, JavaScript",
       "dev": "Madpuffers",
-      "about": "",
+      "about": "Moto X3M Spooky belongs to the catalog’s Motorcycle group and is credited to Madpuffers; the indexed build uses HTML5, JavaScript and the release field is October 2019.",
       "controls": [],
       "thumb": "splash.jpeg",
       "slug": "moto-x3m-spooky"
@@ -1218,7 +1218,7 @@
       "genre": "Motorcycle Games",
       "build": "HTML5, JavaScript",
       "dev": "Madpuffers",
-      "about": "",
+      "about": "Moto X3M Winter is cataloged as Motorcycle by Madpuffers; this browser entry uses HTML5, JavaScript, with release information recorded as December 2017.",
       "controls": [],
       "thumb": "download.jpeg",
       "slug": "moto-x3m-winter"
@@ -1233,7 +1233,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "quadape",
-      "about": "",
+      "about": "The listing for n-gon credits quadape, classifies it as Platformer, and identifies HTML5, JavaScript as the technology; the release field is October 11, 2022.",
       "controls": [],
       "thumb": "bot.png",
       "slug": "n-gon"
@@ -1248,7 +1248,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Remil Vansteelandt",
-      "about": "",
+      "about": "Remil Vansteelandt is credited for Ninja vs Evil Corp. The catalog places it under Platformer, records HTML5, JavaScript for this build, and gives September 23, 2020 as its release information.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "ninja-vs-evil-corp"
@@ -1263,7 +1263,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Nagi-p Soft",
-      "about": "",
+      "about": "NS-Shaft belongs to the catalog’s Reaction group and is credited to Nagi-p Soft; the indexed build uses HTML5, JavaScript and the release field is 1990.",
       "controls": [],
       "thumb": "favicon.png",
       "slug": "ns-shaft"
@@ -1278,7 +1278,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "sirxemic",
-      "about": "",
+      "about": "Offline Paradise belongs to the catalog’s Platformer group and is credited to sirxemic; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "assets/icon.jpeg",
       "slug": "offline-paradise"
@@ -1293,7 +1293,7 @@
       "genre": "Tower Defense Games",
       "build": "HTML5, JavaScript",
       "dev": "ZeptoLab",
-      "about": "",
+      "about": "Om Nom Bounce belongs to the catalog’s Tower Defense group and is credited to ZeptoLab; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "assets/icon.jpeg",
       "slug": "om-nom-bounce"
@@ -1308,7 +1308,7 @@
       "genre": "Adventure Games",
       "build": "Scratch",
       "dev": "Griffpatch",
-      "about": "",
+      "about": "The browser record for Paper Minecraft lists Griffpatch as developer and Adventure as genre. Its technology is Scratch, while the stored release information reads December 1, 2014.",
       "controls": [],
       "thumb": "PaperMinecraft.png",
       "slug": "paper-minecraft"
@@ -1323,7 +1323,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "NuSan",
-      "about": "",
+      "about": "For P.Craft, the stored metadata points to NuSan as developer, Adventure as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "PCraft.png",
       "slug": "p-craft"
@@ -1338,7 +1338,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies Papery Planes with developer Anonymous, genre Reaction, technology Unity WebGL, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "papery-planes"
@@ -1353,7 +1353,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "Pixel Gun 3D",
-      "about": "",
+      "about": "The listing for Pixel Gun Survival credits Pixel Gun 3D, classifies it as Shooter, and identifies Unity WebGL as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "512x512.png",
       "slug": "pixel-gun-survival"
@@ -1368,7 +1368,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "gbatha",
-      "about": "",
+      "about": "PolyBranch is presented here from the catalog record for gbatha: genre Reaction, build technology HTML5, JavaScript, release information 2012.",
       "controls": [],
       "thumb": "img/pic1.png",
       "slug": "polybranch"
@@ -1383,7 +1383,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "rujogames",
-      "about": "",
+      "about": "Protektor has a compact catalog profile: rujogames is the credited developer, Shooting is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "protektor"
@@ -1398,7 +1398,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The listing for Rolling Forests credits Anonymous, classifies it as Reaction, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "icon.png",
       "slug": "rolling-forests"
@@ -1413,7 +1413,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "BDJ GAMES",
-      "about": "",
+      "about": "Rolly Vortex has a compact catalog profile: BDJ GAMES is the credited developer, Reaction is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "icon-256.png",
       "slug": "rolly-vortex"
@@ -1428,7 +1428,7 @@
       "genre": "Dueling Games",
       "build": "Unity WebGL",
       "dev": "New Eich Games",
-      "about": "",
+      "about": "According to the stored game record, Rooftop Snipers is a Dueling title by New Eich Games, delivered through Unity WebGL, with Unknown attached as release information.",
       "controls": [],
       "thumb": "img/thumb.png",
       "slug": "rooftop-snipers"
@@ -1443,7 +1443,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Ariel Wexler",
-      "about": "",
+      "about": "SHUTTLEDECK belongs to the catalog’s Reaction group and is credited to Ariel Wexler; the indexed build uses HTML5, JavaScript and the release field is September 13, 2021.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "shuttledeck"
@@ -1458,7 +1458,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "G55",
-      "about": "",
+      "about": "The listing for Skibidi Strike credits G55, classifies it as Shooter, and identifies Unity WebGL as the technology; the release field is September 2023.",
       "controls": [
         "WASD / Arrow Keys: Move",
         "Space: Jump",
@@ -1505,7 +1505,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Slope 2 is cataloged as Reaction by Anonymous; this browser entry uses Unity WebGL, with release information recorded as Unknown.",
       "controls": [],
       "thumb": "slope-2-logo.png",
       "slug": "slope-2"
@@ -1520,7 +1520,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Slope Ball is presented here from the catalog record for Anonymous: genre Reaction, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "slope-ball"
@@ -1535,7 +1535,7 @@
       "genre": "Adventure Games",
       "build": "HTML5, JavaScript",
       "dev": "Nintendo",
-      "about": "",
+      "about": "Nintendo is credited for Super Mario 64. The catalog places it under Adventure, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "super-mario-64"
@@ -1550,7 +1550,7 @@
       "genre": "Shooting Games",
       "build": "Flash",
       "dev": "GmaeSheep",
-      "about": "",
+      "about": "The metadata attached to Smoking Barrels names GmaeSheep, labels the game Shooting, marks the browser build as Flash, and records the release as November 18, 2007.",
       "controls": [],
       "thumb": "smokingbarrels.jpg",
       "slug": "smoking-barrels"
@@ -1565,7 +1565,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Snow Rider 3D belongs to the catalog’s Reaction group and is credited to Anonymous; the indexed build uses Unity WebGL and the release field is Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "snow-rider-3d"
@@ -1580,7 +1580,7 @@
       "genre": "Run and Gun Games",
       "build": "Unity WebGL",
       "dev": "QKY Game Studio",
-      "about": "",
+      "about": "Soldier Legend is presented here from the catalog record for QKY Game Studio: genre Run and Gun, build technology Unity WebGL, release information April 2, 2020.",
       "controls": [],
       "thumb": "images/splash.jpeg",
       "slug": "soldier-legend"
@@ -1595,7 +1595,7 @@
       "genre": "Action Games",
       "build": "HTML5, JavaScript",
       "dev": "Ryan Malm",
-      "about": "",
+      "about": "The metadata attached to Space Garden names Ryan Malm, labels the game Action, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "spl.png",
       "slug": "space-garden"
@@ -1610,7 +1610,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Stack appears in the catalog as a Timing title from Anonymous; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "stack.png",
       "slug": "stack"
@@ -1625,7 +1625,7 @@
       "genre": "Timing Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "For Stack Bump 3D, the stored metadata points to Anonymous as developer, Timing as genre, Unity WebGL as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "thumbnail.jpg",
       "slug": "stack-bump-3d"
@@ -1640,7 +1640,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "Maksim Chmutov",
-      "about": "",
+      "about": "Maksim Chmutov is credited for Station 141. The catalog places it under Shooter, records Unity WebGL for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "75wxYs.png",
       "slug": "station-141"
@@ -1655,7 +1655,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "RHM Interactive",
-      "about": "",
+      "about": "Stick Archers appears in the catalog as a Shooting title from RHM Interactive; its current entry is marked HTML5, JavaScript and carries a release record of January 2022.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "stick-archers"
@@ -1670,7 +1670,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "RHM Interactive",
-      "about": "",
+      "about": "For Stick Duel Battle, the stored metadata points to RHM Interactive as developer, Shooting as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "512x512.jpg",
       "slug": "stick-duel-battle"
@@ -1685,7 +1685,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "TinyDobbins",
-      "about": "",
+      "about": "Stick Merge belongs to the catalog’s Shooting group and is credited to TinyDobbins; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "stick-merge"
@@ -1700,7 +1700,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Stickman Boost is presented here from the catalog record for Anonymous: genre Platformer, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "base/img1.jpg",
       "slug": "stickman-boost"
@@ -1757,7 +1757,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "SUPERHOT Team",
-      "about": "",
+      "about": "Superhot is cataloged as Shooter by SUPERHOT Team; this browser entry uses Unity WebGL, with release information recorded as September 2013.",
       "controls": [],
       "thumb": "hot.jpg",
       "slug": "superhot"
@@ -1772,7 +1772,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "LuigiBonus",
-      "about": "",
+      "about": "The browser record for Super Mario Construct lists LuigiBonus as developer and Platformer as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "media/icons/icon-128.png",
       "slug": "super-mario-construct"
@@ -1787,7 +1787,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Breather",
-      "about": "",
+      "about": "This entry identifies Synesthesia with developer Breather, genre Platformer, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "index.splash.png",
       "slug": "synesthesia"
@@ -1802,7 +1802,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "Wilkin Games",
-      "about": "",
+      "about": "Wilkin Games is credited for Tactical Weapon Pack 2. The catalog places it under Shooting, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "tactical-weapon-pack-2"
@@ -1817,7 +1817,7 @@
       "genre": "Shooting Games",
       "build": "Flash",
       "dev": "Simon Hason Games",
-      "about": "",
+      "about": "This entry identifies Tactical Assassin 2 with developer Simon Hason Games, genre Shooting, technology Flash, and a catalog release value of 2005.",
       "controls": [],
       "thumb": "tacticalassassin2.png",
       "slug": "tactical-assassin-2"
@@ -1832,7 +1832,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "JetGames",
-      "about": "",
+      "about": "This entry identifies Tag with developer JetGames, genre Platformer, technology HTML5, JavaScript, and a catalog release value of December 2022.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "tag"
@@ -1847,7 +1847,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "Subterranean Software",
-      "about": "",
+      "about": "For Tank Trouble 2, the stored metadata points to Subterranean Software as developer, Shooting as genre, HTML5, JavaScript as the browser technology, and May 2015 as the release record.",
       "controls": [],
       "thumb": "tank.jpeg",
       "slug": "tank-trouble-2"
@@ -1862,7 +1862,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Rewind Games",
-      "about": "",
+      "about": "Tanuki Sunset is cataloged as Reaction by Rewind Games; this browser entry uses HTML5, JavaScript, with release information recorded as December 4, 2020.",
       "controls": [],
       "thumb": "img/cover.png",
       "slug": "tanuki-sunset"
@@ -1877,7 +1877,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Imangi Studios",
-      "about": "",
+      "about": "Temple Run 2 appears in the catalog as a Endless Runner title from Imangi Studios; its current entry is marked HTML5, JavaScript and carries a release record of January 16, 2013.",
       "controls": [],
       "thumb": "img/og-icon.png",
       "slug": "temple-run-2"
@@ -1892,7 +1892,7 @@
       "genre": "Adventure Games",
       "build": "Scratch",
       "dev": "Griffpatch",
-      "about": "",
+      "about": "This entry identifies Terraira with developer Griffpatch, genre Adventure, technology Scratch, and a catalog release value of February 6, 2015.",
       "controls": [],
       "thumb": "Terraira.png",
       "slug": "terraira"
@@ -1907,7 +1907,7 @@
       "genre": "Platformer Games",
       "build": "Flash",
       "dev": "jmtb02 (John Cooney)",
-      "about": "",
+      "about": "For This Is The Only Level, the stored metadata points to jmtb02 (John Cooney) as developer, Platformer as genre, Flash as the browser technology, and August 8, 2009 as the release record.",
       "controls": [],
       "thumb": "thisistheonlylevel.png",
       "slug": "this-is-the-only-level"
@@ -1922,7 +1922,7 @@
       "genre": "Progression Games",
       "build": "HTML5, JavaScript",
       "dev": "Mad Buffer",
-      "about": "",
+      "about": "Tiny Fishing is cataloged as Progression by Mad Buffer; this browser entry uses HTML5, JavaScript, with release information recorded as Unknown.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "tiny-fishing"
@@ -1937,7 +1937,7 @@
       "genre": "Management Games",
       "build": "HTML5, JavaScript",
       "dev": "Greensatellite",
-      "about": "",
+      "about": "Trimps belongs to the catalog’s Management group and is credited to Greensatellite; the indexed build uses HTML5, JavaScript and the release field is May 15, 2015.",
       "controls": [],
       "thumb": "Trimps.png",
       "slug": "trimps"
@@ -1952,7 +1952,7 @@
       "genre": "Arcade Games",
       "build": "Unity WebGL",
       "dev": "Michael Eichler",
-      "about": "",
+      "about": "This entry identifies Tube Jumpers with developer Michael Eichler, genre Arcade, technology Unity WebGL, and a catalog release value of June 29, 2016.",
       "controls": [],
       "thumb": "img/shark.jpg",
       "slug": "tube-jumpers"
@@ -1967,7 +1967,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Deer Cat Games",
-      "about": "",
+      "about": "Deer Cat Games is credited for Tunnel Rush. The catalog places it under Reaction, records Unity WebGL for this build, and gives 2014 as its release information.",
       "controls": [],
       "thumb": "img/tunnel.jpg",
       "slug": "tunnel-rush"
@@ -2102,7 +2102,7 @@
       "genre": "Shooting Games",
       "build": "HTML5, JavaScript",
       "dev": "id Software",
-      "about": "",
+      "about": "The metadata attached to Wolfenstein 3D names id Software, labels the game Shooting, marks the browser build as HTML5, JavaScript, and records the release as May 5, 1992.",
       "controls": [],
       "thumb": "art/wolf3d.png",
       "slug": "wolfenstein-3d"
@@ -2117,7 +2117,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "Stephen Critoph",
-      "about": "",
+      "about": "World's Hardest Game is cataloged as Timing by Stephen Critoph; this browser entry uses HTML5, JavaScript, with release information recorded as December 15, 2007.",
       "controls": [],
       "thumb": "images/splash.jpg",
       "slug": "world-s-hardest-game"
@@ -2132,7 +2132,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "Stephen Critoph",
-      "about": "",
+      "about": "World's Hardest Game 2 has a compact catalog profile: Stephen Critoph is the credited developer, Timing is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "the-worlds-hardest-game-2.jpg",
       "slug": "world-s-hardest-game-2"
@@ -2164,7 +2164,7 @@
       "genre": "Horror Games",
       "build": "Unity WebGL",
       "dev": "Micah McGonigal",
-      "about": "",
+      "about": "This entry identifies Baldi's Basics with developer Micah McGonigal, genre Horror, technology Unity WebGL, and a catalog release value of March 31, 2018.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "baldi-s-basics"
@@ -2179,7 +2179,7 @@
       "genre": "Casual Games",
       "build": "Flash",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Big Red Button appears in the catalog as a Casual title from Anonymous; its current entry is marked Flash and carries a release record of Unknown.",
       "controls": [],
       "thumb": "bigredbutton.png",
       "slug": "big-red-button"
@@ -2194,7 +2194,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "Julian Yamen",
-      "about": "",
+      "about": "Bitcoin Clicker is presented here from the catalog record for Julian Yamen: genre Clicker, build technology HTML5, JavaScript, release information January 1, 2018.",
       "controls": [],
       "thumb": "BitcoinClicker.png",
       "slug": "bitcoin-clicker"
@@ -2243,7 +2243,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "Orteil",
-      "about": "",
+      "about": "Orteil is credited for Cookie Clicker. The catalog places it under Clicker, records HTML5, JavaScript for this build, and gives August 8, 2013 as its release information.",
       "controls": [],
       "thumb": "cookie1.jpeg",
       "trending": 103745,
@@ -2259,7 +2259,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "According to the stored game record, Core Ball is a Timing title by Anonymous, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [],
       "thumb": "pr_source.png",
       "slug": "core-ball"
@@ -2274,7 +2274,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "CS:GO Clicker is cataloged as Clicker by Anonymous; this browser entry uses HTML5, JavaScript, with release information recorded as Unknown.",
       "controls": [],
       "thumb": "images/case1.png",
       "slug": "cs-go-clicker"
@@ -2306,7 +2306,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "rkn",
-      "about": "",
+      "about": "The metadata attached to Doge Miner names rkn, labels the game Clicker, marks the browser build as HTML5, JavaScript, and records the release as April 7, 2014.",
       "controls": [],
       "thumb": "img/dogeminer_300x300.png",
       "slug": "doge-miner"
@@ -2321,7 +2321,7 @@
       "genre": "Time Waster Games",
       "build": "HTML5, JavaScript",
       "dev": "Lima Sky",
-      "about": "",
+      "about": "For Doodle Jump, the stored metadata points to Lima Sky as developer, Time Waster as genre, HTML5, JavaScript as the browser technology, and March 15, 2009 as the release record.",
       "controls": [],
       "thumb": "doodle.png",
       "slug": "doodle-jump"
@@ -2336,7 +2336,7 @@
       "genre": "Management Games",
       "build": "Unity WebGL",
       "dev": "Wix Games",
-      "about": "",
+      "about": "Duck Life has a compact catalog profile: Wix Games is the credited developer, Management is the listed genre, Unity WebGL is the build type, and February 28, 2010 is the release value.",
       "controls": [],
       "thumb": "DuckLife.png",
       "slug": "duck-life"
@@ -2351,7 +2351,7 @@
       "genre": "Management Games",
       "build": "Unity WebGL",
       "dev": "Wix Games",
-      "about": "",
+      "about": "Duck Life 2 has a compact catalog profile: Wix Games is the credited developer, Management is the listed genre, Unity WebGL is the build type, and July 13, 2010 is the release value.",
       "controls": [],
       "thumb": "DuckLife2.png",
       "slug": "duck-life-2"
@@ -2366,7 +2366,7 @@
       "genre": "Management Games",
       "build": "Unity WebGL",
       "dev": "Wix Games",
-      "about": "",
+      "about": "The listing for Duck Life 3 credits Wix Games, classifies it as Management, and identifies Unity WebGL as the technology; the release field is May 16, 2011.",
       "controls": [],
       "thumb": "DuckLife3.png",
       "slug": "duck-life-3"
@@ -2381,7 +2381,7 @@
       "genre": "Management Games",
       "build": "Unity WebGL",
       "dev": "Wix Games",
-      "about": "",
+      "about": "Duck Life 4 belongs to the catalog’s Management group and is credited to Wix Games; the indexed build uses Unity WebGL and the release field is March 8, 2013.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "duck-life-4"
@@ -2396,7 +2396,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Eel Slap has a compact catalog profile: Anonymous is the credited developer, Relaxing is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "eel-slap.png",
       "slug": "eel-slap"
@@ -2411,7 +2411,7 @@
       "genre": "Relaxing Games",
       "build": "WebGL",
       "dev": "David Li",
-      "about": "",
+      "about": "Elastic Face appears in the catalog as a Relaxing title from David Li; its current entry is marked WebGL and carries a release record of June 9, 2021.",
       "controls": [],
       "thumb": "ElasticFace.png",
       "slug": "elastic-face"
@@ -2426,7 +2426,7 @@
       "genre": "Fake Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Fake Virus appears in the catalog as a Fake title from Anonymous; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "icon.png",
       "slug": "fake-virus"
@@ -2441,7 +2441,7 @@
       "genre": "Time Waster Games",
       "build": "HTML5, JavaScript",
       "dev": "Dong Nguyen, 3kh0",
-      "about": "",
+      "about": "This entry identifies Flappy Bird with developer Dong Nguyen, 3kh0, genre Time Waster, technology HTML5, JavaScript, and a catalog release value of May 24, 2013.",
       "controls": [],
       "thumb": "assets/thumb.png",
       "slug": "flappy-bird"
@@ -2456,7 +2456,7 @@
       "genre": "Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "Halfbrick Studios",
-      "about": "",
+      "about": "Halfbrick Studios is credited for Fruit Ninja. The catalog places it under Arcade, records HTML5, JavaScript for this build, and gives April 21, 2010 as its release information.",
       "controls": [
         "Drag: Slice"
       ],
@@ -2473,7 +2473,7 @@
       "genre": "Guessing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Guess the Kitty has a compact catalog profile: Anonymous is the credited developer, Guessing is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [
         "Click: Action"
       ],
@@ -2490,7 +2490,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Gura Temberine has a compact catalog profile: Anonymous is the credited developer, Relaxing is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "GuraTamberine.png",
       "slug": "gura-temberine"
@@ -2505,7 +2505,7 @@
       "genre": "Fake Games",
       "build": "HTML5, JavaScript",
       "dev": "duiker101",
-      "about": "",
+      "about": "duiker101 is credited for Hacker Typer. The catalog places it under Fake, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "logo192.png",
       "slug": "hacker-typer"
@@ -2520,7 +2520,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Infinity Games",
-      "about": "",
+      "about": "The browser record for Hop Pop It lists Infinity Games as developer and Relaxing as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [
         "Click: Pop"
       ],
@@ -2537,7 +2537,7 @@
       "genre": "Progression Games",
       "build": "HTML5, JavaScript",
       "dev": "Kodiqi",
-      "about": "",
+      "about": "Idle Breakout belongs to the catalog’s Progression group and is credited to Kodiqi; the indexed build uses HTML5, JavaScript and the release field is January 2019.",
       "controls": [],
       "thumb": "img/thumbnail.png",
       "slug": "idle-breakout"
@@ -2569,7 +2569,7 @@
       "genre": "Idle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "For Idle Restaurants, the stored metadata points to Anonymous as developer, Idle as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [
         "Click: Action"
       ],
@@ -2586,7 +2586,7 @@
       "genre": "Progression Games",
       "build": "Flash",
       "dev": "Dan Fleming",
-      "about": "",
+      "about": "This entry identifies Kitten Cannon with developer Dan Fleming, genre Progression, technology Flash, and a catalog release value of March 2005.",
       "controls": [],
       "thumb": "kittencannon.png",
       "slug": "kitten-cannon"
@@ -2601,7 +2601,7 @@
       "genre": "Progression Games",
       "build": "Flash",
       "dev": "Light Bringer Games",
-      "about": "",
+      "about": "For Learn To Fly, the stored metadata points to Light Bringer Games as developer, Progression as genre, Flash as the browser technology, and May 16, 2009 as the release record.",
       "controls": [],
       "thumb": "learntofly.png",
       "slug": "learn-to-fly"
@@ -2616,7 +2616,7 @@
       "genre": "Merging Games",
       "build": "HTML5, JavaScript",
       "dev": "Recloak",
-      "about": "",
+      "about": "Little Alchemy 2 has a compact catalog profile: Recloak is the credited developer, Merging is the listed genre, HTML5, JavaScript is the build type, and august 23, 2017 is the release value.",
       "controls": [
         "Drag: Move Element",
         "Drop: Merge Elements"
@@ -2634,7 +2634,7 @@
       "genre": "Merging Games",
       "build": "HTML5, JavaScript",
       "dev": "Tiny Dobbins",
-      "about": "",
+      "about": "This entry identifies Merge Round Racers with developer Tiny Dobbins, genre Merging, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "merge-round-racers"
@@ -2649,7 +2649,7 @@
       "genre": "Casual Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Minecraft Case Simulator names Anonymous, labels the game Casual, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [
         "Click: Action"
       ],
@@ -2666,7 +2666,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "f0e",
-      "about": "",
+      "about": "f0e is credited for Nut Simulator. The catalog places it under Clicker, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "NutSimulator.png",
       "slug": "nut-simulator"
@@ -2681,7 +2681,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "Code Warriors",
-      "about": "",
+      "about": "The metadata attached to Particle Clicker names Code Warriors, labels the game Clicker, marks the browser build as HTML5, JavaScript, and records the release as December 23, 2018.",
       "controls": [],
       "thumb": "assets/mobile/original.png",
       "slug": "particle-clicker"
@@ -2696,7 +2696,7 @@
       "genre": "Clicker Games",
       "build": "Unity WebGL",
       "dev": "Rual Moreno Tamayo",
-      "about": "",
+      "about": "According to the stored game record, Push The Square is a Clicker title by Rual Moreno Tamayo, delivered through Unity WebGL, with March 2019 attached as release information.",
       "controls": [],
       "thumb": "img/splash.png",
       "slug": "push-the-square"
@@ -2711,7 +2711,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies Rise Higher with developer Anonymous, genre Relaxing, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "RiseHigher.png",
       "slug": "rise-higher"
@@ -2726,7 +2726,7 @@
       "genre": "Guessing Games",
       "build": "Unity WebGL",
       "dev": "Graeme Borland",
-      "about": "",
+      "about": "Sort The Court belongs to the catalog’s Guessing group and is credited to Graeme Borland; the indexed build uses Unity WebGL and the release field is July 8, 2017.",
       "controls": [],
       "thumb": "img/splash.png",
       "slug": "sort-the-court"
@@ -2741,7 +2741,7 @@
       "genre": "Management Games",
       "build": "HTML5, JavaScript",
       "dev": "Sparticle999",
-      "about": "",
+      "about": "For Space Company, the stored metadata points to Sparticle999 as developer, Management as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "Icons/SpaceCompanyFavicon.png",
       "slug": "space-company"
@@ -2756,7 +2756,7 @@
       "genre": "Relaxing Games",
       "build": "Unity WebGL",
       "dev": "Oskar Stalberg",
-      "about": "",
+      "about": "Townscaper belongs to the catalog’s Relaxing group and is credited to Oskar Stalberg; the indexed build uses Unity WebGL and the release field is June 30, 2020.",
       "controls": [],
       "thumb": "img/cover.jpg",
       "slug": "townscaper"
@@ -2771,7 +2771,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Torfi",
-      "about": "",
+      "about": "VELOCE appears in the catalog as a Reaction title from Torfi; its current entry is marked Unity WebGL and carries a release record of 2019.",
       "controls": [],
       "thumb": "qN6zkD.png",
       "slug": "veloce"
@@ -2786,7 +2786,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Yuri Vishnevsky",
-      "about": "",
+      "about": "This entry identifies Weave Silk with developer Yuri Vishnevsky, genre Relaxing, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "weave-silk"
@@ -2801,7 +2801,7 @@
       "genre": "Time Waster Games",
       "build": "HTML5, JavaScript",
       "dev": "Nicky Case",
-      "about": "",
+      "about": "We Become What We Behold is presented here from the catalog record for Nicky Case: genre Time Waster, build technology HTML5, JavaScript, release information October 2016.",
       "controls": [],
       "thumb": "WeBecomeWhatWeBehold.png",
       "slug": "we-become-what-we-behold"
@@ -2816,7 +2816,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Pavel Dobryakov",
-      "about": "",
+      "about": "WebGL Fluid Sim belongs to the catalog’s Relaxing group and is credited to Pavel Dobryakov; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "webgl-fluid-sim"
@@ -2920,7 +2920,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "GameApp Studio",
-      "about": "",
+      "about": "Aquapark Slides is cataloged as Reaction by GameApp Studio; this browser entry uses Unity WebGL, with release information recorded as July 6, 2019.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "aquapark-slides"
@@ -3010,7 +3010,7 @@
       "genre": "Sports Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "RHM Interactive",
-      "about": "",
+      "about": "The metadata attached to Basket Random names RHM Interactive, labels the game Sports Arcade, marks the browser build as HTML5, JavaScript, and records the release as April 21, 2020.",
       "controls": [],
       "thumb": "BasketRandom.png",
       "trending": 65150,
@@ -3026,7 +3026,7 @@
       "genre": "Sports Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "Colin Lane Games AB",
-      "about": "",
+      "about": "Big Shot Boxing appears in the catalog as a Sports Arcade title from Colin Lane Games AB; its current entry is marked HTML5, JavaScript and carries a release record of December 7, 2017.",
       "controls": [],
       "thumb": "favicon.png",
       "slug": "big-shot-boxing"
@@ -3060,7 +3060,7 @@
       "genre": "Sports Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "RHM Interactive",
-      "about": "",
+      "about": "The listing for Boxing Random credits RHM Interactive, classifies it as Sports Arcade, and identifies HTML5, JavaScript as the technology; the release field is May 27, 2021.",
       "controls": [],
       "thumb": "512x512.jpg",
       "slug": "boxing-random"
@@ -3075,7 +3075,7 @@
       "genre": "Car Racing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Car Rush is presented here from the catalog record for Anonymous: genre Car Racing, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "car-rush"
@@ -3090,7 +3090,7 @@
       "genre": "Car Simulation Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "For Cars Simulator, the stored metadata points to Anonymous as developer, Car Simulation as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "cars-simulator"
@@ -3105,7 +3105,7 @@
       "genre": "Endless Runner Games",
       "build": "Unity WebGL",
       "dev": "SlashRoll",
-      "about": "",
+      "about": "The browser record for Cluster Rush lists SlashRoll as developer and Endless Runner as genre. Its technology is Unity WebGL, while the stored release information reads December 16, 2015.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "cluster-rush"
@@ -3120,7 +3120,7 @@
       "genre": "Car Simulation Games",
       "build": "Unity WebGL",
       "dev": "No Pressure Studios",
-      "about": "",
+      "about": "For Crazy Cars, the stored metadata points to No Pressure Studios as developer, Car Simulation as genre, Unity WebGL as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "crazy-cars"
@@ -3135,7 +3135,7 @@
       "genre": "Time Waster Games",
       "build": "HTML5, JavaScript",
       "dev": "Stelennnn",
-      "about": "",
+      "about": "Stelennnn is credited for Draw the Hill. The catalog places it under Time Waster, records HTML5, JavaScript for this build, and gives November 4, 2020 as its release information.",
       "controls": [],
       "thumb": "icons/icon-512.png",
       "slug": "draw-the-hill"
@@ -3150,7 +3150,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Drift Boss appears in the catalog as a Endless Runner title from Anonymous; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "drift-boss.png",
       "slug": "drift-boss"
@@ -3187,7 +3187,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Microsoft",
-      "about": "",
+      "about": "Edge Let's Surf belongs to the catalog’s Endless Runner group and is credited to Microsoft; the indexed build uses HTML5, JavaScript and the release field is April 15, 2021.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "edge-let-s-surf"
@@ -3239,7 +3239,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "InLogic Games",
-      "about": "",
+      "about": "InLogic Games is credited for Football Brawl. The catalog places it under Soccer, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "football-brawl"
@@ -3254,7 +3254,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Madpuffers",
-      "about": "",
+      "about": "Madpuffers is credited for Football Legends. The catalog places it under Soccer, records HTML5, JavaScript for this build, and gives April 2021 as its release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "football-legends"
@@ -3269,7 +3269,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies Football Strike with developer Anonymous, genre Soccer, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "football-strike"
@@ -3284,7 +3284,7 @@
       "genre": "Dueling Games",
       "build": "HTML5, JavaScript",
       "dev": "Bennett Foddy",
-      "about": "",
+      "about": "Get On Top belongs to the catalog’s Dueling group and is credited to Bennett Foddy; the indexed build uses HTML5, JavaScript and the release field is December 30, 2012.",
       "controls": [
         "WASD Keys: Move (Player 1)",
         "Arrow Keys: Move (Player 2)"
@@ -3302,7 +3302,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Poki",
-      "about": "",
+      "about": "The browser record for Heads Arena lists Poki as developer and Soccer as genre. Its technology is HTML5, JavaScript, while the stored release information reads January 2020.",
       "controls": [
         "Arrow Keys: Move (Player 1)",
         "Space: Shoot (Player 1)",
@@ -3322,7 +3322,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The listing for Head Soccer 2023 credits Anonymous, classifies it as Soccer, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "head-soccer-2023"
@@ -3337,7 +3337,7 @@
       "genre": "Car Simulation Games",
       "build": "Unity WebGL",
       "dev": "Madalin Stanchu",
-      "about": "",
+      "about": "This entry identifies Madalin Stunt Cars 2 with developer Madalin Stanchu, genre Car Simulation, technology Unity WebGL, and a catalog release value of July 2015.",
       "controls": [],
       "thumb": "img/logo.jpg",
       "slug": "madalin-stunt-cars-2"
@@ -3352,7 +3352,7 @@
       "genre": "Car Racing Games",
       "build": "HTML5, JavaScript",
       "dev": "7Spot Games",
-      "about": "",
+      "about": "7Spot Games is credited for Moving Truck. The catalog places it under Car Racing, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [
         "Up Arrow: Forward",
         "Down Arrow: Backward",
@@ -3393,7 +3393,7 @@
       "genre": "Football Games",
       "build": "HTML5, JavaScript",
       "dev": "New Star Games",
-      "about": "",
+      "about": "For Retro Bowl, the stored metadata points to New Star Games as developer, Football as genre, HTML5, JavaScript as the browser technology, and January 2020 as the release record.",
       "controls": [],
       "thumb": "img/icon.jpg",
       "trending": 356628,
@@ -3409,7 +3409,7 @@
       "genre": "Car Simulation Games",
       "build": "Unity WebGL",
       "dev": "Ciorbyn",
-      "about": "",
+      "about": "The metadata attached to Scrap Metal 3 names Ciorbyn, labels the game Car Simulation, marks the browser build as Unity WebGL, and records the release as Unknown.",
       "controls": [],
       "thumb": "img/splash.png",
       "slug": "scrap-metal-3"
@@ -3424,7 +3424,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "RHM Interactive",
-      "about": "",
+      "about": "For Soccer Random, the stored metadata points to RHM Interactive as developer, Soccer as genre, HTML5, JavaScript as the browser technology, and February 2020 as the release record.",
       "controls": [],
       "thumb": "unnamed.png",
       "slug": "soccer-random"
@@ -3439,7 +3439,7 @@
       "genre": "Sports Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "Radical Play",
-      "about": "",
+      "about": "Soccer Skills Euro Cup belongs to the catalog’s Sports Arcade group and is credited to Radical Play; the indexed build uses HTML5, JavaScript and the release field is July 24, 2021.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "soccer-skills-euro-cup"
@@ -3454,7 +3454,7 @@
       "genre": "Reaction Games",
       "build": "Flash",
       "dev": "JohnnyTwoShoes",
-      "about": "",
+      "about": "The Heist appears in the catalog as a Reaction title from JohnnyTwoShoes; its current entry is marked Flash and carries a release record of Unknown.",
       "controls": [],
       "thumb": "theheist.jpg",
       "slug": "the-heist"
@@ -3486,7 +3486,7 @@
       "genre": "Car Racing Games",
       "build": "HTML5, JavaScript",
       "dev": "QKY Game Studio",
-      "about": "",
+      "about": "The browser record for X Trial Racing lists QKY Game Studio as developer and Car Racing as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "x-trial-racing"
@@ -3674,7 +3674,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Nitrome",
-      "about": "",
+      "about": "Bad Ice Cream is presented here from the catalog record for Nitrome: genre Puzzle, build technology Flash, release information December 10, 2010.",
       "controls": [],
       "thumb": "bad-ice-cream.png",
       "slug": "bad-ice-cream"
@@ -3689,7 +3689,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Nitrome",
-      "about": "",
+      "about": "This entry identifies Bad Ice Cream 2 with developer Nitrome, genre Puzzle, technology Flash, and a catalog release value of December 21, 2012.",
       "controls": [],
       "thumb": "bad-ice-cream-2.png",
       "slug": "bad-ice-cream-2"
@@ -3704,7 +3704,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Nitrome",
-      "about": "",
+      "about": "Bad Ice Cream 3 appears in the catalog as a Puzzle title from Nitrome; its current entry is marked Flash and carries a release record of December 20, 2013.",
       "controls": [],
       "thumb": "bad-ice-cream-3.png",
       "slug": "bad-ice-cream-3"
@@ -3788,7 +3788,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "Games of Gondor",
-      "about": "",
+      "about": "Games of Gondor is credited for Battle for Gondor. The catalog places it under Tower Defense, records Flash for this build, and gives Jul 29, 2005 as its release information.",
       "controls": [],
       "thumb": "battleforgondor.JPG",
       "slug": "battle-for-gondor"
@@ -3803,7 +3803,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Quinten",
-      "about": "",
+      "about": "The browser record for Black Hole Square lists Quinten as developer and Puzzle as genre. Its technology is HTML5, JavaScript, while the stored release information reads December 6, 2021.",
       "controls": [],
       "thumb": "icon.png",
       "slug": "black-hole-square"
@@ -3835,7 +3835,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "Ninja Kiwi",
-      "about": "",
+      "about": "The browser record for Bloons TD lists Ninja Kiwi as developer and Tower Defense as genre. Its technology is Flash, while the stored release information reads August 16, 2007.",
       "controls": [],
       "thumb": "bloonstd.jpg",
       "slug": "bloons-td"
@@ -3850,7 +3850,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "Ninja Kiwi",
-      "about": "",
+      "about": "This entry identifies Bloons TD 2 with developer Ninja Kiwi, genre Tower Defense, technology Flash, and a catalog release value of March 2008.",
       "controls": [],
       "thumb": "bloonstd2.png",
       "slug": "bloons-td-2"
@@ -3865,7 +3865,7 @@
       "genre": "Tower Defense Games",
       "build": "HTML5, JavaScript",
       "dev": "Ninja Kiwi",
-      "about": "",
+      "about": "Bloons TD 4 belongs to the catalog’s Tower Defense group and is credited to Ninja Kiwi; the indexed build uses HTML5, JavaScript and the release field is October 26, 2009.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "bloons-td-4"
@@ -3880,7 +3880,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Damien Clarke",
-      "about": "",
+      "about": "According to the stored game record, Bloxors is a Puzzle title by Damien Clarke, delivered through Flash, with August 22, 2007 attached as release information.",
       "controls": [],
       "thumb": "block.png",
       "slug": "bloxors"
@@ -3914,7 +3914,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "PuffballsUnited",
-      "about": "",
+      "about": "The browser record for Breaking the Bank lists PuffballsUnited as developer and Escaping as genre. Its technology is Flash, while the stored release information reads August 27, 2008.",
       "controls": [],
       "thumb": "breakingthebank.png",
       "slug": "breaking-the-bank"
@@ -3929,7 +3929,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Evil Objective",
-      "about": "",
+      "about": "Big Tower Tiny Square is cataloged as Platformer by Evil Objective; this browser entry uses HTML5, JavaScript, with release information recorded as Febuary 5, 2018.",
       "controls": [],
       "thumb": "images.png",
       "slug": "big-tower-tiny-square"
@@ -3944,7 +3944,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Robowhale",
-      "about": "",
+      "about": "Bouncy Woods is cataloged as Physics-Based Strategy by Robowhale; this browser entry uses HTML5, JavaScript, with release information recorded as April 2020.",
       "controls": [
         "Drag: Aim",
         "Release: Shoot"
@@ -3981,7 +3981,7 @@
       "genre": "Endless Runner Games",
       "build": "Unity WebGL",
       "dev": "Juicy Beast",
-      "about": "",
+      "about": "Burrito Bison has a compact catalog profile: Juicy Beast is the credited developer, Endless Runner is the listed genre, Unity WebGL is the build type, and September 7, 2016 is the release value.",
       "controls": [],
       "thumb": "Build/logo.png",
       "slug": "burrito-bison"
@@ -3996,7 +3996,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Oleg Kuzyk",
-      "about": "",
+      "about": "Cannon Basketball 4 is cataloged as Physics-Based Strategy by Oleg Kuzyk; this browser entry uses HTML5, JavaScript, with release information recorded as March 2018.",
       "controls": [],
       "thumb": "img/splash.png",
       "slug": "cannon-basketball-4"
@@ -4011,7 +4011,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "miniclip",
-      "about": "",
+      "about": "The metadata attached to Canyon Defense names miniclip, labels the game Tower Defense, marks the browser build as Flash, and records the release as March 6, 2008.",
       "controls": [],
       "thumb": "canyondefense.png",
       "slug": "canyon-defense"
@@ -4026,7 +4026,7 @@
       "genre": "Puzzle Games",
       "build": "Unity WebGL",
       "dev": "Sam Hogan",
-      "about": "",
+      "about": "This entry identifies Cell Machine with developer Sam Hogan, genre Puzzle, technology Unity WebGL, and a catalog release value of January 2020.",
       "controls": [],
       "thumb": "img/te9nDu.png",
       "slug": "cell-machine"
@@ -4041,7 +4041,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "InLogic Games",
-      "about": "",
+      "about": "For Checkers Legend, the stored metadata points to InLogic Games as developer, Puzzle as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "thumb.jpg",
       "slug": "checkers-legend"
@@ -4056,7 +4056,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Florian van Strien",
-      "about": "",
+      "about": "The metadata attached to circlO names Florian van Strien, labels the game Puzzle, marks the browser build as HTML5, JavaScript, and records the release as December 06, 2014.",
       "controls": [],
       "thumb": "img/download.png",
       "slug": "circlo"
@@ -4089,7 +4089,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "According to the stored game record, Climb Over It is a Physics-Based Strategy title by Anonymous, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [],
       "thumb": "thumb.jpg",
       "slug": "climb-over-it"
@@ -4104,7 +4104,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Connect 3 is presented here from the catalog record for Anonymous: genre Puzzle, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "connect3.png",
       "slug": "connect-3"
@@ -4119,7 +4119,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Hipster Whale",
-      "about": "",
+      "about": "Crossy Road belongs to the catalog’s Reaction group and is credited to Hipster Whale; the indexed build uses HTML5, JavaScript and the release field is November 20, 2014.",
       "controls": [],
       "thumb": "crossyroad.png",
       "slug": "crossy-road"
@@ -4134,7 +4134,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "ZeptoLab",
-      "about": "",
+      "about": "Cut the Rope has a compact catalog profile: ZeptoLab is the credited developer, Physics-Based Strategy is the listed genre, HTML5, JavaScript is the build type, and October 4, 2010 is the release value.",
       "controls": [
         "Drag: Cut",
         "Click: Action"
@@ -4152,7 +4152,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "ZeptoLab",
-      "about": "",
+      "about": "The browser record for Cut the Rope Holiday lists ZeptoLab as developer and Physics-Based Strategy as genre. Its technology is HTML5, JavaScript, while the stored release information reads not specified.",
       "controls": [
         "Drag: Cut",
         "Click: Action"
@@ -4170,7 +4170,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "ZeptoLab",
-      "about": "",
+      "about": "Cut the Rope Time Travel is cataloged as Physics-Based Strategy by ZeptoLab; this browser entry uses HTML5, JavaScript, with release information recorded as April 18, 2013.",
       "controls": [
         "Drag: Cut",
         "click: Action"
@@ -4188,7 +4188,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Deal or No Deal names Anonymous, labels the game Puzzle, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "index.jpg",
       "slug": "deal-or-no-deal"
@@ -4203,7 +4203,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Unity WebGL",
       "dev": "Cosmic Adventure Squad",
-      "about": "",
+      "about": "For Deepest Sword, the stored metadata points to Cosmic Adventure Squad as developer, Physics-Based Strategy as genre, Unity WebGL as the browser technology, and April 26, 2021 as the release record.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "deepest-sword"
@@ -4235,7 +4235,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Doctor Acorn 2 belongs to the catalog’s Physics-Based Strategy group and is credited to Anonymous; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "doctor-acorn-2"
@@ -4250,7 +4250,7 @@
       "genre": "Number Games",
       "build": "HTML5, JavaScript",
       "dev": "Gabriele Cirulli, 3kh0",
-      "about": "",
+      "about": "Doge 2048 is presented here from the catalog record for Gabriele Cirulli, 3kh0: genre Number, build technology HTML5, JavaScript, release information September 2021.",
       "controls": [],
       "thumb": "doge1.jpeg",
       "slug": "doge-2048"
@@ -4265,7 +4265,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Auroriax",
-      "about": "",
+      "about": "This entry identifies Edge Not Found with developer Auroriax, genre Puzzle, technology HTML5, JavaScript, and a catalog release value of September 13, 2020.",
       "controls": [],
       "thumb": "edge.png",
       "slug": "edge-not-found"
@@ -4297,7 +4297,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Unity WebGL",
       "dev": "Keiwan Donyagard",
-      "about": "",
+      "about": "For Evolution, the stored metadata points to Keiwan Donyagard as developer, Physics-Based Strategy as genre, Unity WebGL as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "evolution"
@@ -4312,7 +4312,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The listing for Exo credits Anonymous, classifies it as Puzzle, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "img/small.jpg",
       "slug": "exo"
@@ -4327,7 +4327,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "AI Doge",
-      "about": "",
+      "about": "According to the stored game record, Factory Balls Forever is a Puzzle title by AI Doge, delivered through HTML5, JavaScript, with May 14, 2020 attached as release information.",
       "controls": [],
       "thumb": "images/splash.png",
       "slug": "factory-balls-forever"
@@ -4342,7 +4342,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "SoftGames",
-      "about": "",
+      "about": "According to the stored game record, Farm Match Seasons is a Puzzle title by SoftGames, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [
         "Click: Action",
         "Drag: Switch"
@@ -4360,7 +4360,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Nintendo",
-      "about": "",
+      "about": "Nintendo is credited for Flash Tetris. The catalog places it under Puzzle, records Flash for this build, and gives September 21, 1993 as its release information.",
       "controls": [],
       "thumb": "flashtetris.png",
       "slug": "flash-tetris"
@@ -4375,7 +4375,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "PuffballsUnited",
-      "about": "",
+      "about": "Fleeing the Complex belongs to the catalog’s Escaping group and is credited to PuffballsUnited; the indexed build uses Flash and the release field is November 12, 2015.",
       "controls": [
         "Click: Action"
       ],
@@ -4392,7 +4392,7 @@
       "genre": "Puzzle Games",
       "build": "Unity WebGL",
       "dev": "Sam Hogan",
-      "about": "",
+      "about": "The browser record for Game Inside a Game Inside a Game... lists Sam Hogan as developer and Puzzle as genre. Its technology is Unity WebGL, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "img/display.png",
       "slug": "game-inside-a-game-inside-a-game"
@@ -4407,7 +4407,7 @@
       "genre": "Escaping Games",
       "build": "Unity WebGL",
       "dev": "Robin Six",
-      "about": "",
+      "about": "George and the Printer appears in the catalog as a Escaping title from Robin Six; its current entry is marked Unity WebGL and carries a release record of Unknown.",
       "controls": [],
       "thumb": "img/SnDTEn.png",
       "slug": "george-and-the-printer"
@@ -4422,7 +4422,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Scratch",
       "dev": "Griffpatch",
-      "about": "",
+      "about": "Getting Over It is presented here from the catalog record for Griffpatch: genre Physics-Based Strategy, build technology Scratch, release information Unknown.",
       "controls": [],
       "thumb": "GettingOverIt.png",
       "slug": "getting-over-it"
@@ -4437,7 +4437,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "According to the stored game record, Go Ball is a Physics-Based Strategy title by Anonymous, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [],
       "thumb": "game.jpg",
       "slug": "go-ball"
@@ -4452,7 +4452,7 @@
       "genre": "Guessing Games",
       "build": "HTML5, JavaScript",
       "dev": "Justin Hook",
-      "about": "",
+      "about": "The browser record for Google Feud lists Justin Hook as developer and Guessing as genre. Its technology is HTML5, JavaScript, while the stored release information reads April 23, 2013.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "google-feud"
@@ -4467,7 +4467,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Qky Game Studio",
-      "about": "",
+      "about": "According to the stored game record, Gravity Soccer is a Physics-Based Strategy title by Qky Game Studio, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "gravity-soccer"
@@ -4482,7 +4482,7 @@
       "genre": "Puzzle Games",
       "build": "Unity WebGL",
       "dev": "Sam Hogan",
-      "about": "",
+      "about": "The browser record for Grey Box Testing lists Sam Hogan as developer and Puzzle as genre. Its technology is Unity WebGL, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "ico.png",
       "slug": "grey-box-testing"
@@ -4497,7 +4497,7 @@
       "genre": "Puzzle Games",
       "build": "Unity WebGL",
       "dev": "Pet Pumpkin",
-      "about": "",
+      "about": "Pet Pumpkin is credited for Handshakes. The catalog places it under Puzzle, records Unity WebGL for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "splaher.png",
       "slug": "handshakes"
@@ -4512,7 +4512,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Flash",
       "dev": "A Small Game",
-      "about": "",
+      "about": "The listing for Hanger credits A Small Game, classifies it as Physics-Based Strategy, and identifies Flash as the technology; the release field is September 16, 2010.",
       "controls": [
         "Hold: Hang",
         "Release: Detach"
@@ -4530,7 +4530,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Minijuegos",
-      "about": "",
+      "about": "This entry identifies Hex Empire with developer Minijuegos, genre Puzzle, technology Flash, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "hexempire.jpg",
       "slug": "hex-empire"
@@ -4545,7 +4545,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Logan Engstrom",
-      "about": "",
+      "about": "The metadata attached to Hextris names Logan Engstrom, labels the game Reaction, marks the browser build as HTML5, JavaScript, and records the release as August 2014.",
       "controls": [],
       "thumb": "images/hextris-logo.png",
       "slug": "hextris"
@@ -4560,7 +4560,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mini Duck Games",
-      "about": "",
+      "about": "Icy Purple Head 2 appears in the catalog as a Physics-Based Strategy title from Mini Duck Games; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [
         "Hold: Turns Icy",
         "Release: Turns Normal"
@@ -4578,7 +4578,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mini Duck Games",
-      "about": "",
+      "about": "Icy Purple Head 3 appears in the catalog as a Physics-Based Strategy title from Mini Duck Games; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [
         "Hold: Turns Icy",
         "Release: Turns Normal"
@@ -4596,7 +4596,7 @@
       "genre": "Time Waster Games",
       "build": "Flash",
       "dev": "Slapp-Me-Do",
-      "about": "",
+      "about": "This entry identifies Impossible Quiz with developer Slapp-Me-Do, genre Time Waster, technology Flash, and a catalog release value of February 20, 2007.",
       "controls": [],
       "thumb": "impossiblequiz.png",
       "slug": "impossible-quiz"
@@ -4611,7 +4611,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "PuffballsUnited",
-      "about": "",
+      "about": "According to the stored game record, Infiltrating the Airship is a Escaping title by PuffballsUnited, delivered through Flash, with May 27, 2013 attached as release information.",
       "controls": [
         "Click: Action"
       ],
@@ -4628,7 +4628,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Jewels Blitz 5 belongs to the catalog’s Puzzle group and is credited to Anonymous; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [
         "Drag: Move Tiles",
         "Drop: Switch Tiles"
@@ -4646,7 +4646,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "According to the stored game record, Marbles Sorting is a Puzzle title by Anonymous, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [
         "Click: Action"
       ],
@@ -4663,7 +4663,7 @@
       "genre": "Number Games",
       "build": "HTML5, JavaScript",
       "dev": "Gabriele Cirulli, 3kh0",
-      "about": "",
+      "about": "The metadata attached to Meme 2048 names Gabriele Cirulli, 3kh0, labels the game Number, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "img/rickroll.gif",
       "slug": "meme-2048"
@@ -4678,7 +4678,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Alister Scott",
-      "about": "",
+      "about": "For Minesweeper, the stored metadata points to Alister Scott as developer, Puzzle as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "img/minesweeper.png",
       "slug": "minesweeper"
@@ -4693,7 +4693,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Flash",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The browser record for Mini-putt lists Anonymous as developer and Physics-Based Strategy as genre. Its technology is Flash, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "miniputt.png",
       "slug": "mini-putt"
@@ -4708,7 +4708,7 @@
       "genre": "Teamwork Games",
       "build": "HTML5, JavaScript",
       "dev": "Meow Beast",
-      "about": "",
+      "about": "Money Movers is presented here from the catalog record for Meow Beast: genre Teamwork, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
@@ -4726,7 +4726,7 @@
       "genre": "Teamwork Games",
       "build": "HTML5, JavaScript",
       "dev": "Meow Beast",
-      "about": "",
+      "about": "This entry identifies Money Movers 2 with developer Meow Beast, genre Teamwork, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
@@ -4744,7 +4744,7 @@
       "genre": "Teamwork Games",
       "build": "HTML5, JavaScript",
       "dev": "Meow Beast",
-      "about": "",
+      "about": "Money Movers 3 appears in the catalog as a Teamwork title from Meow Beast; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
@@ -4762,7 +4762,7 @@
       "genre": "Parking Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Park Out is presented here from the catalog record for Anonymous: genre Parking, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "park-out"
@@ -4777,7 +4777,7 @@
       "genre": "Tower Defense Games",
       "build": "Scratch",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The listing for Plants vs Zombies credits Anonymous, classifies it as Tower Defense, and identifies Scratch as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "PlantsVsZombies.png",
       "slug": "plants-vs-zombies"
@@ -4792,7 +4792,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Flash",
       "dev": "We Create Stuff",
-      "about": "",
+      "about": "This entry identifies Portal (Flash) with developer We Create Stuff, genre Physics-Based Strategy, technology Flash, and a catalog release value of October 9, 2007.",
       "controls": [],
       "thumb": "portaltheflashversion.jpg",
       "slug": "portal-flash"
@@ -4807,7 +4807,7 @@
       "genre": "Guessing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Push Your Luck. The catalog places it under Guessing, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "assets/img/push.png",
       "slug": "push-your-luck"
@@ -4822,7 +4822,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Maksim Eliseenko",
-      "about": "",
+      "about": "This entry identifies Rabbit Samurai with developer Maksim Eliseenko, genre Physics-Based Strategy, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "rabbit-samurai"
@@ -4837,7 +4837,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Maksim Eliseenko",
-      "about": "",
+      "about": "Rabbit Samurai 2 is cataloged as Physics-Based Strategy by Maksim Eliseenko; this browser entry uses HTML5, JavaScript, with release information recorded as Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "rabbit-samurai-2"
@@ -4852,7 +4852,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "Riddle School 1 appears in the catalog as a Escaping title from JonBro; its current entry is marked Flash and carries a release record of May 25, 2006.",
       "controls": [],
       "thumb": "riddleschool.png",
       "slug": "riddle-school-1"
@@ -4867,7 +4867,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "The browser record for Riddle School 2 lists JonBro as developer and Escaping as genre. Its technology is Flash, while the stored release information reads November 13, 2006.",
       "controls": [],
       "thumb": "riddleschool2.png",
       "slug": "riddle-school-2"
@@ -4882,7 +4882,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "The metadata attached to Riddle School 3 names JonBro, labels the game Escaping, marks the browser build as Flash, and records the release as March 16, 2008.",
       "controls": [],
       "thumb": "riddleschool3.png",
       "slug": "riddle-school-3"
@@ -4897,7 +4897,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "This entry identifies Riddle School 4 with developer JonBro, genre Escaping, technology Flash, and a catalog release value of April 1, 2010.",
       "controls": [],
       "thumb": "riddleschool4.png",
       "slug": "riddle-school-4"
@@ -4912,7 +4912,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "Riddle School 5 appears in the catalog as a Escaping title from JonBro; its current entry is marked Flash and carries a release record of April 2, 2010.",
       "controls": [],
       "thumb": "riddleschool5.png",
       "slug": "riddle-school-5"
@@ -4927,7 +4927,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "Riddle School Transfer 1 has a compact catalog profile: JonBro is the credited developer, Escaping is the listed genre, Flash is the build type, and June 6, 2011 is the release value.",
       "controls": [],
       "thumb": "riddletransfer.png",
       "slug": "riddle-school-transfer-1"
@@ -4942,7 +4942,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "JonBro",
-      "about": "",
+      "about": "Riddle School Transfer 2 appears in the catalog as a Escaping title from JonBro; its current entry is marked Flash and carries a release record of May 25, 2016.",
       "controls": [],
       "thumb": "riddletransfer2.png",
       "slug": "riddle-school-transfer-2"
@@ -4957,7 +4957,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Martin Magni",
-      "about": "",
+      "about": "The metadata attached to Roper names Martin Magni, labels the game Physics-Based Strategy, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "webapp/cover.jpg",
       "slug": "roper"
@@ -4972,7 +4972,7 @@
       "genre": "Tower Defense Games",
       "build": "HTML5, JavaScript",
       "dev": "kiz10",
-      "about": "",
+      "about": "Slime Rush TD is presented here from the catalog record for kiz10: genre Tower Defense, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "slime-rush-td"
@@ -4987,7 +4987,7 @@
       "genre": "Escaping Games",
       "build": "Flash",
       "dev": "PuffballsUnited",
-      "about": "",
+      "about": "According to the stored game record, Stealing The Diamond is a Escaping title by PuffballsUnited, delivered through Flash, with July 8, 2011 attached as release information.",
       "controls": [],
       "thumb": "stealingthediamond.jpg",
       "slug": "stealing-the-diamond"
@@ -5002,7 +5002,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Noodlecake Games",
-      "about": "",
+      "about": "Stickman Golf is presented here from the catalog record for Noodlecake Games: genre Physics-Based Strategy, build technology HTML5, JavaScript, release information June 7, 2011.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "stickman-golf"
@@ -5017,7 +5017,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Madbox",
-      "about": "",
+      "about": "For Stickman Hook, the stored metadata points to Madbox as developer, Physics-Based Strategy as genre, HTML5, JavaScript as the browser technology, and October 3, 2018 as the release record.",
       "controls": [],
       "thumb": "unnamed.jpg",
       "slug": "stickman-hook"
@@ -5032,7 +5032,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "Ivory",
-      "about": "",
+      "about": "Storm The House 2 is cataloged as Tower Defense by Ivory; this browser entry uses Flash, with release information recorded as March 22, 2007.",
       "controls": [],
       "thumb": "stormthehouse2.jpg",
       "slug": "storm-the-house-2"
@@ -5047,7 +5047,7 @@
       "genre": "Empire Games",
       "build": "HTML5, JavaScript",
       "dev": "David Tschacher",
-      "about": "",
+      "about": "This entry identifies Territorial with developer David Tschacher, genre Empire, technology HTML5, JavaScript, and a catalog release value of August 3, 2020.",
       "controls": [],
       "thumb": "Territorial.png",
       "slug": "territorial"
@@ -5062,7 +5062,7 @@
       "genre": "Tower Defense Games",
       "build": "Flash",
       "dev": "Free World Group",
-      "about": "",
+      "about": "The Battle is presented here from the catalog record for Free World Group: genre Tower Defense, build technology Flash, release information Unknown.",
       "controls": [],
       "thumb": "thebattle.png",
       "slug": "the-battle"
@@ -5077,7 +5077,7 @@
       "genre": "Management Games",
       "build": "HTML5, JavaScript",
       "dev": "Florian van Strien",
-      "about": "",
+      "about": "The Final Earth is cataloged as Management by Florian van Strien; this browser entry uses HTML5, JavaScript, with release information recorded as July 15, 2022.",
       "controls": [],
       "thumb": "images.png",
       "slug": "the-final-earth"
@@ -5092,7 +5092,7 @@
       "genre": "Escaping Games",
       "build": "HTML5, JavaScript",
       "dev": "KaMiZoTo",
-      "about": "",
+      "about": "The listing for There Is No Game credits KaMiZoTo, classifies it as Escaping, and identifies HTML5, JavaScript as the technology; the release field is June 25, 2015.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "there-is-no-game"
@@ -5107,7 +5107,7 @@
       "genre": "Puzzle Games",
       "build": "Unity WebGL",
       "dev": "David King",
-      "about": "",
+      "about": "The metadata attached to Tiny Islands names David King, labels the game Puzzle, marks the browser build as Unity WebGL, and records the release as 2019.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "tiny-islands"
@@ -5122,7 +5122,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "TwitchCode",
-      "about": "",
+      "about": "According to the stored game record, Twitch Tetris is a Puzzle title by TwitchCode, delivered through HTML5, JavaScript, with 2014 attached as release information.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "twitch-tetris"
@@ -5137,7 +5137,7 @@
       "genre": "Management Games",
       "build": "HTML5, JavaScript",
       "dev": "scriptwelder",
-      "about": "",
+      "about": "Waterworks! appears in the catalog as a Management title from scriptwelder; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "square.png",
       "slug": "waterworks"
@@ -5152,7 +5152,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Wall Smash is presented here from the catalog record for Anonymous: genre Physics-Based Strategy, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "wall-smash"
@@ -5167,7 +5167,7 @@
       "genre": "Word Games",
       "build": "HTML5, JavaScript",
       "dev": "Josh Wardle",
-      "about": "",
+      "about": "Josh Wardle is credited for Wordle. The catalog places it under Word, records HTML5, JavaScript for this build, and gives October 2021 as its release information.",
       "controls": [],
       "thumb": "img/logo_192x192.png",
       "slug": "wordle"
@@ -5182,7 +5182,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Ben Clark, Salvatore Previti",
-      "about": "",
+      "about": "xx142-b2exe appears in the catalog as a Puzzle title from Ben Clark, Salvatore Previti; its current entry is marked HTML5, JavaScript and carries a release record of September 13, 2019.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "xx142-b2exe"
@@ -5197,7 +5197,7 @@
       "genre": "Text-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Kris Lorischild",
-      "about": "",
+      "about": "Kris Lorischild is credited for You Are Jeff Bezos. The catalog places it under Text-Based Strategy, records HTML5, JavaScript for this build, and gives October 24, 2018 as its release information.",
       "controls": [],
       "thumb": "img/banner.png",
       "slug": "you-are-jeff-bezos"
@@ -5230,7 +5230,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "For Happy Hop, the stored metadata points to Anonymous as developer, Reaction as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "happy-hop"
@@ -5245,7 +5245,7 @@
       "genre": "Shooting Games",
       "build": "Flash",
       "dev": "Diseased Productions",
-      "about": "",
+      "about": "According to the stored game record, Hover Bot Arena is a Shooting title by Diseased Productions, delivered through Flash, with February 25, 2007 attached as release information.",
       "controls": [],
       "thumb": "hoverbotarena.JPG",
       "slug": "hover-bot-arena"
@@ -5260,7 +5260,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "ayla~nonsense",
-      "about": "",
+      "about": "ayla~nonsense is credited for Just One Boss. The catalog places it under Reaction, records HTML5, JavaScript for this build, and gives February 12, 2018 as its release information.",
       "controls": [],
       "thumb": "pv1Gr5.png",
       "slug": "just-one-boss"
@@ -5275,7 +5275,7 @@
       "genre": "Teamwork Games",
       "build": "Unity WebGL",
       "dev": "Drludwig",
-      "about": "",
+      "about": "This entry identifies My Rusty Submarine with developer Drludwig, genre Teamwork, technology Unity WebGL, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "my-rusty-submarine"
@@ -5290,7 +5290,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Dedra Games",
-      "about": "",
+      "about": "OvO is cataloged as Platformer by Dedra Games; this browser entry uses HTML5, JavaScript, with release information recorded as June 2022.",
       "controls": [],
       "thumb": "ovo.png",
       "slug": "ovo"
@@ -5305,7 +5305,7 @@
       "genre": "Puzzle Games",
       "build": "Flash",
       "dev": "Dark Realm Studios",
-      "about": "",
+      "about": "Pandemic 2 has a compact catalog profile: Dark Realm Studios is the credited developer, Puzzle is the listed genre, Flash is the build type, and July 14, 2008 is the release value.",
       "controls": [],
       "thumb": "pandemic2.png",
       "slug": "pandemic-2"
@@ -5320,7 +5320,7 @@
       "genre": "Management Games",
       "build": "HTML5, JavaScript",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "According to the stored game record, Papa's Burgeria is a Management title by Flipline Studios, delivered through HTML5, JavaScript, with December 6, 2010 attached as release information.",
       "controls": [],
       "thumb": "splash.jpg",
       "slug": "papa-s-burgeria"
@@ -5335,7 +5335,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "Papa's Pizzaria is cataloged as Management by Flipline Studios; this browser entry uses Flash, with release information recorded as August 7, 2007.",
       "controls": [],
       "thumb": "papaspizzaria.jpg",
       "slug": "papa-s-pizzaria"
@@ -5367,7 +5367,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "R74n",
-      "about": "",
+      "about": "For Sandboxels, the stored metadata points to R74n as developer, Relaxing as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "sandboxels.jpg",
       "slug": "sandboxels"
@@ -5382,7 +5382,7 @@
       "genre": "Horror Games",
       "build": "Unity WebGL",
       "dev": "Kulu",
-      "about": "",
+      "about": "Santy is Home is presented here from the catalog record for Kulu: genre Horror, build technology Unity WebGL, release information not specified.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "santy-is-home"
@@ -5397,7 +5397,7 @@
       "genre": "Car Simulation Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The browser record for Sky Car Stunt lists Anonymous as developer and Car Simulation as genre. Its technology is Unity WebGL, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "512x512.jpg",
       "slug": "sky-car-stunt"
@@ -5412,7 +5412,7 @@
       "genre": "Action Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Snowbattle appears in the catalog as a Action title from Anonymous; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "img/logo.png",
       "slug": "snowbattle"
@@ -5427,7 +5427,7 @@
       "genre": "Card Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "According to the stored game record, Solitaire is a Card title by Anonymous, delivered through HTML5, JavaScript, with Unknown attached as release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "solitaire"
@@ -5442,7 +5442,7 @@
       "genre": "Text-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Sean the Human",
-      "about": "",
+      "about": "The browser record for The Hotel lists Sean the Human as developer and Text-Based Strategy as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "splash.png",
       "slug": "the-hotel"
@@ -5457,7 +5457,7 @@
       "genre": "Progression Games",
       "build": "Flash",
       "dev": "Foreverkul",
-      "about": "",
+      "about": "According to the stored game record, Toss the Turtle is a Progression title by Foreverkul, delivered through Flash, with August 17, 2009 attached as release information.",
       "controls": [],
       "thumb": "tosstheturtle.png",
       "slug": "toss-the-turtle"
@@ -5472,7 +5472,7 @@
       "genre": "Casual Games",
       "build": "HTML5, JavaScript",
       "dev": "Luigi Bonus",
-      "about": "",
+      "about": "For Yoshi's Fabrication Lab, the stored metadata points to Luigi Bonus as developer, Casual as genre, HTML5, JavaScript as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "icons/icon-512.png",
       "slug": "yoshi-s-fabrication-lab"
@@ -5504,7 +5504,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Lion Studios",
-      "about": "",
+      "about": "Mr Bullet belongs to the catalog’s Physics-Based Strategy group and is credited to Lion Studios; the indexed build uses HTML5, JavaScript and the release field is July 12, 2019.",
       "controls": [
         "Hold: Aim",
         "Release: Shoot"
@@ -5522,7 +5522,7 @@
       "genre": "RPG Games",
       "build": "HTML5, JavaScript",
       "dev": "Jeff Ramos",
-      "about": "",
+      "about": "The metadata attached to Mutazone names Jeff Ramos, labels the game RPG, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [
         "Arrow Keys: Move",
         "Note: WASD keys and dragging also work"
@@ -5540,7 +5540,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies Ninja Cat with developer Anonymous, genre Physics-Based Strategy, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [
         "Hold: Aim",
         "Release: Jump"
@@ -5558,7 +5558,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Dedra Games",
-      "about": "",
+      "about": "Dedra Games is credited for OvO 2. The catalog places it under Platformer, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [
         "Arrow Keys: Move"
       ],
@@ -5575,7 +5575,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Dedra Games",
-      "about": "",
+      "about": "The listing for OvO Dimensions credits Dedra Games, classifies it as Platformer, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [
         "Arrow Keys: Move"
       ],
@@ -5592,7 +5592,7 @@
       "genre": "Arcade Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The browser record for Pacman lists Anonymous as developer and Arcade as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [
         "Arrow Keys: Move",
         "P: Pause"
@@ -5610,7 +5610,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "RoboWhale",
-      "about": "",
+      "about": "According to the stored game record, Papa Cherry Saga is a Puzzle title by RoboWhale, delivered through HTML5, JavaScript, with December 2020 attached as release information.",
       "controls": [
         "Click: Action",
         "Drag: Switch"
@@ -5628,7 +5628,7 @@
       "genre": "Parking Games",
       "build": "HTML5, JavaScript",
       "dev": "Andriy Pidvirnyy",
-      "about": "",
+      "about": "This entry identifies Parking Fury with developer Andriy Pidvirnyy, genre Parking, technology HTML5, JavaScript, and a catalog release value of May 26, 2016.",
       "controls": [
         "Arrow / WASD Keys: Move",
         "P: Pause"
@@ -5646,7 +5646,7 @@
       "genre": "Parking Games",
       "build": "HTML5, JavaScript",
       "dev": "Andriy Pidvirnyy",
-      "about": "",
+      "about": "According to the stored game record, Parking Fury 2 is a Parking title by Andriy Pidvirnyy, delivered through HTML5, JavaScript, with March 23, 2017 attached as release information.",
       "controls": [
         "Arrow / WASD Keys: Move",
         "P: Pause"
@@ -5664,7 +5664,7 @@
       "genre": "Parking Games",
       "build": "HTML5, JavaScript",
       "dev": "Andriy Pidvirnyy",
-      "about": "",
+      "about": "Parking Fury 3 belongs to the catalog’s Parking group and is credited to Andriy Pidvirnyy; the indexed build uses HTML5, JavaScript and the release field is October 19, 2017.",
       "controls": [
         "Arrow / WASD Keys: Move",
         "P: Pause"
@@ -5682,7 +5682,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "For Penalty Kick Online, the stored metadata points to Anonymous as developer, Soccer as genre, HTML5, JavaScript as the browser technology, and November 5, 2020 as the release record.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "penalty-kick-online"
@@ -5697,7 +5697,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "DParrot",
-      "about": "",
+      "about": "The browser record for Penalty Shooters 3 lists DParrot as developer and Soccer as genre. Its technology is HTML5, JavaScript, while the stored release information reads October 2023.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "penalty-shooters-3"
@@ -5712,7 +5712,7 @@
       "genre": "Dueling Games",
       "build": "HTML5, JavaScript",
       "dev": "RHM Interactive",
-      "about": "",
+      "about": "The browser record for Pixel Smash Duel lists RHM Interactive as developer and Dueling as genre. Its technology is HTML5, JavaScript, while the stored release information reads March 2023.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "pixel-smash-duel"
@@ -5727,7 +5727,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Tour De Pizza",
-      "about": "",
+      "about": "The listing for Pizza Tower credits Tour De Pizza, classifies it as Platformer, and identifies HTML5, JavaScript as the technology; the release field is January 26, 2023.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "pizza-tower"
@@ -5742,7 +5742,7 @@
       "genre": "Relaxing Games",
       "build": "HTML5, JavaScript",
       "dev": "Zakeh Limited",
-      "about": "",
+      "about": "According to the stored game record, Pou is a Relaxing title by Zakeh Limited, delivered through HTML5, JavaScript, with 2021 attached as release information.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "pou"
@@ -5757,7 +5757,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "ZeptoLab",
-      "about": "",
+      "about": "Pudding Monsters is presented here from the catalog record for ZeptoLab: genre Puzzle, build technology HTML5, JavaScript, release information December 20, 2012.",
       "controls": [
         "Drag: Move"
       ],
@@ -5774,7 +5774,7 @@
       "genre": "Car Racing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Racing Monster Trucks names Anonymous, labels the game Car Racing, marks the browser build as HTML5, JavaScript, and records the release as Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "racing-monster-trucks"
@@ -5789,7 +5789,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Run 3 Space. The catalog places it under Endless Runner, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "run-3-space"
@@ -5804,7 +5804,7 @@
       "genre": "Action Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Rusher Crusher. The catalog places it under Action, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "rusher-crusher"
@@ -5819,7 +5819,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Wonder Group",
-      "about": "",
+      "about": "Save the Doge appears in the catalog as a Puzzle title from Wonder Group; its current entry is marked HTML5, JavaScript and carries a release record of July 12, 2022.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "save-the-doge"
@@ -5834,7 +5834,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Sling Tomb. The catalog places it under Physics-Based Strategy, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "sling-tomb"
@@ -5849,7 +5849,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Hunter Hamster Studio",
-      "about": "",
+      "about": "For Snail Bob 7, the stored metadata points to Hunter Hamster Studio as developer, Point and Click Strategy as genre, HTML5, JavaScript as the browser technology, and 2014 as the release record.",
       "controls": [],
       "thumb": "9aefc9ef4a7f4d5d8062cfb563cc658c-512x512.jpeg",
       "slug": "snail-bob-7"
@@ -5864,7 +5864,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Hunter Hamster Studio",
-      "about": "",
+      "about": "For Snail Bob 8, the stored metadata points to Hunter Hamster Studio as developer, Point and Click Strategy as genre, HTML5, JavaScript as the browser technology, and December 2014 as the release record.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "snail-bob-8"
@@ -5879,7 +5879,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Famobi",
-      "about": "",
+      "about": "Soccer Heads is presented here from the catalog record for Famobi: genre Soccer, build technology HTML5, JavaScript, release information October 2022.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "soccer-heads"
@@ -5894,7 +5894,7 @@
       "genre": "Clicker Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Space Bar Clicker has a compact catalog profile: Anonymous is the credited developer, Clicker is the listed genre, HTML5, JavaScript is the build type, and Unknown is the release value.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "space-bar-clicker"
@@ -5909,7 +5909,7 @@
       "genre": "Card Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Spider Solitaire belongs to the catalog’s Card group and is credited to Anonymous; the indexed build uses HTML5, JavaScript and the release field is Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "spider-solitaire"
@@ -5924,7 +5924,7 @@
       "genre": "Soccer Games",
       "build": "HTML5, JavaScript",
       "dev": "Punyrobot",
-      "about": "",
+      "about": "The listing for Super Liquid Soccer credits Punyrobot, classifies it as Soccer, and identifies HTML5, JavaScript as the technology; the release field is November 29, 2022.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "super-liquid-soccer"
@@ -5939,7 +5939,7 @@
       "genre": "Platformer Games",
       "build": "HTML5, JavaScript",
       "dev": "Nintendo",
-      "about": "",
+      "about": "The listing for Super Mario Wonder credits Nintendo, classifies it as Platformer, and identifies HTML5, JavaScript as the technology; the release field is October 20, 2023.",
       "controls": [],
       "thumb": "loading-logo.png",
       "slug": "super-mario-wonder"
@@ -5954,7 +5954,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Blumgi",
-      "about": "",
+      "about": "The listing for Swingo credits Blumgi, classifies it as Physics-Based Strategy, and identifies HTML5, JavaScript as the technology; the release field is Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "swingo"
@@ -5969,7 +5969,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "QKY Game Studio",
-      "about": "",
+      "about": "Tap Tap Shots belongs to the catalog’s Timing group and is credited to QKY Game Studio; the indexed build uses HTML5, JavaScript and the release field is June 2019.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "tap-tap-shots"
@@ -5984,7 +5984,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies Tower Crash 3D with developer Anonymous, genre Physics-Based Strategy, technology HTML5, JavaScript, and a catalog release value of Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "tower-crash-3d"
@@ -5999,7 +5999,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "InLogic Games",
-      "about": "",
+      "about": "Traffic Control belongs to the catalog’s Timing group and is credited to InLogic Games; the indexed build uses HTML5, JavaScript and the release field is April 11, 2023.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "traffic-control"
@@ -6014,7 +6014,7 @@
       "genre": "Reaction Games",
       "build": "HTML5, JavaScript",
       "dev": "Deer Cat Games",
-      "about": "",
+      "about": "The metadata attached to Tunnel Rush 2 names Deer Cat Games, labels the game Reaction, marks the browser build as HTML5, JavaScript, and records the release as not specified.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "tunnel-rush-2"
@@ -6029,7 +6029,7 @@
       "genre": "Timing Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Turn Turn is presented here from the catalog record for Anonymous: genre Timing, build technology HTML5, JavaScript, release information Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "turn-turn"
@@ -6044,7 +6044,7 @@
       "genre": "Biking Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The browser record for Wheelie Bike lists Anonymous as developer and Biking as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "icon-256.png",
       "slug": "wheelie-bike"
@@ -6059,7 +6059,7 @@
       "genre": "Biking Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Wheelie Bike 2 appears in the catalog as a Biking title from Anonymous; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "icon-256.png",
       "slug": "wheelie-bike-2"
@@ -6074,7 +6074,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "The browser record for Wheely 2 lists Mana Potion Studios as developer and Point and Click Strategy as genre. Its technology is HTML5, JavaScript, while the stored release information reads 1996.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-2"
@@ -6089,7 +6089,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "The metadata attached to Wheely 3 names Mana Potion Studios, labels the game Point and Click Strategy, marks the browser build as HTML5, JavaScript, and records the release as 1997.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-3"
@@ -6104,7 +6104,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "Wheely 4 has a compact catalog profile: Mana Potion Studios is the credited developer, Point and Click Strategy is the listed genre, HTML5, JavaScript is the build type, and January 2015 is the release value.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-4"
@@ -6119,7 +6119,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "Wheely 5 appears in the catalog as a Point and Click Strategy title from Mana Potion Studios; its current entry is marked HTML5, JavaScript and carries a release record of June 17, 2015.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-5"
@@ -6134,7 +6134,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "The listing for Wheely 6 credits Mana Potion Studios, classifies it as Point and Click Strategy, and identifies HTML5, JavaScript as the technology; the release field is September 2015.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-6"
@@ -6149,7 +6149,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "The browser record for Wheely 7 lists Mana Potion Studios as developer and Point and Click Strategy as genre. Its technology is HTML5, JavaScript, while the stored release information reads October 27, 2016.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-7"
@@ -6164,7 +6164,7 @@
       "genre": "Point and Click Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Mana Potion Studios",
-      "about": "",
+      "about": "The browser record for Wheely 8 lists Mana Potion Studios as developer and Point and Click Strategy as genre. Its technology is HTML5, JavaScript, while the stored release information reads September 2016.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wheely-8"
@@ -6179,7 +6179,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Wood Block Puzzle is cataloged as Puzzle by Anonymous; this browser entry uses HTML5, JavaScript, with release information recorded as Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "wood-block-puzzle"
@@ -6194,7 +6194,7 @@
       "genre": "Puzzle Games",
       "build": "HTML5, JavaScript",
       "dev": "Tomas Rychnovsky",
-      "about": "",
+      "about": "The browser record for Woodventure lists Tomas Rychnovsky as developer and Puzzle as genre. Its technology is HTML5, JavaScript, while the stored release information reads Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "woodventure"
@@ -6209,7 +6209,7 @@
       "genre": "Word Games",
       "build": "HTML5, JavaScript",
       "dev": "Josh Wardle",
-      "about": "",
+      "about": "This entry identifies Wordle Unlimited with developer Josh Wardle, genre Word, technology HTML5, JavaScript, and a catalog release value of October 2021.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "wordle-unlimited"
@@ -6224,7 +6224,7 @@
       "genre": "Word Games",
       "build": "HTML5, JavaScript",
       "dev": "Unico Studio",
-      "about": "",
+      "about": "Word Slide appears in the catalog as a Word title from Unico Studio; its current entry is marked HTML5, JavaScript and carries a release record of Unknown.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "word-slide"
@@ -6239,7 +6239,7 @@
       "genre": "Football Games",
       "build": "HTML5, JavaScript",
       "dev": "New Star Games",
-      "about": "",
+      "about": "Retro Bowl College has a compact catalog profile: New Star Games is the credited developer, Football is the listed genre, HTML5, JavaScript is the build type, and September 2023 is the release value.",
       "controls": [],
       "thumb": "unnamed.png",
       "slug": "retro-bowl-college"
@@ -6254,7 +6254,7 @@
       "genre": "Football Games",
       "build": "HTML5, JavaScript",
       "dev": "Axis Games",
-      "about": "",
+      "about": "This entry identifies Axis Football League with developer Axis Games, genre Football, technology HTML5, JavaScript, and a catalog release value of July 2010.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "axis-football-league"
@@ -6269,7 +6269,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Juicy Beast",
-      "about": "",
+      "about": "The metadata attached to Burrito Bison Revenge names Juicy Beast, labels the game Endless Runner, marks the browser build as HTML5, JavaScript, and records the release as February 27, 2012.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "burrito-bison-revenge"
@@ -6284,7 +6284,7 @@
       "genre": "Platformer Games",
       "build": "Flash",
       "dev": "Borne Games",
-      "about": "",
+      "about": "The browser record for Fancy Pants Adventures 2 lists Borne Games as developer and Platformer as genre. Its technology is Flash, while the stored release information reads January 9, 2008.",
       "controls": [],
       "thumb": "logo.avif",
       "slug": "fancy-pants-adventures-2"
@@ -6299,7 +6299,7 @@
       "genre": "Platformer Games",
       "build": "Flash",
       "dev": "Borne Games",
-      "about": "",
+      "about": "Fancy Pants Adventures 3 is presented here from the catalog record for Borne Games: genre Platformer, build technology Flash, release information April 5, 2012.",
       "controls": [],
       "thumb": "logo.avif",
       "slug": "fancy-pants-adventures-3"
@@ -6314,7 +6314,7 @@
       "genre": "Arcade Games",
       "build": "Flash",
       "dev": "Robotube Studios",
-      "about": "",
+      "about": "For Galaga, the stored metadata points to Robotube Studios as developer, Arcade as genre, Flash as the browser technology, and 2004 as the release record.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "galaga"
@@ -6329,7 +6329,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Flash",
       "dev": "Tanoku",
-      "about": "",
+      "about": "The browser record for Dummy Never Fails lists Tanoku as developer and Physics-Based Strategy as genre. Its technology is Flash, while the stored release information reads April 23, 2010.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "dummy-never-fails"
@@ -6344,7 +6344,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "Flash",
       "dev": "Tanoku",
-      "about": "",
+      "about": "Dummy Never Fails 2 has a compact catalog profile: Tanoku is the credited developer, Physics-Based Strategy is the listed genre, Flash is the build type, and December 5, 2011 is the release value.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "dummy-never-fails-2"
@@ -6359,7 +6359,7 @@
       "genre": "Shooting Games",
       "build": "Flash",
       "dev": "Wolf Games",
-      "about": "",
+      "about": "Gunblood belongs to the catalog’s Shooting group and is credited to Wolf Games; the indexed build uses Flash and the release field is Unknown.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "gunblood"
@@ -6374,7 +6374,7 @@
       "genre": "Progression Games",
       "build": "Flash",
       "dev": "Light Bringer Games",
-      "about": "",
+      "about": "Learn To Fly 2 appears in the catalog as a Progression title from Light Bringer Games; its current entry is marked Flash and carries a release record of June 16, 2011.",
       "controls": [],
       "thumb": "logo.jpeg",
       "slug": "learn-to-fly-2"
@@ -6389,7 +6389,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "Papa's Bakeria is cataloged as Management by Flipline Studios; this browser entry uses Flash, with release information recorded as March 14, 2016.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-bakeria"
@@ -6404,7 +6404,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "The browser record for Papa's Cheeseria lists Flipline Studios as developer and Management as genre. Its technology is Flash, while the stored release information reads June 10, 2015.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-cheeseria"
@@ -6419,7 +6419,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "This entry identifies Papa's Cupcakeria with developer Flipline Studios, genre Management, technology Flash, and a catalog release value of August 7, 2013.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-cupcakeria"
@@ -6434,7 +6434,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "This entry identifies Papa's Donuteria with developer Flipline Studios, genre Management, technology Flash, and a catalog release value of June 16, 2014.",
       "controls": [],
       "thumb": "logo.png",
       "slug": "papa-s-donuteria"
@@ -6449,7 +6449,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "The browser record for Papa's Freezeria lists Flipline Studios as developer and Management as genre. Its technology is Flash, while the stored release information reads August 5, 2011.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-freezeria"
@@ -6464,7 +6464,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "The metadata attached to Papa's Hot Doggeria names Flipline Studios, labels the game Management, marks the browser build as Flash, and records the release as November 19, 2012.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-hot-doggeria"
@@ -6479,7 +6479,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "The metadata attached to Papa's Pancakeria names Flipline Studios, labels the game Management, marks the browser build as Flash, and records the release as March 5, 2012.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-pancakeria"
@@ -6494,7 +6494,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "The browser record for Papa's Pastaria lists Flipline Studios as developer and Management as genre. Its technology is Flash, while the stored release information reads December 9, 2013.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-pastaria"
@@ -6509,7 +6509,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "Papa's Scooperia belongs to the catalog’s Management group and is credited to Flipline Studios; the indexed build uses Flash and the release field is July 24, 2018.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-scooperia"
@@ -6524,7 +6524,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "Papa's Sushiria belongs to the catalog’s Management group and is credited to Flipline Studios; the indexed build uses Flash and the release field is December 13, 2016.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-sushiria"
@@ -6539,7 +6539,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "The browser record for Papa's Taco Mia lists Flipline Studios as developer and Management as genre. Its technology is Flash, while the stored release information reads May 20, 2011.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-taco-mia"
@@ -6554,7 +6554,7 @@
       "genre": "Management Games",
       "build": "Flash",
       "dev": "Flipline Studios",
-      "about": "",
+      "about": "According to the stored game record, Papa's Wingeria is a Management title by Flipline Studios, delivered through Flash, with June 13, 2012 attached as release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "papa-s-wingeria"
@@ -6569,7 +6569,7 @@
       "genre": "Dueling Games",
       "build": "Flash",
       "dev": "Kevin Gu",
-      "about": "",
+      "about": "For Gun Mayhem, the stored metadata points to Kevin Gu as developer, Dueling as genre, Flash as the browser technology, and Unknown as the release record.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "gun-mayhem"
@@ -6584,7 +6584,7 @@
       "genre": "Dueling Games",
       "build": "Flash",
       "dev": "Kevin Gu",
-      "about": "",
+      "about": "This entry identifies Gun Mayhem 2 with developer Kevin Gu, genre Dueling, technology Flash, and a catalog release value of August 13, 2012.",
       "controls": [],
       "thumb": "logo.webp",
       "slug": "gun-mayhem-2"
@@ -6599,7 +6599,7 @@
       "genre": "Dueling Games",
       "build": "Flash",
       "dev": "Kevin Gu",
-      "about": "",
+      "about": "Kevin Gu is credited for Gun Mayhem Redux. The catalog places it under Dueling, records Flash for this build, and gives December 16, 2014 as its release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "gun-mayhem-redux"
@@ -6614,7 +6614,7 @@
       "genre": "Biking Games",
       "build": "HTML5, JavaScript",
       "dev": "Damp Gnat Games",
-      "about": "",
+      "about": "According to the stored game record, Icycle is a Biking title by Damp Gnat Games, delivered through HTML5, JavaScript, with October 25, 2017 attached as release information.",
       "controls": [],
       "thumb": "logo.avif",
       "slug": "icycle"
@@ -6629,7 +6629,7 @@
       "genre": "Car Racing Games",
       "build": "HTML5, JavaScript",
       "dev": "Gametornado",
-      "about": "",
+      "about": "The browser record for Monster Truck Destroyer lists Gametornado as developer and Car Racing as genre. Its technology is HTML5, JavaScript, while the stored release information reads April 22, 2013.",
       "controls": [],
       "thumb": "unnamed.png",
       "slug": "monster-truck-destroyer"
@@ -6644,7 +6644,7 @@
       "genre": "RPG Games",
       "build": "HTML5, JavaScript",
       "dev": "Game Freak",
-      "about": "",
+      "about": "Pokemon Emerald has a compact catalog profile: Game Freak is the credited developer, RPG is the listed genre, HTML5, JavaScript is the build type, and September 16, 2004 is the release value.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "pokemon-emerald"
@@ -6659,7 +6659,7 @@
       "genre": "RPG Games",
       "build": "HTML5, JavaScript",
       "dev": "Game Freak",
-      "about": "",
+      "about": "The listing for Pokemon Emerald 2 credits Game Freak, classifies it as RPG, and identifies HTML5, JavaScript as the technology; the release field is September 16, 2004.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "pokemon-emerald-2"
@@ -6674,7 +6674,7 @@
       "genre": "RPG Games",
       "build": "HTML5, JavaScript",
       "dev": "Game Freak",
-      "about": "",
+      "about": "Pokemon Firered belongs to the catalog’s RPG group and is credited to Game Freak; the indexed build uses HTML5, JavaScript and the release field is January 29, 2004.",
       "controls": [],
       "thumb": "logo.jpg",
       "slug": "pokemon-firered"
@@ -6689,7 +6689,7 @@
       "genre": "Physics-Based Strategy Games",
       "build": "HTML5, JavaScript",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Anonymous is credited for Bally. The catalog places it under Physics-Based Strategy, records HTML5, JavaScript for this build, and gives Unknown as its release information.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "bally"
@@ -6704,7 +6704,7 @@
       "genre": "Biking Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Bicycle Stunt 3D is presented here from the catalog record for Anonymous: genre Biking, build technology Unity WebGL, release information Unknown.",
       "controls": [],
       "thumb": "thumbnail.jpg",
       "slug": "bicycle-stunt-3d"
@@ -6719,7 +6719,7 @@
       "genre": "Escaping Games",
       "build": "HTML5, JavaScript",
       "dev": "Meow Beast",
-      "about": "",
+      "about": "This entry identifies Bob the Robber 4 with developer Meow Beast, genre Escaping, technology HTML5, JavaScript, and a catalog release value of July 30, 2017.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "bob-the-robber-4"
@@ -6734,7 +6734,7 @@
       "genre": "Casual Games",
       "build": "Unity WebGL",
       "dev": "BPTop",
-      "about": "",
+      "about": "The browser record for Bottle Flip 3D lists BPTop as developer and Casual as genre. Its technology is Unity WebGL, while the stored release information reads October 2019.",
       "controls": [],
       "thumb": "thumb.png",
       "slug": "bottle-flip-3d"
@@ -6749,7 +6749,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "Blayze Games",
-      "about": "",
+      "about": "The browser record for Bullet Force lists Blayze Games as developer and Shooter as genre. Its technology is Unity WebGL, while the stored release information reads June 13, 2016.",
       "controls": [],
       "thumb": "thumb.jpg",
       "slug": "bullet-force"
@@ -6764,7 +6764,7 @@
       "genre": "Racing Games",
       "build": "Unity WebGL",
       "dev": "XformGames",
-      "about": "",
+      "about": "For Burnin' Rubber 5 XS, the stored metadata points to XformGames as developer, Racing as genre, Unity WebGL as the browser technology, and October 15, 2020 as the release record.",
       "controls": [
         "Arrow Keys: Drive",
         "Z: Weapon 1",
@@ -6783,7 +6783,7 @@
       "genre": "Racing Games",
       "build": "Unity WebGL",
       "dev": "Brain Software",
-      "about": "",
+      "about": "Cartoon Mini Racing has a compact catalog profile: Brain Software is the credited developer, Racing is the listed genre, Unity WebGL is the build type, and June 5, 2018 is the release value.",
       "controls": [
         "Arrow Keys: Drive",
         "H: Reset Car"
@@ -6801,7 +6801,7 @@
       "genre": "Endless Runner Games",
       "build": "HTML5, JavaScript",
       "dev": "Player_03",
-      "about": "",
+      "about": "Run 2 belongs to the catalog’s Endless Runner group and is credited to Player_03; the indexed build uses HTML5, JavaScript and the release field is March 21, 2011.",
       "controls": [
         "Up Arrow: Jump",
         "Left / Right Arrows: Move"
@@ -6819,7 +6819,7 @@
       "genre": "Timing Games",
       "build": "Flash",
       "dev": "Nitrome",
-      "about": "",
+      "about": "According to the stored game record, Skywire is a Timing title by Nitrome, delivered through Flash, with March 28, 2007 attached as release information.",
       "controls": [],
       "thumb": "thumb.avif",
       "slug": "skywire"
@@ -6834,7 +6834,7 @@
       "genre": "Relaxing Games",
       "build": "Flash",
       "dev": "Tom Winkler",
-      "about": "",
+      "about": "The browser record for Whack your Boss lists Tom Winkler as developer and Relaxing as genre. Its technology is Flash, while the stored release information reads November 11, 2004.",
       "controls": [],
       "thumb": "thumb.jpg",
       "slug": "whack-your-boss"
@@ -6849,7 +6849,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "This entry identifies Crazy Tunnel 3D with developer Anonymous, genre Reaction, technology Unity WebGL, and a catalog release value of May 19, 2022.",
       "controls": [
         "Left / Right Arrows: Dash Left / Right",
         "Up Arrow / W Key: Jump"
@@ -6867,7 +6867,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Aron Sommer",
-      "about": "",
+      "about": "The listing for Eagle Ride credits Aron Sommer, classifies it as Reaction, and identifies Unity WebGL as the technology; the release field is October 2019.",
       "controls": [
         "Arrow / WASD Keys: Dash Left / Right"
       ],
@@ -6884,7 +6884,7 @@
       "genre": "Car Racing Games",
       "build": "Unity WebGL",
       "dev": "Toffee Games",
-      "about": "",
+      "about": "According to the stored game record, Earn to Die is a Car Racing title by Toffee Games, delivered through Unity WebGL, with March 11, 2013 attached as release information.",
       "controls": [
         "Up Arrow: Forward",
         "Down Arrow: Backward",
@@ -6905,7 +6905,7 @@
       "genre": "Endless Runner Games",
       "build": "Unity WebGL",
       "dev": "DQV Studio",
-      "about": "",
+      "about": "Electron Dash is presented here from the catalog record for DQV Studio: genre Endless Runner, build technology Unity WebGL, release information Unknown.",
       "controls": [
         "Left / Right Arrows: Dash Left / Right",
         "Up Arrow / Space: Jump",
@@ -6924,7 +6924,7 @@
       "genre": "Reaction Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The listing for Endless Tunnel credits Anonymous, classifies it as Reaction, and identifies Unity WebGL as the technology; the release field is Unknown.",
       "controls": [
         "Left / Right Arrow Keys: Turn Left / Right"
       ],
@@ -6941,7 +6941,7 @@
       "genre": "Casual Games",
       "build": "Unity WebGL",
       "dev": "Izyplay Game Studio",
-      "about": "",
+      "about": "Fisherman Life is presented here from the catalog record for Izyplay Game Studio: genre Casual, build technology Unity WebGL, release information February 2022.",
       "controls": [
         "Arrow / WASD Keys: Move"
       ],
@@ -6958,7 +6958,7 @@
       "genre": "Platformer Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Football Run names Anonymous, labels the game Platformer, marks the browser build as Unity WebGL, and records the release as Unknown.",
       "controls": [
         "Up Arrow: Jump",
         "Down Arrow: Slide / Smash"
@@ -6976,7 +6976,7 @@
       "genre": "Dueling Games",
       "build": "Unity WebGL",
       "dev": "Dreamon Studios",
-      "about": "",
+      "about": "The listing for Gladihoppers credits Dreamon Studios, classifies it as Dueling, and identifies Unity WebGL as the technology; the release field is December 19, 2018.",
       "controls": [
         "WASD Keys: Move",
         "Arrow Keys: Attack",
@@ -6996,7 +6996,7 @@
       "genre": "Endless Runner Games",
       "build": "Unity WebGL",
       "dev": "David Marquardt",
-      "about": "",
+      "about": "Glitch Dash belongs to the catalog’s Endless Runner group and is credited to David Marquardt; the indexed build uses Unity WebGL and the release field is February 21, 2018.",
       "controls": [
         "Arrow Keys: Move",
         "S: Use Shield"
@@ -7014,7 +7014,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "DiaoChangNan",
-      "about": "",
+      "about": "For Ohio Fortnite, the stored metadata points to DiaoChangNan as developer, Shooter as genre, Unity WebGL as the browser technology, and Unknown as the release record.",
       "controls": [
         "WASD Keys: Move",
         "Mouse: Aim",
@@ -7040,7 +7040,7 @@
       "genre": "Shooter Games",
       "build": "Unity WebGL",
       "dev": "Moosite SL",
-      "about": "",
+      "about": "Moosite SL is credited for GunSpin. The catalog places it under Shooter, records Unity WebGL for this build, and gives November 2019 as its release information.",
       "controls": [
         "Click: Shoot"
       ],
@@ -7058,7 +7058,7 @@
       "genre": "Car Racing Games",
       "build": "Flash",
       "dev": "Fancy Force",
-      "about": "",
+      "about": "The listing for Happy Wheels credits Fancy Force, classifies it as Car Racing, and identifies Flash as the technology; the release field is June 4, 2010.",
       "controls": [],
       "thumb": "logo.jpg",
       "new": true,
@@ -7074,7 +7074,7 @@
       "genre": "Action Games",
       "build": "Unity WebGL",
       "dev": "New Eich Games",
-      "about": "",
+      "about": "The listing for House of Hazards credits New Eich Games, classifies it as Action, and identifies Unity WebGL as the technology; the release field is September 2020.",
       "controls": [],
       "thumb": "logo.avif",
       "new": true,
@@ -7090,7 +7090,7 @@
       "genre": "Clicker Games",
       "build": "Unity WebGL",
       "dev": "NoPowerup",
-      "about": "",
+      "about": "NoPowerup is credited for Idle Light City. The catalog places it under Clicker, records Unity WebGL for this build, and gives January 17, 2020 as its release information.",
       "controls": [],
       "thumb": "logo.jpeg",
       "new": true,
@@ -7106,7 +7106,7 @@
       "genre": "Clicker Games",
       "build": "Unity WebGL",
       "dev": "NoPowerup",
-      "about": "",
+      "about": "Idle Tree City appears in the catalog as a Clicker title from NoPowerup; its current entry is marked Unity WebGL and carries a release record of Unknown.",
       "controls": [],
       "thumb": "logo.jpeg",
       "new": true,
@@ -7122,7 +7122,7 @@
       "genre": "Car Racing Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "The metadata attached to Impossible Monster Truck names Anonymous, labels the game Car Racing, marks the browser build as Unity WebGL, and records the release as Unknown.",
       "controls": [],
       "thumb": "logo.png",
       "new": true,
@@ -7138,7 +7138,7 @@
       "genre": "Car Racing Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "According to the stored game record, Indian Truck Simulator is a Car Racing title by Anonymous, delivered through Unity WebGL, with Unknown attached as release information.",
       "controls": [],
       "thumb": "logo.jpg",
       "new": true,
@@ -7154,7 +7154,7 @@
       "genre": "Tower Defense Games",
       "build": "Unity WebGL",
       "dev": "Beedo Games",
-      "about": "",
+      "about": "Jungle TD is presented here from the catalog record for Beedo Games: genre Tower Defense, build technology Unity WebGL, release information January 2019.",
       "controls": [],
       "thumb": "logo.avif",
       "new": true,
@@ -7170,7 +7170,7 @@
       "genre": "Tower Defense Games",
       "build": "Unity WebGL",
       "dev": "Ironhide Games",
-      "about": "",
+      "about": "Kingdom Rush belongs to the catalog’s Tower Defense group and is credited to Ironhide Games; the indexed build uses Unity WebGL and the release field is May 15, 2013.",
       "controls": [],
       "thumb": "logo.png",
       "new": true,
@@ -7186,7 +7186,7 @@
       "genre": "Tower Defense Games",
       "build": "Unity WebGL",
       "dev": "Anonymous",
-      "about": "",
+      "about": "Kingdom Defense Mercenary belongs to the catalog’s Tower Defense group and is credited to Anonymous; the indexed build uses Unity WebGL and the release field is Unknown.",
       "controls": [],
       "thumb": "logo.png",
       "new": true,
